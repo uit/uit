@@ -30,6 +30,7 @@
 #### Investment
 
 - [Investors](investors.md)
+- [VC](vc.md)
 
 #### Industries
 

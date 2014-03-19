@@ -2,7 +2,7 @@
 
 ### Programming
 
-[JavaScript](javascript)
+[JavaScript](javascript.md)
 
 ### Database
 

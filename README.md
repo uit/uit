@@ -19,6 +19,7 @@
 ### Team
 
 [Founders](founders.md)
+[Leadership](leadership.md)
 
 ### Incorporation
 

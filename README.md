@@ -38,6 +38,8 @@
 
 ### Pricing
 
+[Revenue Models](revenue-models.md)
+
 ### Marketing
 
 ### Supporting Customers

@@ -18,7 +18,7 @@
 
 ### Team
 
-[Founders](foudners.md)
+[Founders](founders.md)
 
 ### Incorporation
 

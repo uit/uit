@@ -28,6 +28,8 @@
 
 ### Investment
 
+[Investors](investors.md)
+
 ## Product
 
 ### Customer Discovery

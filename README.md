@@ -16,6 +16,10 @@
 
 ## Business
 
+### Team
+
+[Founders](foudners.md)
+
 ### Incorporation
 
 ### Intellectual Property

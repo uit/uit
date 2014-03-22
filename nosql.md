@@ -5,6 +5,8 @@
 - [Wikipedia: MongoDB](http://en.wikipedia.org/wiki/MongoDB)
 - [Wikipedia: CouchDB](http://en.wikipedia.org/wiki/CouchDB)
 
+- [Wikipedia: MapReduce](http://en.wikipedia.org/wiki/MapReduce)
+
 #### Getting Started
 
 ##### Redis
@@ -16,6 +18,13 @@
 ##### MongoDB
 
 - [MongoDB For Beginners: Introduction And Installation (Part 1/3)](http://www.hongkiat.com/blog/webdev-with-mongodb-part1/)
+
+##### CouchDB
+
+- [Installation](http://docs.couchdb.org/en/latest/install/index.html)
+- [CouchDB: The Definitive Guide - Getting Started](http://guide.couchdb.org/draft/tour.html)
+- [PouchDB (Javascript CouchDB/noSQL implementation using LocalStorage)](http://pouchdb.com/getting-started.html)
+
 
 #### Development
 
@@ -29,10 +38,16 @@
 
 - [A Basic introduction to Mongo DB](http://mongodb.github.io/node-mongodb-native/api-articles/nodekoarticle1.html)
 
+##### CouchDB
+- [Beginners' overview](http://torusoft.com/blog/5-days-of-code-curriculum-day-3)
+- [CouchDB-Lucene (Lightweight replacement for Solr)](https://github.com/rnewson/couchdb-lucene)
+- [GeoCouch (GeoSpatial plugin for CouchDB)](https://github.com/couchbase/geocouch/)
+
 #### Production
 
 - [Setting up Redis for Production Environment](http://blog.sensible.io/2013/08/20/setting-up-redis-for-production-environment.html)
 
 #### Exploring
 
-- [List of NoSQL Databases](http://nosql-database.org/)
+- [List of noSQL Databases](http://nosql-database.org/)
+- [Comparison of most popular noSQL databases](http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis)

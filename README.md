@@ -3,6 +3,8 @@
 #### Programming
 
 - [JavaScript](javascript.md)
+- [Python](https://www.python.org/about/gettingstarted/)
+
 
 #### Database
 
@@ -15,15 +17,17 @@
 
 #### Security
 
-- [Crytpo](crypto.md)
+- [Crypto](crypto.md)
 
 #### Distributed Systems
 
 - [APIs](apis.md)
+- [Queuing Systems](http://www.rabbitmq.com/how.html)
 
 #### Quality Assurance
 
 - [Unit Testing](unit-testing.md)
+- [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html)
 
 # Business
 

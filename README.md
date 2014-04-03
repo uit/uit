@@ -5,7 +5,6 @@
 - [JavaScript](javascript.md)
 - [Python](https://www.python.org/about/gettingstarted/)
 
-
 #### Database
 
 - [SQL](sql.md)
@@ -34,6 +33,7 @@
 - [iOS](ios.md)
 - [Android](android.md)
 - [Mobile Web Development](mobile-web.md)
+- [iOS/Android differences](http://www.objc.io/issue-11/)
 
 # Business
 

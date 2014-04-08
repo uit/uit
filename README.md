@@ -3,8 +3,8 @@
 #### Programming
 
 - [JavaScript](Programming/javascript.md)
-- [Python](python.md)
-- [Ruby](ruby.md)
+- [Python](Programming/python.md)
+- [Ruby](Programming/ruby.md)
 
 #### Database
 

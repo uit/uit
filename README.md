@@ -2,7 +2,7 @@
 
 #### Programming
 
-- [JavaScript](javascript.md)
+- [JavaScript](programming/javascript.md)
 - [Python](python.md)
 - [Ruby](ruby.md)
 

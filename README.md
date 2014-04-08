@@ -3,7 +3,7 @@
 #### Programming
 
 - [JavaScript](javascript.md)
-- [Python](https://www.python.org/about/gettingstarted/)
+- [Python](python.md)
 
 
 #### Database

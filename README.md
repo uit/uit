@@ -4,7 +4,7 @@
 
 - [JavaScript](javascript.md)
 - [Python](python.md)
-
+- [Ruby](ruby.md)
 
 #### Database
 

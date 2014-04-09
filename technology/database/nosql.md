@@ -4,7 +4,6 @@
 - [Wikipedia: Redis](http://en.wikipedia.org/wiki/Redis)
 - [Wikipedia: MongoDB](http://en.wikipedia.org/wiki/MongoDB)
 - [Wikipedia: CouchDB](http://en.wikipedia.org/wiki/CouchDB)
-
 - [Wikipedia: MapReduce](http://en.wikipedia.org/wiki/MapReduce)
 
 #### Getting Started

@@ -8,3 +8,5 @@
 
 ##Intro to Python: Building a Search Engine
 [Udacity.com](https://www.udacity.com/course/cs101)
+
+##Python for Informatics - [Free Immersive Self-Paced Course with Free Textbook](https://moodle.dr-chuck.com/moodle/course/view.php?id=5) 

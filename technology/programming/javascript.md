@@ -1,6 +1,6 @@
 ## Getting Started
 
-[Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript)
+- [Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript)
 
 ## Crockford YUI Videos (m4v)
 ### The JavaScript Programming Language
@@ -17,4 +17,8 @@
 ### Advanced JavaScript
 - [Douglas Crockford: "Advanced JavaScript" (1 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-1.m4v)
 - [Douglas Crockford: "Advanced JavaScript" (2 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-2.m4v)
+<<<<<<< HEAD
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
+=======
+- [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
+>>>>>>> FETCH_HEAD

@@ -2,45 +2,51 @@
 
 #### Programming
 
-- [JavaScript](javascript.md)
-- [Python](python.md)
-- [Ruby](ruby.md)
+- [JavaScript](technology/programming/javascript.md)
+- [Python](technology/programming/python.md)
+- [Ruby](technology/programming/ruby.md)
+
+#### Developer Tools
+
+- [GitHub](technology/developer-tools/github.md)
+- [Sublime Text 2](technology/developer-tools/sublime-text-2.md)
+- [Vim](technology/developer-tools/vim.md)
 
 #### Database
 
-- [SQL](sql.md)
-- [NoSQL](nosql.md)
+- [SQL](technology/database/sql.md)
+- [NoSQL](technology/database/nosql.md)
 
 #### Networking
 
-- [TCP/IP](tcp-ip.md)
+- [TCP/IP](technology/networking/tcp-ip.md)
 
 #### Security
 
-- [Crypto](crypto.md)
+- [Crypto](technology/security/crypto.md)
 
 #### Distributed Systems
 
-- [APIs](apis.md)
-- [Queuing Systems](http://www.rabbitmq.com/how.html)
+- [APIs](technology/distributed-systems/apis.md)
+- [Queuing Systems](technology/distributed-systems/queuing-systems.md)
 
 #### Quality Assurance
 
-- [Unit Testing](unit-testing.md)
-- [Continuous Integration](http://martinfowler.com/articles/continuousIntegration.html)
+- [Unit Testing](technology/quality-assurance/unit-testing.md)
+- [Continuous Integration](technology/quality-assurance/continuous-integration.md)
 
 #### Mobile Development
 
-- [iOS](ios.md)
-- [Android](android.md)
-- [Mobile Web Development](mobile-web.md)
+- [iOS](technology/mobile-development/ios.md)
+- [Android](technology/mobile-development/android.md)
+- [Mobile Web Development](technology/mobile-development/mobile-web.md)
 
 # Business
 
 #### Team
 
-- [Founders](founders.md)
-- [Leadership](leadership.md)
+- [Founders](business/team/founders.md)
+- [Leadership](business/team/leadership.md)
 
 #### Incorporation
 
@@ -50,12 +56,12 @@
 
 #### Investment
 
-- [Investors](investors.md)
-- [VC](vc.md)
+- [Investors](business/investment/investors.md)
+- [VC](business/investment/vc.md)
 
 #### Industries
 
-- [Transportation](transportation.md)
+- [Transportation](business/industries/transportation.md)
 
 # Product
 
@@ -65,7 +71,7 @@
 
 #### Pricing
 
-- [Revenue Models](revenue-models.md)
+- [Revenue Models](product/pricing/revenue-models.md)
 
 #### Marketing
 

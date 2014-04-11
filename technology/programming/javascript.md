@@ -20,3 +20,5 @@
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 
+## Assignment Operators
+- [Legend of Shorthand Operators & Their Meaning](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)

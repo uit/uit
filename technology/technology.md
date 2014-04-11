@@ -1,23 +1,13 @@
-#### Programming
+####[Programming](technology/programming/programming.md])
 
-- [JavaScript](technology/programming/javascript.md)
-- [Python](technology/programming/python.md)
-- [Ruby](technology/programming/ruby.md)
-
-#### Developer Tools
-
-- [GitHub](technology/developer-tools/github.md)
-- [Sublime Text 2](technology/developer-tools/sublime-text-2.md)
-- [Vim](technology/developer-tools/vim.md)
+####[Developer Tools](technology/developer-tools/developer-tools.md)
 
 #### Database
 
 - [SQL](technology/database/sql.md)
 - [NoSQL](technology/database/nosql.md)
 
-#### Networking
-
-- [TCP/IP](technology/networking/tcp-ip.md)
+####[Networking](technology/networking/networking.md)
 
 #### Security
 

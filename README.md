@@ -25,27 +25,7 @@ The program will accept 10 students who will spend 11 months learning to start t
 #[Technology](technology/technology.md)
 ####_-The technical skills & tools required to complete your project._
 
-# Business
-
-#### Team
-
-- [Founders](business/team/founders.md)
-- [Leadership](business/team/leadership.md)
-
-#### Incorporation
-
-#### Intellectual Property
-
-#### Employees
-
-#### Investment
-
-- [Investors](business/investment/investors.md)
-- [VC](business/investment/vc.md)
-
-#### Industries
-
-- [Transportation](business/industries/transportation.md)
+#[Business](business/business.md)
 
 # Product
 

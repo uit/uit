@@ -1,4 +1,4 @@
-####[Programming](technology/programming/programming.md])
+####[Programming](technology/programming/programming.md)
 
 ####[Developer Tools](technology/developer-tools/developer-tools.md)
 

@@ -1,13 +1,13 @@
-#### [Programming](technology/programming/programming.md)
+#### [Programming](programming/programming.md)
 
-#### [Developer Tools](technology/developer-tools/developer-tools.md)
+#### [Developer Tools](developer-tools/developer-tools.md)
 
 #### Database
 
 - [SQL](technology/database/sql.md)
 - [NoSQL](technology/database/nosql.md)
 
-####[Networking](technology/networking/networking.md)
+####[Networking](networking/networking.md)
 
 #### Security
 

@@ -1,6 +1,7 @@
 ## Getting Started
 
-- [Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript)
+###Codeacademy
+- [Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript) - Interactive course for beginners.
 
 ## Crockford YUI Videos (m4v)
 ### The JavaScript Programming Language

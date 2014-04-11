@@ -1,4 +1,4 @@
-####[Home](README.md) > [Technology](technology.md) > _Programming_
+####[Home](README.md) > [Technology](technology/technology.md) > _Programming_
 
 - [JavaScript](technology/programming/javascript.md)
 - [Python](technology/programming/python.md)

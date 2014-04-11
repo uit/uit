@@ -1,6 +1,6 @@
 #### [Programming](technology/programming/programming.md)
 
-#### [Developer Tools](technology/developer-tools/developer-tools.md)
+#### [Developer Tools](technology/developer-tools/_developer-tools.md)
 
 #### Database
 

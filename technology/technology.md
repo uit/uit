@@ -1,30 +1,17 @@
+#### [Home](README.md) > _Technology_
+
 #### [Programming](programming/programming.md)
 
 #### [Developer Tools](developer-tools/developer-tools.md)
 
-#### Database
+#### [Database](database/database.md)
 
-- [SQL](technology/database/sql.md)
-- [NoSQL](technology/database/nosql.md)
+#### [Networking](networking/networking.md)
 
-####[Networking](networking/networking.md)
+#### [Security](security/security.md)
 
-#### Security
+#### [Distributed Systems](distributed-systems/distributed-systems.md)
 
-- [Crypto](technology/security/crypto.md)
+#### [Quality Assurance](quality-assurance/quality-assurance.md)
 
-#### Distributed Systems
-
-- [APIs](technology/distributed-systems/apis.md)
-- [Queuing Systems](technology/distributed-systems/queuing-systems.md)
-
-#### Quality Assurance
-
-- [Unit Testing](technology/quality-assurance/unit-testing.md)
-- [Continuous Integration](technology/quality-assurance/continuous-integration.md)
-
-#### Mobile Development
-
-- [iOS](technology/mobile-development/ios.md)
-- [Android](technology/mobile-development/android.md)
-- [Mobile Web Development](technology/mobile-development/mobile-web.md)
+#### [Mobile Development](mobile-development/mobile-development.md)

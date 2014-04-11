@@ -7,7 +7,12 @@ Everything an aspiring founder needs to build their startup is online - Includin
 
 ######_How Can You Help?_
 
-Submitting tutorials, blogs, videos, courses, etc. Anything that is useful.
+By submitting content that would help a student complete a project such as:
+
+- tutorials 
+- blogs 
+- videos
+- courses
 
 
 ####About UIT

@@ -8,3 +8,6 @@
 
 ### Simple Development Suite
 [MIT App Inventor](http://appinventor.mit.edu/explore/)
+
+### Building Mobile Applications
+[Open Course from Harvard Extension School](http://cs76.tv/2012/spring/)

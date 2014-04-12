@@ -1,4 +1,4 @@
 ##_Database_
 
-- [SQL](database/sql.md)
-- [NoSQL](database/nosql.md)
+- [SQL](sql.md)
+- [NoSQL](nosql.md)

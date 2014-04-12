@@ -1,2 +1,4 @@
-- [Unit Testing](technology/quality-assurance/unit-testing.md)
-- [Continuous Integration](technology/quality-assurance/continuous-integration.md)
+##_Quality Assurance_
+
+- [Unit Testing](unit-testing.md)
+- [Continuous Integration](continuous-integration.md)

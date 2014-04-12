@@ -1,11 +1,11 @@
 _Product_
 
-#### [Customer Discovery](customer-discovery/customer-discovery.md)
+#### [Customer Discovery](customer-discovery/README.md)
 
-#### [Customer Acquisition](customer-aquisition/customer-aquisition.md)
+#### [Customer Acquisition](customer-aquisition/README.md)
 
-#### [Pricing](pricing/pricing.md)
+#### [Pricing](pricing/README.md)
 
-#### [Marketing](marketing/marketing.md)
+#### [Marketing](marketing/README.md)
 
-#### [Supporting Customers](supporting-customers/supporting-customers.md)
+#### [Supporting Customers](supporting-customers/README.md)

@@ -1,13 +1,13 @@
 _Business_
 
-#### [Team](team/team.md)
+#### [Team](team/README.md)
 
-#### [Incorporation](incorporation/incorporation.md)
+#### [Incorporation](incorporation/README.md)
 
-#### [Intellectual Property](intellectual-property/intellectual-property.md)
+#### [Intellectual Property](intellectual-property/README.md)
 
-#### [Employees](employees/employees.md)
+#### [Employees](employees/README.md)
 
-#### [Investment](investment/investment.md)
+#### [Investment](investment/README.md)
 
-#### [Industries](industries/industries.md)
+#### [Industries](industries/README.md)

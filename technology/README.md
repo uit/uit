@@ -1,17 +1,17 @@
 _Technology_
 
-#### [Programming](programming/programming.md)
+#### [Programming](programming/README.md)
 
-#### [Developer Tools](developer-tools/developer-tools.md)
+#### [Developer Tools](developer-tools/README.md)
 
-#### [Database](database/database.md)
+#### [Database](database/README.md)
 
-#### [Networking](networking/networking.md)
+#### [Networking](networking/README.md)
 
-#### [Security](security/security.md)
+#### [Security](security/README.md)
 
-#### [Distributed Systems](distributed-systems/distributed-systems.md)
+#### [Distributed Systems](distributed-systems/README.md)
 
-#### [Quality Assurance](quality-assurance/quality-assurance.md)
+#### [Quality Assurance](quality-assurance/README.md)
 
-#### [Mobile Development](mobile-development/mobile-development.md)
+#### [Mobile Development](mobile-development/README.md)

@@ -1,3 +1,5 @@
+_Business_
+
 #### [Team](team/team.md)
 
 #### [Incorporation](incorporation/incorporation.md)

@@ -1,3 +1,3 @@
-_Pricing_
+##_Pricing_
 
-- [Revenue Models](product/pricing/revenue-models.md)
+- [Revenue Models](revenue-models.md)

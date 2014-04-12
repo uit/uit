@@ -1,1 +1,3 @@
-- [Crypto](technology/security/crypto.md)
+##_Security_
+
+- [Crypto](crypto.md)

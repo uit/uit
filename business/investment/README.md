@@ -1,4 +1,4 @@
-_Investment_
+##_Investment_
 
-- [Investors](business/investment/investors.md)
-- [VC](business/investment/vc.md)
+- [Investors](investors.md)
+- [VC](vc.md)

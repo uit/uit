@@ -1,4 +1,4 @@
-_Team_
+##_Team_
 
-- [Founders](business/team/founders.md)
-- [Leadership](business/team/leadership.md)
+- [Founders](founders.md)
+- [Leadership](leadership.md)

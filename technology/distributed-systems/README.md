@@ -1,2 +1,4 @@
-- [APIs](technology/distributed-systems/apis.md)
-- [Queuing Systems](technology/distributed-systems/queuing-systems.md)
+##_Distributed Systems_
+
+- [APIs](apis.md)
+- [Queuing Systems](queuing-systems.md)

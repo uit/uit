@@ -1,5 +1,5 @@
 _Programming_
 
-- [JavaScript](technology/programming/javascript.md)
-- [Python](technology/programming/python.md)
-- [Ruby](technology/programming/ruby.md)
+- [JavaScript](javascript.md)
+- [Python](python.md)
+- [Ruby](ruby.md)

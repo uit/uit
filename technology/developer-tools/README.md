@@ -5,4 +5,3 @@
 - [Vim](vim.md)
 - xCode
 - eclipse
-- 

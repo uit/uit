@@ -1,5 +1,5 @@
-_Developer Tools_
+##_Developer Tools_
 
-- [GitHub](technology/developer-tools/github.md)
-- [Sublime Text 2](technology/developer-tools/sublime-text-2.md)
-- [Vim](technology/developer-tools/vim.md)
+- [GitHub](github.md)
+- [Sublime Text 2](sublime-text-2.md)
+- [Vim](vim.md)

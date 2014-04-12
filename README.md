@@ -26,5 +26,6 @@ The program will accept 10 students who will spend 11 months learning to start t
 ####_-The technical skills & tools required to complete your project._
 
 #[Business](business/README.md)
+####_-Resources to help optimize your experience with investments, legalities, co-founders and employees._
 
 #[Product](product/README.md)

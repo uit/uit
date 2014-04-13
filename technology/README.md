@@ -15,3 +15,5 @@
 #### [Quality Assurance](quality-assurance/README.md)
 
 #### [Mobile Development](mobile-development/README.md)
+
+#### [Terminology](terminology/README.md)

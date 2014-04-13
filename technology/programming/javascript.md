@@ -3,6 +3,9 @@
 ###Codeacademy
 - [Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript) - Interactive course for beginners.
 
+###Eloquent JavaScript "hyper-book"
+- [Eloquent JS](http://eloquentjavascript.net/contents.html)
+
 ## Crockford YUI Videos (m4v)
 ### The JavaScript Programming Language
 - [Douglas Crockford: "The JavaScript Programming Language"/1 of 4](http://yui.zenfs.com/theater/crockford-tjpl-1.m4v)

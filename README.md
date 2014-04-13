@@ -29,4 +29,4 @@ The program will accept 10 students who will spend 11 months learning to start t
 ####_-Resources to help optimize your experience with investments, legalities, co-founders and employees._
 
 #[Product](product/README.md)
-####_-Whether it's a physical product or a service, app or idea. Here's the content to keep you on track.
+####_-Whether it's a physical product or a service, app or idea. Here's the content to keep you on track._

@@ -17,3 +17,8 @@
 
 ##Python for Informatics 
 [Immersive Self-Paced Course with Textbook](https://moodle.dr-chuck.com/moodle/course/view.php?id=5)
+
+##Invent Your Own Computer Games with Python
+- [InventWithPython.com](http://inventwithpython.com/chapters/)
+- [InventWithPython.com](http://inventwithpython.com/pygame/chapters/)
+- [Ideas for games with code examples](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)

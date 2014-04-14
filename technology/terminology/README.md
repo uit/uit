@@ -7,3 +7,4 @@
 #_Glossaries_
 
 - Python [*Glossary*](https://docs.python.org/2/glossary.html#glossary)
+- JavaScript [*Glossary*](http://www.codecademy.com/glossary/javascript#arrays)

@@ -5,9 +5,9 @@ An open-source curriculum for aspiring founders developed by technology professi
 
 Everything an aspiring founder needs to build their startup is online - Including how to code, acquire users, and raise money - It’s all there. The tricky part is in knowing what to search for, and what is worth reading. With years of experience, we know what’s important to learn, and we know the best resources. We can pool our collective knowledge into an open-source startup curriculum, based purely on existing, freely available content.
 
-######_How Can You Help?_
+######_How Can You [Help](contributing/README.md)?_
 
-By submitting content that would help a student complete a project such as:
+By [submitting](contributing/README.md) content that would help a student complete a project such as:
 
 - tutorials
 - blogs

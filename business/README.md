@@ -11,3 +11,5 @@
 #### [Investment](investment/README.md)
 
 #### [Industries](industries/README.md)
+
+#### [Management](management/README.md)

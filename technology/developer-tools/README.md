@@ -1,6 +1,6 @@
 ##_Developer Tools_
 
-- [GitHub](github.md) -  _web-based hosting service for software development projects that use the Git revision control system._
+- [GitHub](github.md) - web-based hosting service for software development projects that use the Git revision control system.
 - [Sublime Text 2](sublime-text-2.md) - is a cross-platform text and source code editor, with a Python API. 
 - [Vim](vim.md) - a command line interface and a standalone application in a graphical user interface.
 - [Xcode](xcode.md) -  IDE containing a suite of software development tools developed by Apple for developing software for OS X and iOS.

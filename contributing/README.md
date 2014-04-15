@@ -1,8 +1,8 @@
 #Contributing Guidelines
 
 - Simplest way is to create a [New Issue](https://github.com/uit/uit/issues/new) and put the link to the content there with a short desciption of why it's useful and we'll do the rest.
-- **OR** [Fork](https://help.github.com/articles/fork-a-repo) this repo and after adding new links to it, make a [Pull Request](https://help.github.com/articles/using-pull-requests).
-- **OR** you can send gavinmail@gmail.com an email with the subject of [UIT Content](mailto:gavinmail@gmailcom?subject=UIT%20Content:).
+- [Fork](https://help.github.com/articles/fork-a-repo) this repo and after adding new links to it, make a [Pull Request](https://help.github.com/articles/using-pull-requests).
+- You can send gavinmail@gmail.com an email with the subject of [UIT Content](mailto:gavinmail@gmailcom?subject=UIT%20Content:).
 
 ## Project Root
 The project root should have a ```README.md``` file

@@ -1,12 +1,8 @@
 #Contributing Guidelines
 
-**First make sure that the link doesn't exist in repository.** Then:
-
 + Simplest way is to create a [New Issue](https://github.com/uit/uit/issues/new) and put the link to the content there with a short desciption of why it's useful and we'll do the rest.
-+ You also can [Fork](https://help.github.com/articles/fork-a-repo) this repo and after adding new links to it, make a [Pull Request](https://help.github.com/articles/using-pull-requests).
-+ You also can send gavinmail@gmail.com an email with the subject of [UIT Content](mailto:gavinmail@gmailcom?subject=UIT%20Content&body=Here's an awesome link:) to me.
-
-And also if you aren't familiar with git, [Learn it](http://try.github.io/)!
++ *OR* [Fork](https://help.github.com/articles/fork-a-repo) this repo and after adding new links to it, make a [Pull Request](https://help.github.com/articles/using-pull-requests).
++ *OR* you can send gavinmail@gmail.com an email with the subject of [UIT Content](mailto:gavinmail@gmailcom?subject=UIT%20Content:).
 
 ## Project Root
 The project root should have a ```README.md``` file

@@ -12,3 +12,8 @@
 - [What is PostgreSQL](http://www.postgresqltutorial.com/what-is-postgresql/)
 - [The Easy Way to Get Started With PostgreSQL on a Mac](http://chris-schmitz.com/the-easy-way-to-get-started-with-postgresql-on-a-mac-postgres-dot-app-and-induction/)
 - [SQLzoo](http://sqlzoo.net/wiki/Main_Page)
+
+####Cheat Sheets
+- [SQL](http://www.sql.su/)
+- [MySQL](http://cse.unl.edu/~sscott/ShowFiles/SQL/CheatSheet/SQLCheatSheet.html)
+- [PostgreSQL](http://www.cheat-sheets.org/saved-copy/postgresql-cheat-sheet.pdf)

@@ -26,3 +26,6 @@
 
 ## Assignment Operators
 - [Legend of Shorthand Operators & Their Meaning](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
+
+##Cheat Sheets
+- [Cheat Sheet](http://www.cheat-sheets.org/saved-copy/javascript_cheat_sheet.png)

@@ -22,3 +22,6 @@
 - [InventWithPython.com](http://inventwithpython.com/chapters/)
 - [InventWithPython.com](http://inventwithpython.com/pygame/chapters/)
 - [Ideas for games with code examples](http://inventwithpython.com/blog/2012/02/20/i-need-practice-programming-49-ideas-for-game-clones-to-code/)
+
+##Cheat Sheet
+- [Cheat Sheet](http://www.cheat-sheets.org/saved-copy/PQRC-2.4-A4-latest.pdf)

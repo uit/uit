@@ -12,7 +12,6 @@ experience. Ultimately, the student will identify an opportunity and acquire
 the necessary skills to launch a real start-up.
 
 
-
 ######_How Can You [Help](contributing/README.md)?_
 
 By [submitting](contributing/README.md) content that would help a student complete a project such as:

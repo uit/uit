@@ -1,7 +1,11 @@
-# Contributing Guidelines
+#Contributing Guidelines
+
+- Simplest way is to create a [New Issue](https://github.com/uit/uit/issues/new) and put the link to the content there with a short desciption of why it's useful and we'll do the rest.
+- [Fork](https://help.github.com/articles/fork-a-repo) this repo and after adding new links to it, make a [Pull Request](https://help.github.com/articles/using-pull-requests).
+- You can send gavinmail@gmail.com an email with the subject of [UIT Content](mailto:gavinmail@gmailcom?subject=UIT%20Content:).
 
 ## Project Root
-The project root should have a README.md file
+The project root should have a ```README.md``` file
 
 1. Describe the curriculum
 2. Help students get started
@@ -11,7 +15,7 @@ The project root should have a README.md file
  - Describe who can help and why it is important.
 
 ## Folders
-Each folder should have a simple name and a README.md file
+Each folder should have a simple name and a ```README.md``` file
 
 1. Describe the topic
 2. Introduce subjects

@@ -4,15 +4,6 @@
 - [Fork](https://help.github.com/articles/fork-a-repo) this repo and after adding new links to it, make a [Pull Request](https://help.github.com/articles/using-pull-requests).
 - You can send gavinmail@gmail.com an email with the subject of [UIT Content](mailto:gavinmail@gmailcom?subject=UIT%20Content:).
 
-## Project Root
-The project root should have a ```README.md``` file
-
-1. Describe the curriculum
-2. Help students get started
- - Introduce the main topics and why they are important.
- - Link each topic to a folder (no external links).
-3. Help contributors get started
- - Describe who can help and why it is important.
 
 ## Folders
 Each folder should have a simple name and a ```README.md``` file

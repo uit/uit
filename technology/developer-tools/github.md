@@ -8,7 +8,7 @@
 - [Git Crash Course](http://www.tangowithdjango.com/book/chapters/git.html#git-crash-course)
 - [Interactive Tutorial to Github Branching](http://pcottle.github.io/learnGitBranching/)
 
-##Textbooks
+##eBooks
 
 - [Conversational Git](http://blog.anvard.org/conversational-git/)
 - [Git From The Bottom Up](http://ftp.newartisans.com/pub/git.from.bottom.up.pdf) (PDF)

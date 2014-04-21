@@ -3,7 +3,7 @@
 ['The Java Tutorials'](http://docs.oracle.com/javase/tutorial/)
 [Cheat Sheet](http://www.cheat-sheets.org/saved-copy/java_quickref.pdf)
 
-##Textbooks
+##eBooks
 
 - [Agile Java](http://www.langrsoft.com/ftp/agileJava/) - Jeff Langr
 - [Animation/Games in Java](http://www.heatonresearch.com/articles/series/3)

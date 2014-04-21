@@ -30,7 +30,7 @@
 ##Cheat Sheets
 - [Cheat Sheet](http://www.cheat-sheets.org/saved-copy/javascript_cheat_sheet.png)
 
-##Textbooks
+##eBooks
 - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 - [Dev Docs](http://devdocs.io/)

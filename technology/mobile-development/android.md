@@ -15,7 +15,7 @@
 ### Following the resources used by a developer used to publish his first app
 [ootpapps.com](http://ootpapps.com/wp-content/uploads/2013/02/Android-App-Development-Cheat-Sheet-ootpapps.com-Publication.pdf)
 
-##Texts
+##eBooks
 
 - [Android 4 App Development Essentials](http://www.techotopia.com/index.php/Android_4_App_Development_Essentials)
 - [Android Programming Guide for Beginners](http://eduonix.com/offers/Android_ebook_free_offer.html) (PDF - need email confirmation)

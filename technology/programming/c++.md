@@ -3,7 +3,8 @@
 ##Cheat Sheet
 - [Cheat Sheet](http://www.dreamincode.net/downloads/ref_sheets/cpp_reference_sheet.pdf)
 
-##Textbooks
+##eBooks
+
 - [C++ Annotations](http://cppannotations.sourceforge.net/)
 - [C++ Cookbook](http://staff.ppu.edu/dkhalid/O'Reilly%20-%20C++%20Cookbook%20%282007%29.pdf) (PDF)
 - [C++ GUI Programming With Qt 3](http://www.computer-books.us/cpp_0010.php)

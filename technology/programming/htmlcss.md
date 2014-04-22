@@ -1,13 +1,14 @@
 ##_HTML_
 
 - [Codeacademy](http://www.codecademy.com/tracks/web)
+- [HTML Tutorial](http://www.w3schools.com/html/default.asp)
 
 ### - eBooks
 
 
 ##_CSS_
 
-
+- [CSS Tutorial](http://www.w3schools.com/css/default.asp)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 
@@ -25,6 +26,7 @@
 
 ##_HTML5_
 
+- [HTML5 Tutorial](http://www.w3schools.com/html/html5_intro.asp)
 - [HTML5 Game Development](https://www.udacity.com/course/cs255)
 
 ### - eBooks

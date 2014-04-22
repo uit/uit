@@ -25,5 +25,7 @@
 
 ##_HTML5_
 
+- [HTML5 Game Development](https://www.udacity.com/course/cs255)
+
 ### - eBooks
 - [Dive into HTML5](http://diveintohtml5.info/)

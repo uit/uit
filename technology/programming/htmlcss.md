@@ -4,17 +4,12 @@
 - [HTML Tutorial](http://www.w3schools.com/html/default.asp)
 - [Mozilla Developer Network - Learn HTML](https://developer.mozilla.org/en-US/learn/html)
 
-### - eBooks
-
-
 ##_CSS_
 
 - [CSS Tutorial](http://www.w3schools.com/css/default.asp)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 - [Mozilla Developer Network - Learn CSS](https://developer.mozilla.org/en-US/learn/css)
-
-### - eBooks
 
 ##_HTML & CSS_
 

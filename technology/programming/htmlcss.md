@@ -10,13 +10,13 @@
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Magic of CSS](http://adamschwartz.co/magic-of-css/)
 - [Mozilla Developer Network - Learn CSS](https://developer.mozilla.org/en-US/learn/css)
+- [Interactive CSS3](http://css3please.com/)
 
 ##_HTML & CSS_
 
 - [HTML, CSS and Javascript](https://dash.generalassemb.ly/)
 - [Code Guide for sustainable HTML and CSS](http://mdo.github.io/code-guide/)
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
-- [Interactive CSS](http://css3please.com/)
 
 ### - eBooks
 - [Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)

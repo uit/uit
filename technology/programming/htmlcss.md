@@ -16,6 +16,7 @@
 - [HTML, CSS and Javascript](https://dash.generalassemb.ly/)
 - [Code Guide for sustainable HTML and CSS](http://mdo.github.io/code-guide/)
 - [Google HTML/CSS Style Guide](http://google-styleguide.googlecode.com/svn/trunk/htmlcssguide.xml)
+- [Interactive CSS](http://css3please.com/)
 
 ### - eBooks
 - [Beginner's Guide to HTML & CSS](http://learn.shayhowe.com/html-css/)

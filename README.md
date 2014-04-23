@@ -1,20 +1,21 @@
-###Introducing, UIT
-An open-source curriculum for aspiring founders developed by technology professionals and proven entrepreneurs.
+# [UIT](https://github.com/uit/uit/)
 
-### Students, Start Learning
+An open-source curriculum for startup founders. [Developed](contributing/README.md) by technology professionals and proven entrepreneurs.
 
-#[Technology](technology/README.md)
+## Getting Started
+
+###[Technology](technology/README.md)
 ####_-The technical skills & tools required to complete your project._
 
-#[Business](business/README.md)
+###[Business](business/README.md)
 ####_-Resources to help optimize your experience with investments, legalities, co-founders and employees._
 
-#[Product](product/README.md)
+###[Product](product/README.md)
 ####_-Whether it's a physical product, service, app or idea. Here's the content to keep you on track._
 
-### Technologists & Entrepreneurs, We Need Your Help
+## Getting Involved
 
-####We Can Improve Technology and Business Education
+###We Can Improve Technology and Business Education
 
 Everything an aspiring founder needs to build their startup is online - Including how to code, acquire users, and raise money - It’s all there. The tricky part is in knowing what to search for, and what is worth reading. With years of experience, we know what’s important to learn, and we know the best resources. We can pool our collective knowledge into an open-source startup curriculum, based purely on existing, freely available content. 
 

@@ -3,6 +3,9 @@
 ###Codeacademy
 - [Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript) - Interactive course for beginners.
 
+###Mozilla Developer Network
+- [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
+
 ###Eloquent JavaScript "hyper-book"
 - [Eloquent JS](http://eloquentjavascript.net/contents.html)
 

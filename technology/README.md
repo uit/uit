@@ -17,3 +17,7 @@
 #### [Mobile Development](mobile-development/README.md)
 
 #### [Terminology](terminology/README.md)
+
+#### [Cloud](cloud/README.md)
+
+#### [Servers](servers/README.md)

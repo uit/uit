@@ -1,5 +1,7 @@
 ## Getting Started
 
+
+
 ###Codeacademy
 - [Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript) - Interactive course for beginners.
 

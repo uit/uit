@@ -3,6 +3,7 @@
 - [Codeacademy](http://www.codecademy.com/tracks/web)
 - [HTML Tutorial](http://www.w3schools.com/html/default.asp)
 - [Mozilla Developer Network - Learn HTML](https://developer.mozilla.org/en-US/learn/html)
+- [HTML Reference Material](http://www.w3schools.com/TAgs/default.asp)
 
 ##_CSS_
 

@@ -1,5 +1,6 @@
 ##_Servers_
 
+- [SSH](ssh.md)
 - [Ubuntu](ubuntu.md)
 - [CentOS](centos.md)
 - [Redhat](redhat.md)

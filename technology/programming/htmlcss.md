@@ -7,6 +7,7 @@
 
 ##_CSS_
 
+- [Codeacademy](http://www.codecademy.com/courses/css-coding-with-style/0/1)
 - [CSS Tutorial](http://www.w3schools.com/css/default.asp)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Magic of CSS](http://adamschwartz.co/magic-of-css/)

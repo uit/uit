@@ -1,13 +1,13 @@
 ##_HTML_
 
-- [Codeacademy](http://www.codecademy.com/tracks/web)
+- [Codecademy](http://www.codecademy.com/tracks/web)
 - [HTML Tutorial](http://www.w3schools.com/html/default.asp)
 - [Mozilla Developer Network - Learn HTML](https://developer.mozilla.org/en-US/learn/html)
 - [HTML Reference Material](http://www.w3schools.com/TAgs/default.asp)
 
 ##_CSS_
 
-- [Codeacademy](http://www.codecademy.com/courses/css-coding-with-style/0/1)
+- [Codecademy](http://www.codecademy.com/courses/css-coding-with-style/0/1)
 - [CSS Tutorial](http://www.w3schools.com/css/default.asp)
 - [Learn CSS Layout](http://learnlayout.com/)
 - [Magic of CSS](http://adamschwartz.co/magic-of-css/)

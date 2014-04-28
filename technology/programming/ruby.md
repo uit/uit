@@ -1,6 +1,6 @@
 ## Getting Started
 
-##Codeacademy: Ruby
+##Codecademy: Ruby
 - [Codecademy: Ruby](http://www.codecademy.com/tracks/ruby)
 
 ##Databases & Rails Introduction

@@ -1,6 +1,6 @@
 ##Getting Started
 
-##Codeacademy: Python
+##Codecademy: Python
 [Codecademy: Python](http://www.codecademy.com/tracks/python)
 
 ##Python for Beginners

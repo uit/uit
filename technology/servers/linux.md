@@ -10,4 +10,4 @@
 
 - [Great tool for memorizing the UNIX terminal commands](https://www.shortcutfoo.com/app/tutorial/commandline)
 
-- [Interactive quizzes that teach & test you on the UNIX based shell](http://www.memrise.com/course/50252/shell-fu/)
+- [Interactive quizzes that teach & test you on the UNIX](http://www.memrise.com/course/50252/shell-fu/)

@@ -19,12 +19,7 @@ An open-source curriculum for startup founders. [Developed](contributing/README.
 
 Everything an aspiring founder needs to build their startup is online - Including how to code, acquire users, and raise money - It’s all there. The tricky part is in knowing what to search for, and what is worth reading. With years of experience, we know what’s important to learn, and we know the best resources. We can pool our collective knowledge into an open-source startup curriculum, based purely on existing, freely available content. 
 
-Students will build 10 applications across different industries and
-technologies. Every app they create will be hosted on their public profile, 
-including source code, pitch deck, and blog posts about their learning 
-experience. Ultimately, the student will identify an opportunity and acquire 
-the necessary skills to launch a real start-up.
-
+Students will build 10 applications across different industries and technologies. Every app they create will be hosted on their public profile, including source code, pitch deck, and blog posts about their learning experience. Ultimately, the student will identify an opportunity and acquire the necessary skills to launch a real start-up.
 
 ######_How Can You [Help](contributing/README.md)?_
 
@@ -34,7 +29,6 @@ By [submitting](contributing/README.md) content that would help a student comple
 - blogs
 - videos
 - courses
-
 
 ####About UIT
 

@@ -6,3 +6,4 @@
 - [lightbot](http://light-bot.com/hoc.html)
 - [App Inventor](http://appinventor.mit.edu/explore/hour-of-code.html)
 - [Interactive beginner HTML](http://www.codeavengers.com/web/1)
+- [KhanAcademy - Intro to Javascript](https://www.khanacademy.org/computing/cs/programming)

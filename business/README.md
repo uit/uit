@@ -13,3 +13,5 @@
 #### [Industries](industries/README.md)
 
 #### [Management](management/README.md)
+
+#### [Pitch Deck](pitch-deck/README.md)

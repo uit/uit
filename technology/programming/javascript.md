@@ -26,11 +26,11 @@
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 
+## KhanAcademy
+- [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
+
 ## Assignment Operators
 - [Legend of Shorthand Operators & Their Meaning](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
-
-##Cheat Sheets
-- [Cheat Sheet](http://www.cheat-sheets.org/saved-copy/javascript_cheat_sheet.png)
 
 ##eBooks
 - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)

@@ -10,8 +10,10 @@
 - [Git Crash Course](http://www.tangowithdjango.com/book/chapters/git.html#git-crash-course)
 - [Interactive Tutorial to Github Branching](http://pcottle.github.io/learnGitBranching/)
 
+
 ## gh-pages
 
+- [Interactive lesson on setting up GitHub Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 - [GitHub Help - gh-pages](https://help.github.com/categories/20/articles)
 - [GitHub Pages Website](https://pages.github.com/)
 

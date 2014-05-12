@@ -1,5 +1,7 @@
 ## Getting Started
 
+- [Try Git](https://try.github.io/levels/1/challenges/1)
+- [Git Basics](https://www.codeschool.com/courses/git-real)
 - [Interactive tests for memorizing GitHub commands](https://www.shortcutfoo.com/app/tutorial/git)
 - Installing the Native [GitHub app](https://help.github.com/articles/set-up-git)
 - Alternative to the GitHub app, [GitX](http://gitx.frim.nl/)
@@ -9,7 +11,6 @@
 - [Git Cheat Sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.svg)
 - [Git Crash Course](http://www.tangowithdjango.com/book/chapters/git.html#git-crash-course)
 - [Interactive Tutorial to Github Branching](http://pcottle.github.io/learnGitBranching/)
-
 
 ## gh-pages
 

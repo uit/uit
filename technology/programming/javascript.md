@@ -1,11 +1,11 @@
 
-###Codecademy
+### Codecademy
 - [Codecademy: JavaScript](http://www.codecademy.com/tracks/javascript) - Interactive course for beginners.
 
-###Mozilla Developer Network
+### Mozilla Developer Network
 - [Learn JavaScript](https://developer.mozilla.org/en-US/learn/javascript)
 
-###Eloquent JavaScript "hyper-book"
+### Eloquent JavaScript "hyper-book"
 - [Eloquent JS](http://eloquentjavascript.net/contents.html)
 
 ## Crockford YUI Videos (m4v)
@@ -26,17 +26,19 @@
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 
-## KhanAcademy
+### KhanAcademy
 - [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 
-## Assignment Operators
+### Assignment Operators
 - [Legend of Shorthand Operators & Their Meaning](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
 
-## Functional JS
-(nodeschool.io)[http://nodeschool.io/#functionaljs]
+### Functional JS
+- [nodeschool.io](http://nodeschool.io/#functionaljs)
+
+### [codeschool](https://www.codeschool.com/paths/javascript)
 
 
-##eBooks
+## eBooks
 - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford
 - [Dev Docs](http://devdocs.io/)

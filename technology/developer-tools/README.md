@@ -8,6 +8,5 @@
 - [emacs](emacs.md) - Extensible, customizable, self-documenting, real-time display editor.
 - [gedit](gedit.md) - text editor, cross-platform, beginner friendly
 - [notepad++](notepad++.md) - Source code editor and Notepad replacement that supports several languages.
-
 - [iTerm2](iterm2.md) - iTerm2 is a replacement for Terminal. Its focus is on performance, internationalization, and supporting innovative features that make your life better.
 - [Command Line](command-line.md)

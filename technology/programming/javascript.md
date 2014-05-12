@@ -32,6 +32,10 @@
 ## Assignment Operators
 - [Legend of Shorthand Operators & Their Meaning](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Assignment_Operators)
 
+## Functional JS
+(nodeschool.io)[http://nodeschool.io/#functionaljs]
+
+
 ##eBooks
 - [Book of Modern Frontend Tooling](https://github.com/tooling/book-of-modern-frontend-tooling)
 - [Crockford's JavaScript](http://www.crockford.com/javascript/) - Douglas Crockford

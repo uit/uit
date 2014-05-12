@@ -11,6 +11,7 @@
 - [Git Cheat Sheet](http://www.cheat-sheets.org/saved-copy/git-cheat-sheet.svg)
 - [Git Crash Course](http://www.tangowithdjango.com/book/chapters/git.html#git-crash-course)
 - [Interactive Tutorial to Github Branching](http://pcottle.github.io/learnGitBranching/)
+- [nodeschool.io](http://nodeschool.io/#git-it)
 
 ## gh-pages
 

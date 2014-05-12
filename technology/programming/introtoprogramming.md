@@ -9,4 +9,10 @@
 - [KhanAcademy - Intro to Javascript](https://www.khanacademy.org/computing/cs/programming)
 
 ##HarvardX Intro to Programming
-- [Start Here](https://courses.edx.org/courses/HarvardX/CS50x/2014_T1/info)
+- [Start Here](http://www.extension.harvard.edu/open-learning-initiative/intensive-introduction-computer-science)
+
+##MIT Intro to Computer Science
+- [Online Lectures](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-00sc-introduction-to-computer-science-and-programming-spring-2011/)
+
+##Stanford Intro to Programming Methodology
+- [Stanford.edu](http://see.stanford.edu/see/courseInfo.aspx?coll=824a47e1-135f-4508-a5aa-866adcae1111)

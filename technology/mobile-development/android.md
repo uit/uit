@@ -2,6 +2,7 @@
 
 ### Courses
 [University of Illinois - Creative, Serious and Playful Science of Android Apps](https://class.coursera.org/androidapps101-001)
+[Barbara Hecker Android Development](https://www.youtube.com/playlist?list=PL1E8E7D2B6EB11301)
 
 ### Reference Materials
 [Google Android Training](https://developer.android.com/training/index.html)

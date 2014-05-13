@@ -1,8 +1,9 @@
 ##_Programming_
 
 - [Intro to Programming](introtoprogramming.md)
-- [Node.js](nodejs.md)
 - [JavaScript](javascript.md)
+- [jQuery](jquery.md)
+- [Node.js](nodejs.md)
 - [Python](python.md)
 - [Ruby](ruby.md)
 - [C++](c++.md)

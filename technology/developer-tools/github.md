@@ -13,7 +13,7 @@
 - [Interactive Tutorial to Github Branching](http://pcottle.github.io/learnGitBranching/)
 - [nodeschool.io](http://nodeschool.io/#git-it)
 
-## gh-pages
+## GitHub-Pages
 
 - [Interactive lesson on setting up GitHub Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 - [GitHub Help - gh-pages](https://help.github.com/categories/20/articles)

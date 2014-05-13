@@ -1,5 +1,6 @@
 ## Getting Started
 
+- [Learn Version Control with Git](http://www.git-tower.com/learn/)
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Git Basics](https://www.codeschool.com/courses/git-real)
 - [Interactive tests for memorizing GitHub commands](https://www.shortcutfoo.com/app/tutorial/git)

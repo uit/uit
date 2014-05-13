@@ -1,6 +1,6 @@
 ###_Introduction_
   - [Configure your MacBook](macbook.md)
-  - [Programming Concepts](uit/technology/programming/introtoprogramming.md)
+  - [Programming Concepts](introtoprogramming.md)
 
 ### _Projects_
 

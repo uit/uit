@@ -1,8 +1,9 @@
 ###_Introduction_
   - [Configure your MacBook](macbook.md)
   - [Programming Concepts](technology/programming/introtoprogramming.md)
+
 ###_Projects_
----
+
 1. [Blog](blog.md)
 2. [GitHub Pages](github-jekyll.md)
 3. [Chat Server](chat-server.md)

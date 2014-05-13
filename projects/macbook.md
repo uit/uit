@@ -3,7 +3,7 @@
 Setup your computer for a professional work environment. Here is a list of
 recommended developer tools to install and accounts to create.
 
-####_- Create Accounts:_
+#### **Create Accounts**
       - GitHub
       - Gmail
       - Twitter
@@ -13,7 +13,7 @@ recommended developer tools to install and accounts to create.
       - LinkedIn
       - Facebook
 
-####_- Install:_
+#### **Install**
       - Sublime Text
       - Google Chrome
       - Google Chrome Canary 

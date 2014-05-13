@@ -1,9 +1,11 @@
-##_Projects_
+###_Introduction_
+  - [Configure your MacBook](macbook.md)
+  - [Programming Concepts](https://github.com/uit/uit/blob/master/technology/programming/introtoprogramming.md)
 
-1.[Blog](1-blog.md)
+### _Projects_
 
-2.[Chat Server](2-chat-server.md)
-
-3.[Social Network](3-social-network.md)
-
-4.[SSL Terminator & TCP load balancer](4-ssl-tcp.md)
+1. [Blog](blog.md)
+2. [GitHub Pages](github-jekyll.md)
+3. [Chat Server](chat-server.md)
+4. [Social Network](social-network.md)
+5. [SSL Terminator & TCP load balancer](ssl-tcp.md)

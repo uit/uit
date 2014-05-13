@@ -21,6 +21,7 @@
 - [nodeschool.io](http://nodeschool.io/#functionaljs)
 
 ### KhanAcademy
+- [KhanAcademy - Intro to Javascript](https://www.khanacademy.org/computing/cs/programming)
 - [Advanced JS: Games & Visualizations](https://www.khanacademy.org/computing/cs/programming-games-visualizations)
 
 ---

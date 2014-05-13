@@ -41,7 +41,6 @@
 - [Douglas Crockford: "Advanced JavaScript" (1 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-1.m4v)
 - [Douglas Crockford: "Advanced JavaScript" (2 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-2.m4v)
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
-- [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 
 ---
 

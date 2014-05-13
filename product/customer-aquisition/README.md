@@ -1,3 +1,3 @@
 ##_Customer Aquisition_
 
--[Customer Developement](customer-development.md)
+- [Customer Developement](customer-development.md)

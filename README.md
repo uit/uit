@@ -1,8 +1,22 @@
-# [UIT](https://github.com/uit/uit/)
+#[UIT](https://github.com/uit/uit/)
 
 An open-source, project driven curriculum for startup founders. [Developed](contributing/README.md) by technology professionals and proven entrepreneurs.
 
 ###Self Directed; Continuous Learning
+
+---
+####_Introduction_
+  - [Configure your MacBook](projects/macbook.md)
+  - [Programming Concepts](projects/programming-concepts.md)
+
+####[Projects](projects/README.md)
+
+1. [Blog](projects/blog.md)
+2. [GitHub Pages](projects/github-jekyll.md)
+3. [Chat Server](projects/chat-server.md)
+4. [Social Network](projects/social-network.md)
+5. [SSL Terminator & TCP load balancer](projects/ssl-tcp.md)
+
 
 ---
 ####[Technology](technology/README.md)

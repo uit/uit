@@ -5,7 +5,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 ###Self Directed; Continuous Learning
 
 ---
-####_Introduction_
+####Introduction
   - [Configure your MacBook](projects/macbook.md)
   - [Programming Concepts](projects/programming-concepts.md)
 
@@ -17,6 +17,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 4. [Social Network](projects/social-network.md)
 5. [SSL Terminator & TCP load balancer](projects/ssl-tcp.md)
 
+### Resources
 
 ---
 ####[Technology](technology/README.md)

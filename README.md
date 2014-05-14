@@ -34,6 +34,13 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 ---
 ####[Product](product/README.md)
 #####Whether it's a physical product, service, app or idea. Here's the content to keep you on track.
+- [Customer Discovery](product/customer-discovery/README.md)
+- [Customer Acquisition](product/customer-aquisition/README.md)
+- [Pricing](product/pricing/README.md)
+- [Marketing](product/marketing/README.md)
+- [Supporting Customers](product/supporting-customers/README.md)
+- [User Experience](product/ux/README.md)
+- [The Lean Startup](product/lean-startup/README.md)
 
 ---
 ### Developing the Future

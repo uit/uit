@@ -10,11 +10,11 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 - [Programming](technology/programming/README.md)
 - [Developer Tools](technology/developer-tools/README.md)
 - [Database](technology/database/README.md)
+- [Mobile Development](technology/mobile-development/README.md)
 - [Networking](technology/networking/README.md)
 - [Security](technology/security/README.md)
 - [Distributed Systems](technology/distributed-systems/README.md)
 - [Quality Assurance](technology/quality-assurance/README.md)
-- [Mobile Development](technology/mobile-development/README.md)
 - [Terminology](technology/terminology/README.md)
 - [Cloud](technology/cloud/README.md)
 - [Servers](technology/servers/README.md)
@@ -22,6 +22,15 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 ---
 ####[Business](business/README.md)
 #####Resources to help optimize your experience with investments, legalities, co-founders and employees.
+- [Team](business/team/README.md)
+- [Incorporation](business/incorporation/README.md)
+- [Intellectual Property](business/intellectual-property/README.md)
+- [Employees](business/employees/README.md)
+- [Investment](business/investment/README.md)
+- [Industries](business/industries/README.md)
+- [Management](business/management/README.md)
+- [Pitch Deck](business/pitch-deck/README.md)
+
 ---
 ####[Product](product/README.md)
 #####Whether it's a physical product, service, app or idea. Here's the content to keep you on track.

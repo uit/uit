@@ -2,7 +2,7 @@
 
 An open-source, project driven curriculum for startup founders. [Developed](contributing/README.md) by technology professionals and proven entrepreneurs.
 
-###Self Directed, Continuous Learning
+###Self Directed; Continuous Learning
 
 ---
 ####[Technology](technology/README.md)

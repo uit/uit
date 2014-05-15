@@ -1,11 +1,5 @@
 ##_Intro to Programming_
 
-###Code High School
-- [Code Syllabus](http://www.codehs.com/syllabus/1)
-
-###Learn Street
-- [Java, JavaScript, Ruby & Python introductions](https://www.learnstreet.com/lessons/languages/)
-
 ### Hour of Code tutorials
 - [Hour of Code Video Introduction](http://hello.processing.org/editor/)
 - [RoboMind Academy](https://www.robomindacademy.com//go/navigator/storylines?course=HourOfCode)

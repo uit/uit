@@ -1,0 +1,769 @@
+@charset "utf-8";
+
+/* ============================== */
+/* 
+	- Title: University Landing Page - mustachethemes
+	- Autor: mustachethemes
+*/
+/* ============================== */
+
+/* ---------------------------------------------------------------------- */
+/*	Import styles
+/* ---------------------------------------------------------------------- */
+
+/* bootstrap.css  - include resetes ( Media querys, grid-responsive,layout).*/
+@import url("bootstrap/bootstrap.css");
+@import url("bootstrap/bootstrap-responsive.css");
+
+/*Google Fonts*/
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,800,700,600,300");
+
+/*Animations*/
+@import url("animations/animate.css");
+
+
+
+/* ---------------------------------------------------------------------- */
+/*	General Style
+/* ---------------------------------------------------------------------- */
+
+body { 
+	background: url(../img/background/00.png) 0 0 repeat; 
+	font-family: 'Open Sans', sans-serif;
+	color:#555555;
+	font-weight:400;
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+h1, h2, h3, h4{
+	font-weight:300;
+}
+h1 {
+	font-size:37px;
+	line-height:39px;
+}
+h5 {
+	font-weight:400;
+}
+h6 {
+	font-weight:400;
+}
+p{
+	line-height:21px;		
+}
+.video iframe {
+	border: none;
+}
+a:hover {
+	text-decoration:none;
+}
+.clear {
+	clear: both;
+}
+input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
+  color: #333;
+}
+input:-moz-placeholder, textarea:-moz-placeholder {
+  color: #333;
+}
+@media (min-width: 1200px) {
+	.container { width: 1140px; }
+	.row-fluid .span12 { margin: 0; }
+}
+
+footer ul.social li a, footer h6 a, p a, a.navi-right, a.navi-left, .form input.button, .newsletter input.button, .courses .item .btn, .table-button a  {
+	-webkit-transition: all 0.2s ease-out; 
+	-moz-transition: all 0.2s ease-out;
+	-o-transition: all 0.2s ease-out; 
+	-ms-transition: all 0.2s ease-out; 
+	transition: all 0.2s ease-out;
+}
+/* ---------------------------------------------------------------------- */
+/*	Header
+/* ---------------------------------------------------------------------- */
+
+
+/* Top Bar ----------------------------*/
+.top { 
+	padding: 11px 0;
+	color:#fff;
+}
+
+.top .container p {
+	text-align: right;
+	margin:0;
+	font-size:14px;
+	line-height:21px;
+}
+.top .container p span{
+	padding:0 0 0 20px;
+	background: url(../img/bubble.png) left top no-repeat; 
+	margin: 0 0 0 15px;
+}
+
+
+
+/* Header ----------------------------*/
+
+nav { 
+	background: url(../img/shadow_sep.png) left top repeat-x;
+	padding:20px 0; 
+}
+nav h1 {
+	text-align: right;
+}
+
+/* Slider with multi images----------------------------*/
+.multiple {
+	background-image: none;
+	background-color:transparent!important;
+	padding:0;
+}
+
+.multiple .container {
+	background: none !important;
+}
+
+.multiple .container .span6.right-form{
+	background: none !important;
+	position: relative;
+}
+.multiple .bxslider {
+	margin:0 !important; 
+}
+
+/* Slider ----------------------------*/
+.slider {
+	background-color:#ebebeb;
+}
+.slider .container {
+	background: url(../img/big-image.jpg) 0 0 no-repeat;
+	background-size: 100%;
+}
+.slider .container .row-fluid .player{
+	padding:3% 0% 0% 2%;
+}
+.slider .container .span6.right-form{
+	background: transparent url(../img/form-bg.png) 0 0 repeat;
+	position: relative;
+}
+.slider .container .span6.right-form {
+	border-top-width:2px;
+	border-top-style:solid;
+}
+.slider .container .span6.right-form:after {
+  position: absolute;
+  top: 0;
+  left: 50%;
+  display: inline-block;
+  border-right: 10px solid transparent;
+  border-left: 10px solid transparent;
+  content: '';
+}
+.slider .form {
+	padding:20px 30px 30px 30px;
+	text-align:center;
+	color:#333333;
+	
+}
+
+.slider .form h2 {
+    color: #333333;
+    font-size: 19px;
+    font-weight: 600;
+    margin: 0 0 17px;
+    padding: 0;
+    text-transform: uppercase;
+}
+.form .row1, .form .row2, .form .row3, .form .row4 {
+	float: left;
+}
+.form .row4 {
+	text-align: center;
+	width:100%;
+}
+.form .right {
+	width:50%;
+}
+.form .left {
+	width:50%;
+}
+.slider .form input {
+	float:left;
+	border-radius:0;
+	margin:13px 6px;
+	width: 220px;
+	height:30px;
+	color:#333333;
+	font-family: 'Open Sans', sans-serif;
+}
+.slider .form .input-xlarge{
+	float:left;
+	color:#333333;
+	font-family: 'Open Sans', sans-serif;
+	border-radius:0;
+	margin:13px 6px;
+	width: 234px;
+	height:40px;
+	border: 1px solid #ccc;
+    border-radius: 0;
+   -webkit-appearance: none;
+   overflow: hidden;
+   background: #fff url(../img/formelements-select.png) right center no-repeat;
+}
+
+.slider .form input.button{
+	float: center;
+	width: auto;
+	color: #fff;	
+	padding: 8px 10px 8px 35px;
+	font-size: 14px;
+	font-family: 'Open Sans', sans-serif;
+	font-weight:600;
+	line-height: 31px;
+	margin: 10px auto;
+	display: block;
+	height: auto;
+	border:0;
+	border-radius:4px;
+	text-align:left;
+	text-transform:uppercase;
+	text-shadow:none;
+	background-image: url(../img/icon-email.png);
+}
+
+
+
+/* Items ----------------------------*/
+
+.info {
+	padding: 45px 0;
+}
+.info .span4 .top-item {
+	margin-bottom:50px;
+
+}
+
+.info h3.iconset{
+	padding:0 0 0 40px;
+}
+
+
+/* Extra Info ----------------------------*/
+
+.extra {
+	background:#fff url(../img/shadow_sep.png) 0 0 repeat-x;
+	padding: 50px 0 60px 0;
+}
+
+/* Extra Info - Video ----------------------------*/
+.extra .video{
+	margin:0 0 20px 0;
+	width:100%;
+}
+
+/* Extra Info - Testimonials ----------------------------*/
+.extra ul.testimonials {
+	margin:0;
+}
+.extra ul.testimonials li{
+	float:left;
+	list-style: none;
+	margin-top: 0px;
+	min-height: 80px;
+	padding-bottom: 0px;
+	width: 100%!important;
+}
+.extra ul.testimonials li:first-child{
+	margin-top: 0;
+}
+.extra ul.testimonials li img{
+	float: left;
+	height:80px;
+	width:80px;
+	margin: 10px 0;
+}
+.extra ul.testimonials li h5 {
+	margin: 10px 0 10px 100px;
+	font-size: 12px;
+	padding: 10px;
+	line-height: 16px;
+	display: block;
+	border: 1px solid #e1e1e1;
+	color: #555555;
+	position: relative;
+}
+
+.extra ul.testimonials li h5:after {
+  position: absolute;
+  top: 50%;
+  left: -6px;
+  margin-top: -6px;
+  display: inline-block;
+  border-top: 6px solid transparent;
+  border-bottom: 6px solid transparent;
+  border-right: 6px solid  #e1e1e1;
+  content: '';
+}
+
+a.navi-left{
+	display: block;
+	height: 16px;
+	width: 16px;
+	background-position: top left;
+	float: right;
+	cursor: pointer;
+}
+a.navi-left:hover{
+	background-position: bottom left;
+	
+}
+a.navi-right{
+	display: block;
+	height: 16px;
+	width: 16px;
+	background-position: top right;
+	float: right;
+	margin-left: 4px;
+	cursor: pointer;
+}
+a.navi-right:hover{
+	background-position: bottom right;
+}
+
+/* Extra Info - Scholarships ----------------------------*/
+.extra img.scholarships {
+	margin:0 0 20px 0;
+}
+
+
+/* Courses ----------------------------*/
+
+.carrousell {
+    
+}
+
+.courses {
+	padding: 0 0 45px 0;
+}
+.courses .item {
+    background: none repeat scroll 0 0 #F3F3F3;
+    margin-top: 32px;
+    padding: 20px;
+    text-align: center;
+}
+.ch-item {
+	width: 130px;
+	height: 130px;
+	border-radius: 50%;
+	position: relative;
+	cursor: default;
+	display: block;
+    margin: -45px auto 20px;
+			
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+}
+
+.ch-img-1 { 
+	background-image: url(../img/img-course-1.jpg);
+}
+
+.ch-img-2 { 
+	background-image: url(../img/img-course-2.jpg);
+}
+
+.ch-img-3 { 
+	background-image: url(../img/img-course-3.jpg);
+}
+.ch-info {
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	border-radius: 50%;
+	opacity: 0;
+	
+	-webkit-transition: all 0.4s ease-in-out;
+	-moz-transition: all 0.4s ease-in-out;
+	-o-transition: all 0.4s ease-in-out;
+	-ms-transition: all 0.4s ease-in-out;
+	transition: all 0.4s ease-in-out;
+	
+	-webkit-transform: scale(0);
+	-moz-transform: scale(0);
+	-o-transform: scale(0);
+	-ms-transform: scale(0);
+	transform: scale(0);
+	
+	-webkit-backface-visibility: hidden; /*for a smooth font */
+
+}
+
+.ch-info p a {
+	display: block;
+	color: #fff;
+	font-style: normal;
+	font-weight: bold;
+	text-transform: uppercase;
+	font-size: 12px;
+	letter-spacing: 1px;
+	padding-top: 4px;
+	line-height: 120px;
+}
+
+
+
+.ch-item:hover .ch-info {
+	opacity: 1;
+	
+	-webkit-transform: scale(1);
+	-moz-transform: scale(1);
+	-o-transform: scale(1);
+	-ms-transform: scale(1);
+	transform: scale(1);	
+}
+
+.courses .item p {
+    margin: 0 0 17px;
+}
+.courses h2 {
+    padding: 0 10px;
+}
+
+.courses .item .btn {
+    background: none repeat scroll 0 0 #999999;
+    border: 0 none;
+    color: white;
+    font-weight: bold;
+    padding: 15px 50px;
+    text-shadow: none;
+    text-transform: uppercase;
+}
+
+
+
+/* Pricing Tables ----------------------------*/
+
+.pricing-tables {
+	padding: 0 0 45px 0;
+}
+.table-header {
+	text-align: center;
+	padding: 20px 0;
+	margin-top: 16px;
+}
+.table-header h3 {
+	color: #fff;
+	margin: 0;
+	font-size: 26px;
+	line-height: 26px;
+}
+.table-price {
+	text-align: center;
+	border-bottom: none;
+	background-color:#999999;
+}
+.table-price p {
+	color: #fff;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 64px;
+	line-height: 64px;
+	margin: 0;
+	padding: 20px 0;
+}
+.table-price sup {
+	color: #ffffff;
+	font-weight: bold;
+	font-style: italic;
+	font-size: 32px;
+	line-height: 32px;
+	top: -22px;
+}
+.table-body {
+	background-color:#f4f4f4;
+}
+.table-body ul {
+	padding: 15px;
+	margin: 0;
+	border-right: 1px solid #e3e3e3;
+	border-left: 1px solid #e3e3e3;
+}
+.table-body ul li {
+	text-align: center;
+	list-style-type: none;
+	font-size: 14px;
+	font-weight: normal;
+	line-height: 40px;
+	border-bottom: 1px solid #cfcfcf;
+}
+
+.table-button a {
+	text-transform: uppercase;
+	color: #fff;
+	font-size: 20px;
+	line-height: 20px;
+	display: block;
+	padding: 15px 0 15px 0;
+	margin: 0;
+	text-align: center;
+	background-color:#555556;
+}
+
+
+/* Newsletter ----------------------------*/
+
+.newsletter {
+	color:#fff;
+	padding:30px 0 40px 0;
+	text-align:center;
+	background-image:url(../img/newsletter-bg.png);
+	background-repeat:repeat;
+	background-position:0 0;
+}
+.newsletter h2{
+	color:#fff;
+	font-size:24px;
+	margin:10px 0 5px 0;
+	line-height:30px;
+}
+.newsletter h3{
+	color:#fff;
+	font-size:14px;
+	margin:5px 0 15px 0;
+	line-height:24px;
+}
+.newsletter input {
+    border: medium none;
+	-webkit-border-radius: 0;
+    -moz-border-radius: 0;
+    border-radius: 0 0 0 0;
+    font-family: 'Open Sans',sans-serif;
+    height: 30px;
+    margin: 0 4px 10px;
+    width: 220px;
+}
+
+.newsletter input.button {
+	width: auto;
+	height:auto;
+	background:#fff;
+	font-family: 'Open Sans', sans-serif;
+	text-transform:uppercase;
+	font-weight:600;
+	border:0;
+	border-radius:4px;
+	padding: 9px 20px;
+	margin:0;
+	vertical-align: top;
+}
+.newsletter input.button:hover {
+	color:#fff;
+}
+
+
+/* Footer --------------------------------*/
+
+footer {
+	padding:26px 0;
+}
+footer h6 {
+	color:#fff;
+}
+footer h6 a:hover {
+	color:#fff;
+}
+footer ul.social{
+	float:right;
+}
+footer ul.social li{
+	list-style: none;
+	float:left;
+	margin:0 5px;
+}
+footer ul.social li a{
+	display: block;
+	width: 32px;
+	height: 32px;
+}
+
+footer ul.social li a.linkedin:hover{
+	background-position: bottom center;
+}
+
+footer ul.social li a.youtube:hover{
+	background-position: bottom center;
+}
+
+footer ul.social li a.facebook:hover{
+	background-position: bottom center;
+}
+
+footer ul.social li a.twitter:hover{
+	background-position: bottom center;
+}
+
+
+.tooltip {
+  position: absolute;
+  z-index: 1030;
+  display: block;
+  font-size:12px;
+  opacity: 0;
+  filter: alpha(opacity=0);
+  visibility: visible;
+  background-color: transparent !important;
+}
+.tooltip.in {
+  opacity: 1;
+  filter: alpha(opacity=100);
+}
+.tooltip-inner {
+  max-width: 200px;
+  font-weight:400;
+
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  background-color: #fff;
+  -webkit-border-radius: 0;
+     -moz-border-radius: 0;
+          border-radius: 0;
+}
+.tooltip.top .tooltip-arrow {
+  bottom: 0;
+  left: 50%;
+  margin-left: -5px;
+  border-top-color: #fff;
+  border-width: 5px 5px 0;
+}
+
+.slider .form .input-xlarge, .slider .form input {
+    margin: 0 0 20px 0px;
+    width: 100%;
+    padding: 4px 5px;
+    height: 45px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+         	box-sizing: border-box;
+}
+.form input.button {
+	background-image:url(../../img/newsletter-bg.png);
+	background-repeat:no-repeat;
+    background-position: 11px 50%;
+    float: none;	
+    margin: 0 auto;
+    padding-left: 37px;
+    max-width: 209px;
+}
+
+
+
+/*  CSS Media Queries
+================================================== */
+
+
+/* Version 1024px ----------------------------------------------------*/
+@media handheld, only screen and (max-width: 1024px) {
+
+}
+
+
+/* Mobile Version 767px ----------------------------------------------*/
+@media handheld, only screen and (max-width: 767px) {
+	body {
+		padding:0;
+	}	
+	nav{
+		text-align: center;
+	}
+	nav h1{
+		text-align: center;
+	}
+	.info, .extra{
+		padding-left:20px;
+		padding-right:20px;
+	}
+}
+
+
+/* Mobile Version 600px ----------------------------------------------*/
+@media handheld, only screen and (max-width: 600px) {
+	body {
+		padding:0;
+	}	
+	nav {
+		text-align: center;
+	}
+}
+
+
+/* Mobile Version 568px ----------------------------------------------*/
+@media handheld, only screen and (max-width: 568px) {
+	body {
+		padding:0;
+	}	
+	nav{
+		text-align: center;
+	}	
+	.form .row1, .form .row2, .form .row3, .form .row4 {
+		   width: 100%;
+	}
+	
+	
+	.newsletter input {
+	margin: 0 auto 20px auto;
+    width: 90%;
+    padding: 4px 5px;
+    height: 45px;
+    -webkit-box-sizing: border-box;
+       -moz-box-sizing: border-box;
+         	box-sizing: border-box;
+}
+
+	
+	
+   
+}
+
+
+/* Mobile Version 480px ----------------------------------------------*/
+@media handheld, only screen and (max-width: 480px) {
+	body {
+		padding:0;
+	}	
+	nav {
+		text-align: center;
+	}	
+	
+	.form .row1, .form .row2, .form .row3, .form .row4 {
+		   width: 100%;
+	}
+    
+}
+
+
+/* Mobile Version 320px ----------------------------------------------*/
+@media handheld, only screen and (max-width: 320px) {
+	body {
+		padding:0;
+	}	
+	nav {
+		text-align: center;
+	}
+	
+}
+
+
+
+
+
+
+

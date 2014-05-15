@@ -42,6 +42,9 @@
 - [Douglas Crockford: "Advanced JavaScript" (2 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-2.m4v)
 - [Douglas Crockford: "Advanced JavaScript" (3 of 3)](http://yui.zenfs.com/theater/crockford-advancedjavascript-3.m4v)
 
+#### How to Learn JavaScript Properly
+- [For NON-JavaScript Programmers and First-time Programmers](http://javascriptissexy.com/how-to-learn-javascript-properly/)
+
 ---
 
 ## eBooks

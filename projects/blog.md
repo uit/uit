@@ -11,3 +11,6 @@ For this project you will learn how to deploy software to a cloud based server, 
 - Generate a SSH Key for your new server and connect to the Digital Ocean remote server.
 - Login to your blog.
 - Write a blog post about what you learned and the overall experience.
+
+- [Installing Ghost on a Mac](http://docs.ghost.org/installation/mac/)
+- [Mail configuration in ghost](http://docs.ghost.org/mail/)

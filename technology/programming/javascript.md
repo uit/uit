@@ -5,7 +5,7 @@
 ### CodeSchool
 - [JavaScript Path](https://www.codeschool.com/paths/javascript)
 
-###Village Park Source
+### Village Park Source
 - [Introduction to JavaScript Video Series](http://villageparksource.com/intro-to-javascript/)
 
 ### Mozilla Developer Network

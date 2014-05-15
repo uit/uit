@@ -1,0 +1,115 @@
+@charset "utf-8";
+
+/* ============================== */
+/* 
+	- Title: University Landing Page - mustachethemes
+	- Autor: mustachethemes
+*/
+/* ============================== */
+
+/* .............. Light Color ................ */
+h1, h2, h3, h4{
+	color:#c42140;
+}
+
+a {
+	color:#c42140;
+}
+
+.slider .container .span6.right-form {
+	border-top-color: #c42140;
+}
+
+.slider .container .span6.right-form:after {
+  border-top: 10px solid #c42140;
+}
+
+.form input.button{
+	background-color:#c42140;
+}
+
+.courses .item .btn:hover {
+	background: #c42140;
+}
+
+.table-header {
+	background-color:#c42140;
+}
+
+.table-button a:hover {
+	background-color:#c42140;
+}
+
+.newsletter {
+	background-color:#c42140;
+}
+
+.newsletter input.button {
+	color:#c42140;
+}
+.ch-item:hover {
+	box-shadow: 
+		inset 0 0 0 100px rgba(196,33,64, 0.7),
+		inset 0 0 0 6px rgba(196,33,64,0.9),
+		0 1px 2px rgba(196,33,64,0.1);
+}
+
+/* .............. Dark Color ................ */
+.top { 
+	background-color: #590716;
+}
+.form input.button:hover{
+	background-color: #590716;	
+}
+.newsletter input.button:hover {
+	background-color:#590716;
+}
+footer {
+	background:#590716;
+}
+.tooltip-inner {
+  color: #590716;
+}
+
+/* .............. Images with color ................ */
+
+.info h3.iconbestcity {
+	background: url(../../img/red/icon-bestcity.png) 0 0 no-repeat;
+}
+.info h3.iconworldwide {
+	background: url(../../img/red/icon-worldwide.png) 0 0 no-repeat;
+}
+.info h3.iconcommunity {
+	background: url(../../img/red/icon-community.png) 0 0 no-repeat;
+}
+.info h3.iconfacilities {
+	background: url(../../img/red/icon-facilities.png) 0 0 no-repeat;
+}
+
+
+
+a.navi-left{
+	background: url(../../img/red/navi.png) no-repeat;
+}
+.navi-right{
+	background: url(../../img/red/navi.png) no-repeat;
+}
+
+
+
+footer ul.social li a.linkedin{
+	background: url(../../img/red/social-icons-linkedin.png) top center no-repeat;
+}
+
+footer ul.social li a.youtube{
+	background: url(../../img/red/social-icons-youtube.png) top center no-repeat;
+}
+
+footer ul.social li a.facebook{
+	background: url(../../img/red/social-icons-facebook.png) top center no-repeat;
+}
+
+footer ul.social li a.twitter{
+	background: url(../../img/red/social-icons-twitter.png) top center no-repeat;
+}
+

@@ -1,8 +1,8 @@
-###_Introduction_
+### Introduction
   - [Configure your MacBook](macbook.md)
   - [Programming Concepts](https://github.com/uit/uit/blob/master/technology/programming/introtoprogramming.md)
 
-### _Projects_
+### Projects
 
 1. [Blog](blog.md)
 2. [GitHub Pages](github-jekyll.md)

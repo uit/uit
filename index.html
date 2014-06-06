@@ -1,93 +1,329 @@
 <!DOCTYPE html>
-<html>
+<!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
+<!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
+<!--[if IE 8 ]><html class="ie ie8" lang="en"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><html lang="en" class="no-js"> <![endif]-->
   <head>
-    <meta charset='utf-8'>
-    <meta http-equiv="X-UA-Compatible" content="chrome=1">
+
+    <!-- Basic Page Needs
+    ================================================== -->
+    <meta charset="utf-8">
+    <title>UIT Startup School</title>
+    <meta name="description" content="description">
+    <meta name="author" content="mustachethemes">
+
+    <!-- Mobile Specific Metas
+    ================================================== -->
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-    <link href='https://fonts.googleapis.com/css?family=Architects+Daughter' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" type="text/css" href="stylesheets/stylesheet.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/pygment_trac.css" media="screen" />
-    <link rel="stylesheet" type="text/css" href="stylesheets/print.css" media="print" />
 
+    <!-- Fav and touch icons
+    ================================================== -->
+    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="img/apple-touch-icon-114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="img/apple-touch-icon-72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="52x52" href="img/apple-touch-icon-57x57.png">
+
+    <!-- Custom styles
+    ================================================== -->
+    <link href="css/style.css" rel="stylesheet" media="screen">
+    <link href="css/color/green.css" rel="stylesheet" media="screen">
+    <link href="css/slider/jquery.bxslider.css" rel="stylesheet" media="screen"><!--Slider Styles-->
+    <!--[if IE 8 ]><link href="css/ie8.css" rel="stylesheet" media="screen"><![endif]-->
+
+    <!-- Scripts Libs
+    ================================================== -->
+    <script type="text/javascript" src="js/jquery.min.js"></script> <!-- 1.9.1 -->
+
+    <!-- HTML5 shim, for IE6-8 support of HTML5 elements
+    ================================================== -->
     <!--[if lt IE 9]>
-    <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
     <![endif]-->
-
-    <title>Uit by uit</title>
   </head>
 
   <body>
+    <!-- Header-->
     <header>
-      <div class="inner">
-        <h1>Uit</h1>
-        <h2>uit</h2>
-        <a href="https://github.com/uit/uit" class="button"><small>View project on</small>GitHub</a>
-      </div>
-    </header>
 
-    <div id="content-wrapper">
-      <div class="inner clearfix">
-        <section id="main-content">
-          <h3>
-<a name="welcome-to-github-pages" class="anchor" href="#welcome-to-github-pages"><span class="octicon octicon-link"></span></a>Welcome to GitHub Pages.</h3>
+    <!-- Top Bar -->
+    <div class="top">
+      <div class="container">
+        <div class="row-fluid">
+          <p class="animated fadeInRight"> <span>contact@uitstartup.org</span></p>
+        </div>
 
-<p>This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here using GitHub Flavored Markdown, select a template crafted by a designer, and publish. After your page is generated, you can check out the new branch:</p>
-
-<pre><code>$ cd your_repo_root/repo_name
-$ git fetch origin
-$ git checkout gh-pages
-</code></pre>
-
-<p>If you're using the GitHub for Mac, simply sync your repository and you'll see the new branch.</p>
-
-<h3>
-<a name="designer-templates" class="anchor" href="#designer-templates"><span class="octicon octicon-link"></span></a>Designer Templates</h3>
-
-<p>We've crafted some handsome templates for you to use. Go ahead and continue to layouts to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved if it remained markdown format.</p>
-
-<h3>
-<a name="rather-drive-stick" class="anchor" href="#rather-drive-stick"><span class="octicon octicon-link"></span></a>Rather Drive Stick?</h3>
-
-<p>If you prefer to not use the automatic generator, push a branch named <code>gh-pages</code> to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator written by our own Tom Preston-Werner. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.</p>
-
-<h3>
-<a name="authors-and-contributors" class="anchor" href="#authors-and-contributors"><span class="octicon octicon-link"></span></a>Authors and Contributors</h3>
-
-<p>You can <a href="https://github.com/blog/821" class="user-mention">@mention</a> a GitHub username to generate a link to their profile. The resulting <code>&lt;a&gt;</code> element will link to the contributor's GitHub Profile. For example: In 2007, Chris Wanstrath (<a href="https://github.com/defunkt" class="user-mention">@defunkt</a>), PJ Hyett (<a href="https://github.com/pjhyett" class="user-mention">@pjhyett</a>), and Tom Preston-Werner (<a href="https://github.com/mojombo" class="user-mention">@mojombo</a>) founded GitHub.</p>
-
-<h3>
-<a name="support-or-contact" class="anchor" href="#support-or-contact"><span class="octicon octicon-link"></span></a>Support or Contact</h3>
-
-<p>Having trouble with Pages? Check out the documentation at <a href="http://help.github.com/pages">http://help.github.com/pages</a> or contact <a href="mailto:support@github.com">support@github.com</a> and we’ll help you sort it out.</p>
-        </section>
-
-        <aside id="sidebar">
-          <a href="https://github.com/uit/uit/zipball/master" class="button">
-            <small>Download</small>
-            .zip file
-          </a>
-          <a href="https://github.com/uit/uit/tarball/master" class="button">
-            <small>Download</small>
-            .tar.gz file
-          </a>
-
-          <p class="repo-owner"><a href="https://github.com/uit/uit"></a> is maintained by <a href="https://github.com/uit">uit</a>.</p>
-
-          <p>This page was generated by <a href="https://pages.github.com">GitHub Pages</a> using the Architect theme by <a href="https://twitter.com/jasonlong">Jason Long</a>.</p>
-        </aside>
       </div>
     </div>
+    <!-- End Top Bar -->
 
-            <script type="text/javascript">
-            var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
-            document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
-          </script>
-          <script type="text/javascript">
-            try {
-              var pageTracker = _gat._getTracker("UA-49138757-1");
-            pageTracker._trackPageview();
-            } catch(err) {}
-          </script>
+
+
+    <!-- Nav-->
+    <nav>
+    <div class="container">
+      <div class="row-fluid">
+
+        <!-- Logo-->
+        <div class="span2">
+          <!--<img src="img/green/logo.png" class="logo animated delay1 fadeInDown" alt="logo"> SAVED FOR LOGO SUBMISSION-->
+        </div>
+        <!-- End Logo-->
+
+        <!-- Intro Text-->
+        <div class="span9">
+          <h1 class="animated delay2 fadeInDown"> UIT Startup School</h1>
+        </div>
+        <!-- End Intro Text-->
+
+      </div>
+    </div>
+    </nav>
+    <!-- End Nav-->
+
+
+
+    <!-- Slider -->
+    <div class="slider multiple">
+      <div class="container">
+        <div class="row-fluid">
+          <div class="span6">
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/nKIu9yen5nc?rel=0" frameborder="0" allowfullscreen></iframe>
+          </div>
+          <div class="span6 right-form">
+            <!-- Form -->
+            <div class="form">
+              <h2 class="animated delay3 bounceIn">Request an application!</h2>
+
+              <div  id="loading" style="display: none" class='alert'>
+                <a class='close' data-dismiss='alert'>×</a>
+                Loading
+              </div>
+              <div id="response"></div>
+
+              <form id="contact" method="post" action="demo">
+
+                <div class="row-fluid">
+                  <div class="span12">
+                    <input type="text" required placeholder="Full Name" name="name" />
+                  </div>
+                </div>
+                <div class="row-fluid">
+                  <div class="span12">
+                    <input type="email" required placeholder="Email" name="email" />
+                  </div>
+                </div>
+
+                <div class="row-fluid">
+                  <div class="span6">
+                    <select name="education" class="input-xlarge">
+                      <option>Education Level</option>
+                      <option>Highschool</option>
+                      <option>Undergrad</option>
+                      <option>Postgrad</option>
+                    </select>
+                  </div>
+                  <div class="span6">
+                    <select name="age" class="input-xlarge">
+                      <option>Age</option>
+                      <option>18 or Under</option>
+                      <option>19 to 24</option>
+                      <option>25 to 34</option>
+                      <option>35 or Over</option>
+                    </select>
+                  </div>
+                </div>
+                <div class="row4">
+                  <input type="submit" data-loading-text="Loading..." class="btn button animated bounceIn" value="Request Application!">
+                </div>
+
+              </form>
+              <div class="clear"></div>
+            </div>
+            <!-- End Form -->
+          </div>
+        </div>
+      </div>
+    </div>
+    <!-- End Slider -->
+
+    </header>
+    <!-- End Header-->
+
+
+
+    <section class="container courses">
+    <h1 class="animated delay1 fadeInDown">UIT is a non-profit orginization that works in partnership with universities and startup incubators to deliver an open source, project-driven curriculum for startup founders. Curated and monitored by industry experts and proven entrepreneurs.</h1>
+
+
+    <div class="row-fluid ">
+
+      <div class="span4">
+        <div class="item">
+          <div class="ch-item ch-img-1 thumb">
+            <div class="ch-info">
+              <!-- <p><a href="#">Read more </a></p> No Page to link -->
+            </div>
+          </div>
+          <h4>Technology</h4>
+          <p>The technical skills and tools required to complete your project.</p>
+          <!-- <a href="#" class="btn">Read More</a> No Page to link -->
+        </div>
+      </div>
+      <div class="span4 fadeInDown delay1">
+        <div class="item">
+          <div class="ch-item ch-img-2 thumb">
+            <div class="ch-info">
+            <!--  <p><a href="#">Read more </a></p> No Page to link -->
+            </div>
+          </div>
+          <h4>Business</h4>
+          <p>Resources to help optimize your experience with investments, legalities, co-founders and employees.</p>
+          <!-- <a href="#" class="btn">Read More</a> No Page to link -->
+        </div>
+      </div>
+      <div class="span4 fadeInDown delay1">
+        <div class="item">
+          <div class="ch-item ch-img-3 thumb">
+            <div class="ch-info">
+            <!--  <p><a href="#">Read more </a></p> No Page to link -->
+            </div>
+          </div>
+          <h4>Product Management</h4>
+          <p>Whether it's a physical product, service, app or idea. Here's the content to keep you on track.</p>
+        <!--  <a href="#" class="btn">Read More</a> No Page to link -->
+        </div>
+      </div>
+
+    </div>
+    </section>
+
+
+
+    <section class="extra">
+    <div class="container">
+
+      <div class="row-fluid">
+
+        <div class="span4">
+          <div class="top-item">
+          <h3 class="iconset iconfacilities animated delay1 fadeInDown">Self Directed</h3>
+          <p class="animated delay1 fadeInUp">Optimize your own educational experience, focus your efforts on practical content.</p> <!-- <a href="#">Read more</a></p> -->
+          </div>
+
+        <div class="bottom-item">
+          <h3 class="iconset iconfacilities animated delay1 fadeInDown">Open Source Curriculum</h3>
+          <p class="animated delay1 fadeInUp"> Classic academic methods aren't providing enough developers,
+          <p class="animated delay1 fadeInUp"> UIT aims to close the talent gap.
+
+          </div>
+        </div>
+
+        <div class="span4">
+          <div class="top-item">
+            <h3 class="iconset iconbestcity animated delay1 fadeInDown">Affiliated with CBU</h3>
+            <p class="animated delay1 fadeInUp">Giving you what online courses can't.</p>
+            <p class="animated delay1 fadeInUp">Accreditation will be granted for completing UIT.</p>
+          </div>
+
+          <div class="bottom-item">
+            <h3 class="iconset iconworldwide animated delay1 fadeInDown">Industry Supported</h3>
+            <p class="animated delay1 fadeInUp">Industry experts, ready to assist.</p>
+            <p class="animated delay1 fadeInUp">People who have been there before help you overcome obstacles and stay on track.</p>
+          </div>
+
+        </div>
+
+        <div class="span4">
+          <div class="top-item">
+            <h3 class="iconset iconcommunity animated delay1 fadeInDown">Project Driven</h3>
+            <p class="animated delay1 fadeInUp">Conventional course driven curriculum lags behind the needs of a progressive industry.</p>
+            <p class="animated delay1 fadeInUp">UIT "Flips the Classroom."</p>
+          </div>
+          <div class="bottom-item">
+            <h3 class="iconset iconfacilities animated delay1 fadeInDown">Continuous Learning</h3>
+            <p class="animated delay1 fadeInUp">Education is not a one-time event. It is a lifelong experience and technology is constantly evolving.</p>
+            <p class="animated delay1 fadeInUp">Learn to keep up with the fast pace of an information-driven world. </p>
+          </div>
+        </div>
+
+      </div>
+
+    </div>
+    </section>
+
+
+
+    <!--Newsletter-->
+    <section class="newsletter">
+    <div class="container">
+      <div class="row-fluid">
+        <h2>Newsletter</h2>
+        <h3>Subcribe to the UIT newsletter and be notified with program updates.</h3>
+        <div id="loadingNews" style="display: none" class='alert'>
+          <a class='close' data-dismiss='alert'>×</a>
+          Loading
+        </div>
+        <div id="responseNews"></div>
+
+        <form id="newsletter" method="post" action="#">
+          <input type="text"  placeholder="Name" name="name" />
+          <input type="email"  placeholder="Email" name="email" />
+          <input type="submit" class="button" value="Subscribe">
+        </form>
+      </div>
+
+    </div>
+    </section>
+    <!--End Newsletter-->
+
+
+
+    <!--Footer-->
+    <footer>
+    <div class="container">
+
+      <div class="row-fluid">
+
+        <div class="span6">
+          <h6>© 2014 UIT. All rights reserved.</h6>
+        </div>
+
+        <div class="span6">
+          <ul class="social">
+            <!-- <li title="Linkedin" class="tooltip_hover"><a href="#" class="linkedin socialicon"></a></li> No linkedin yet -->
+            <li title="Youtube" class="tooltip_hover"><a href="https://www.youtube.com/channel/UCn6qtQoh_paV3m-NCAH97Rg" class="youtube socialicon"></a></li>
+            <li title="Facebook" class="tooltip_hover"><a href="https://www.facebook.com/UITstartup" class="facebook socialicon"></a></li>
+            <li title="Twitter" class="tooltip_hover"><a href="https://twitter.com/UITstartup" class="twitter socialicon"></a></li>
+          </ul>
+        </div>
+
+      </div>
+    </div>
+    </footer>
+    <!--End Footer-->
+
+
+
+    <!-- ======================= JQuery libs =========================== -->
+    <!-- Bootstrap.js-->
+    <script src="js/bootstrap.js"></script>
+
+    <!-- Video -->
+    <script type="text/javascript" src="js/jquery.fitvids.min.js"></script>
+    <script type="text/javascript" src="js/jquery.placeholder.min.js"></script>
+
+    <!-- bxSlider -->
+    <script type="text/javascript" src="js/slider/jquery.bxslider.js"></script>
+
+    <!-- carrousell -->
+    <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+    <script type="text/javascript" src="js/jquery.mousewheel.min.js"></script>
+    <script type="text/javascript" src="js/jcarousellite_1.0.1.pack.js"></script>
+
+    <!-- custom -->
+    <script type="text/javascript" src="js/scripts.js"></script>
+
+    <!-- ======================= End JQuery libs =========================== -->
 
   </body>
 </html>

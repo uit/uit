@@ -1,0 +1,8 @@
+.container {
+    width: 1140px;
+}
+.newsletter input,
+.slider .form .input-xlarge, .slider .form input {
+    height: auto;
+    padding: 11px 5px;
+}

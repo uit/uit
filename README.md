@@ -21,7 +21,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 
 ---
 ####[Technology](technology/README.md)
-#####The technical skills & tools required to complete your project.
+#####Learn code, design, database, and networking while recreating the technology behind some of the world's most successful startups.
 - [Programming](technology/programming/README.md)
 - [Developer Tools](technology/developer-tools/README.md)
 - [Database](technology/database/README.md)
@@ -36,7 +36,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 
 ---
 ####[Business](business/README.md)
-#####Resources to help optimize your experience with investments, legalities, co-founders and employees.
+#####How to find co-founders, raise money, recruit a team, develop a business model, and grow your company.
 - [Team](business/team/README.md)
 - [Incorporation](business/incorporation/README.md)
 - [Intellectual Property](business/intellectual-property/README.md)
@@ -48,8 +48,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 
 ---
 ####[Product](product/README.md)
-#####Whether it's a physical product, service, app or idea. Here's the content to keep you on track.
-- [Customer Discovery](product/customer-discovery/README.md)
+#####Follow lean startup methodologies like problem-solution fit, minimum viable product, and product market fit.
 - [Customer Acquisition](product/customer-aquisition/README.md)
 - [Pricing](product/pricing/README.md)
 - [Marketing](product/marketing/README.md)

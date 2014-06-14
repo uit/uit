@@ -5,135 +5,33 @@ import hoep as h
 
 
 class MyRenderer(h.Hoep):
-    #def preprocess(self, markdown):
-    #    print "Preprocess:", markdown
+    def __init__(self):
+        super(MyRenderer, self).__init__()
+        self.index = []
+        self.current_block = []
+        self.reset()
 
-    def doc_header(self):
-        #print "Doc Header"
-        return ""
+    def reset(self):
+        self.last_header = None
+        self.path = None
+        if self.current_block:
+            self.index.append(self.current_block)
+        self.current_block = []
 
-    def doc_footer(self):
-        #print "Doc Footer"
-        return ""
-
-    def postprocess(self, html):
-        #print "Postprocess", html
-        return html
-
-    def block_code(self, text, language):
-        #print "Block code:", text, language
-        return text
-
-    def block_html(self, text):
-        #print "Block html:", text
-        return text
-
-    def block_quote(self, text):
-        #print "Block quote:", text
-        return text
-
-    def footnotes(self, text):
-        #print "Footnotes:", text
-        return text
-
-    def footnote_def(self, text, number):
-        #print "Footnote def:", text, number
-        return text
+    def set_path(self, path):
+        self.path = path
 
     def header(self, text, level):
-        print "Header:", text, level
-        return text
-
-    def hrule(self):
-        #print "Hrule"
-        return "---"
-
-    def list(self, text, ordered):
-        #print "List:", text, ordered
-        return text
-
-    def list_item(self, text, ordered):
-        #print "List item:", text, ordered
-        return text
-
-    def paragraph(self, text):
-        #print "Paragraph:", text
-        return text
-
-    def table(self, header, body):
-        #print "Table:", header, body
-        return header
-
-    def table_row(self, text):
-        #print "Table row:", text
-        return text
-
-    def table_cell(self, text, flags):
-        #print "Table cell:", text, flags
-        return text
-
-    def autolink(self, link, is_email):
-        print "autolink:", link, is_email
-        return link
-
-    def codespan(self, text):
-        #print "codespan:", text
-        return text
-
-    def double_emphasis(self, text):
-        #print "double_emphasis:", text
-        return text
-
-    def emphasis(self, text):
-        #print "emphasis:", text
-        return text
-
-    def footnote_ref(self, number):
-        #print "footnot_ref:", number
-        return number
-
-    def highlight(self, text):
-        #print "highlight:", text
-        return text
-
-    def image(self, link, mixed_title, alt):
-        #print "image:", link, mixed_title, alt
-        return link
-
-    def line_break(self):
-        #print "line_break"
-        return
+        self.last_header = text
+        return text or "header"
 
     def link(self, link, mixed_title, content):
-        #print "link:", link, mixed_title, content
-        if mixed_title:
-            print '"%s"' % mixed_title,
-        print content, '->', link
-        return link
+        self.current_block.append((self.path, self.last_header, link,
+                                   mixed_title, content))
+        return link or "link"
 
-    def quote(self, text):
-        #print "quote:", text
-        return text
-
-    def raw_html_tag(self, tag):
-        #print "raw_html_tag:", tag
-        return tag
-
-    def strikethrough(self, text):
-        #print "strikethrough:", text
-        return text
-
-    def superscript(self, text):
-        #print "superscript:", text
-        return text
-
-    def triple_emphasis(self, text):
-        #print "triple_emphasis:", text
-        return text
-
-    def underline(self, text):
-        #print "underline:", text
-        return text
+    def emphasis(self, text):
+        return text or "em"
 
 
 md = MyRenderer()
@@ -145,11 +43,29 @@ for root, dirs, files in os.walk(top):
         _, ext = os.path.splitext(name)
         if ext == ".md":
             fn = os.path.join(root, name)
-            print "---------------------", fn, "-------------"
+            md.set_path(fn)
             with open(fn, "r") as f:
                 text = f.read()
                 text = text.decode('utf-8')
                 html = md.render(text)
-                print "---------------------", fn, "-------------"
+    md.reset()
+
+print "<!--- "
+print "      Machine generated - DO NOT EDIT!"
+print "use:  python ./flow/extract.py > toc.md"
+print "-->"
+
+for block in md.index:
+    path, header, link, title, content = block[0]
+    print "##", path
+    last_header = None
+    for path, header, link, title, content in block:
+        if header != last_header:
+            print "###", header
+        last_header = header
+        if title:
+            o = u'[%s](%s "%s")' % (content, link, title)
         else:
-            print "skipping"
+            o = u'[%s](%s)' % (content, link)
+        print o.encode('utf-8')
+

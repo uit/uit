@@ -64,8 +64,8 @@ for block in md.index:
             print "###", header
         last_header = header
         if title:
-            o = u'[%s](%s "%s")' % (content, link, title)
+            o = u' - [%s](%s "%s")' % (content, link, title)
         else:
-            o = u'[%s](%s)' % (content, link)
+            o = u' - [%s](%s)' % (content, link)
         print o.encode('utf-8')
 

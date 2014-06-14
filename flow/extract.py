@@ -58,10 +58,12 @@ print "-->"
 for block in md.index:
     path, header, link, title, content = block[0]
     print "##", path
+    print
     last_header = None
     for path, header, link, title, content in block:
         if header != last_header:
             print "###", header
+            print
         last_header = header
         if title:
             o = u' - [%s](%s "%s")' % (content, link, title)

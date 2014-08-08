@@ -4,6 +4,5 @@ This project will teach you how to build a real time chat system with Node.js an
 
 Tasks:
 - Review the [JavaScript](../technology/programming/javascript.md) material on the UIT GitHub Profile.
-- Install Node.js.
-- Review the Node.js Material on the UIT GitHub Profile.
-- Blog about the experience (links to server, Screen shots of testing)
+- Review the [Node.js](../technology/programming/nodejs.md) Material on the UIT GitHub Profile.
+- Blog about the experience on your Ghost & GitHub Pages.

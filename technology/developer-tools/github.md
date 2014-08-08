@@ -1,4 +1,4 @@
-## Getting Started
+##_GitHub_
 
 - [Learn Version Control with Git](http://www.git-tower.com/learn/)
 - [Try Git](https://try.github.io/levels/1/challenges/1)
@@ -14,13 +14,13 @@
 - [Interactive Tutorial to Github Branching](http://pcottle.github.io/learnGitBranching/)
 - [nodeschool.io](http://nodeschool.io/#git-it)
 
-## GitHub-Pages
+##GitHub-Pages
 
 - [Interactive lesson on setting up GitHub Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)
 - [GitHub Help - gh-pages](https://help.github.com/categories/20/articles)
 - [GitHub Pages Website](https://pages.github.com/)
 
-## Installing Jekyll
+##Installing Jekyll
 
 - [Jekyll Requirements](http://jekyllrb.com/docs/installation/)
 - [Quick Start Guide](http://jekyllrb.com/docs/quickstart/)

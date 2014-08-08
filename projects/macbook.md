@@ -21,7 +21,7 @@ It is important to remember that you will be using these accounts to create your
 - [Google Chrome Canary](http://www.google.ca/intl/en/chrome/browser/canary.html)
 - [Google Drive](https://drive.google.com/)
 - [Mozilla Firefox](https://www.mozilla.org/en-GB/firefox/new/)
--[Firebug Addon](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
+- [Firebug Addon](https://addons.mozilla.org/en-US/firefox/addon/firebug/)
 - [Xcode](../technology/developer-tools/xcode.md)
 - [iTerm2](../technology/developer-tools/iterm2.md)
 - [Cyberduck](https://cyberduck.io/?l=en)

@@ -5,7 +5,7 @@ Setup your computer for a professional work environment. Here is a list of
 
 It is important to remember that you will be using these accounts to create your own, professional brand.
 
-#### **Create Accounts**
+####Create Accounts
       - [GitHub](https://github.com/)
       - [Gmail](http://mail.google.com/)
       - [Twitter](https://twitter.com/)
@@ -15,7 +15,7 @@ It is important to remember that you will be using these accounts to create your
       - [LinkedIn](https://ca.linkedin.com/)
       - [Facebook](https://www.facebook.com/)
 
-#### **Install**
+####Install
       - Sublime Text
       - Google Chrome
       - Google Chrome Canary

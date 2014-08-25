@@ -2,5 +2,3 @@
 
 - [Founders](founders.md)
 - [Leadership](leadership.md)
-- [Leadership](leadership.md)
-

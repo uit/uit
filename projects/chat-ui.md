@@ -26,20 +26,16 @@ Each time you take a break from developing, push your changes to github.
 
 ###[JavaScript](../technology/programming/javascript.md)
 
-####Concepts
-
 **Videos**
 
 - [ ] [Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
 
-####Practice
+**Practice**
 
 - [ ] [Extra Source with Video Tutorials](http://villageparksource.com/intro-to-javascript/) - Follow and copy what the instructor is doing.
 - [ ] [Codecademy JavaScript](http://www.codecademy.com/en/tracks/javascript)  - Some of you have already completed this, you may need a review!
 
 ###[Git](../technology/developer-tools/github.md)
-
-####Concepts
 
 **Articles**
 
@@ -47,18 +43,18 @@ Each time you take a break from developing, push your changes to github.
 - [ ] http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
 - [ ] http://www.quora.com/What-is-Git-used-for-What-does-it-do-exactly
 
-**_eBooks**
+**eBooks**
 
 - [ ] [Git Pro](http://git-scm.com/book)
 
-**_Videos**
+**Videos**
 
 - [ ] [What is Version Control](http://git-scm.com/video/what-is-version-control)
 - [ ] [What is Git](http://git-scm.com/video/what-is-git)
 - [ ] [Get Going with Git](http://git-scm.com/video/get-going)
 - [ ] [Quick Wins with Git](http://git-scm.com/video/quick-wins)
 
-####Practice
+**Practice**
 
 - [ ] [GitHub: Try GitHub in 15 minutes](https://try.github.io/levels/1/challenges/1)
 - [ ] [shortcutFoo Git](https://www.shortcutfoo.com/app/dojos/git) - Complete Git Basics and Branching.
@@ -66,13 +62,11 @@ Each time you take a break from developing, push your changes to github.
 
 ###Command Line
 
-####Concepts
-
 **Articles**
 
 - [ ] http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 
-####Practice
+**Practice**
 
 - [ ] [shortcutFoo Command Line](https://www.shortcutfoo.com/app/dojos/command-line) - Complete Systems Basic and Directories Basic. Bonus: Use the fight feature to challenge other students!
 

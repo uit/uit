@@ -12,10 +12,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 ####[Projects](projects/README.md)
 
 1. [Blog](projects/blog.md)
-2. [GitHub Pages](projects/github-jekyll.md)
-3. [Chat Server](projects/chat-server.md)
-4. [Social Network](projects/social-network.md)
-5. [SSL Terminator & TCP load balancer](projects/ssl-tcp.md)
+2. [Chat Server](projects/chat-ui.md)
 
 ### Resources
 

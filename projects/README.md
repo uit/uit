@@ -5,7 +5,4 @@
 ### Projects
 
 1. [Blog](blog.md)
-2. [GitHub Pages](github-jekyll.md)
-3. [Chat Server](chat-server.md)
-4. [Social Network](social-network.md)
-5. [SSL Terminator & TCP load balancer](ssl-tcp.md)
+2. [Chat UI](chat-ui.md)

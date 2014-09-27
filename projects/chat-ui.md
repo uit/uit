@@ -22,6 +22,8 @@ Each time you make a change, test it out to make sure it works. You should test 
 
 Each time you take a break from developing, push your changes to github.
 
+###[Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA)
+
 ##Resources
 
 ###[JavaScript](../technology/programming/javascript.md)
@@ -30,13 +32,8 @@ Each time you take a break from developing, push your changes to github.
 
 - [ ] [Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
 
-
-###[Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA)
 ---
-####Resources
-___
-##[JavaScript](../technology/programming/javascript.md)
-=======
+
 **Practice**
 
 
@@ -74,7 +71,7 @@ ___
 
 
 ##[Command Line](../technology/developer-tools/command-line.md)
-=======
+
 - [ ] http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 
 

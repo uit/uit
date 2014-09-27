@@ -30,7 +30,7 @@ Each time you take a break from developing, push your changes to github.
 
 - [ ] [Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
 
-<<<<<<< HEAD
+
 ###[Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA)
 ---
 ####Resources
@@ -38,7 +38,7 @@ ___
 ##[JavaScript](../technology/programming/javascript.md)
 =======
 **Practice**
->>>>>>> FETCH_HEAD
+
 
 - [ ] [Extra Source with Video Tutorials](http://villageparksource.com/intro-to-javascript/) - Follow and copy what the instructor is doing.
 - [ ] [Codecademy JavaScript](http://www.codecademy.com/en/tracks/javascript)  - Some of you have already completed this, you may need a review!
@@ -72,11 +72,11 @@ ___
 
 **Articles**
 
-<<<<<<< HEAD
+
 ##[Command Line](../technology/developer-tools/command-line.md)
 =======
 - [ ] http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
->>>>>>> FETCH_HEAD
+
 
 **Practice**
 

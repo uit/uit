@@ -22,63 +22,67 @@ Each time you make a change, test it out to make sure it works. You should test 
 
 Each time you take a break from developing, push your changes to github.
 
----
+##Resources
 
-Refer to the Getting Help section:
-If you get stuck, use [jsfiddle](http://jsfiddle.net/) to test, share and ask questions about your code or UI on [Stackoverflow](http://stackoverflow.com/), [Quora](https://www.quora.com/), or HipChat.
+###[JavaScript](../technology/programming/javascript.md)
 
----
+**Videos**
 
+- [ ] [Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
+
+<<<<<<< HEAD
 ###[Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA)
 ---
 ####Resources
 ___
 ##[JavaScript](../technology/programming/javascript.md)
+=======
+**Practice**
+>>>>>>> FETCH_HEAD
 
-###Concepts
+- [ ] [Extra Source with Video Tutorials](http://villageparksource.com/intro-to-javascript/) - Follow and copy what the instructor is doing.
+- [ ] [Codecademy JavaScript](http://www.codecademy.com/en/tracks/javascript)  - Some of you have already completed this, you may need a review!
 
-####_Videos_
-[Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
+###[Git](../technology/developer-tools/github.md)
 
-###Practice
-[Extra Source with Video Tutorials](http://villageparksource.com/intro-to-javascript/) - Follow and copy what the instructor is doing.
+**Articles**
 
-[Codecademy JavaScript](http://www.codecademy.com/en/tracks/javascript)  - Some of you have already completed this, you may need a review!
+- [ ] http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+- [ ] http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
+- [ ] http://www.quora.com/What-is-Git-used-for-What-does-it-do-exactly
 
-##[Git](../technology/developer-tools/github.md)
+**eBooks**
 
-###Concepts
+- [ ] [Git Pro](http://git-scm.com/book)
 
-####_Articles_
+**Videos**
 
-http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
-http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
-http://www.quora.com/What-is-Git-used-for-What-does-it-do-exactly
+- [ ] [What is Version Control](http://git-scm.com/video/what-is-version-control)
+- [ ] [What is Git](http://git-scm.com/video/what-is-git)
+- [ ] [Get Going with Git](http://git-scm.com/video/get-going)
+- [ ] [Quick Wins with Git](http://git-scm.com/video/quick-wins)
 
-####_eBooks_
-[Git Pro](http://git-scm.com/book)
+**Practice**
 
-####_Videos_
-[What is Version Control](http://git-scm.com/video/what-is-version-control)
-[What is Git](http://git-scm.com/video/what-is-git)
-[Get Going with Git](http://git-scm.com/video/get-going)
-[Quick Wins with Git](http://git-scm.com/video/quick-wins)
+- [ ] [GitHub: Try GitHub in 15 minutes](https://try.github.io/levels/1/challenges/1)
+- [ ] [shortcutFoo Git](https://www.shortcutfoo.com/app/dojos/git) - Complete Git Basics and Branching.
+- [ ] [NodeSchool git-it](https://github.com/jlord/git-it) - Learn Git and GitHub basics: `npm install -g git-it`
 
-####_Practice_
+###Command Line
 
-[GitHub: Try GitHub in 15 minutes](https://try.github.io/levels/1/challenges/1)
-[shortcutFoo Git](https://www.shortcutfoo.com/app/dojos/git) - Create a shortcutFoo account.
-[NodeSchool git-it](https://github.com/jlord/git-it) - Learn Git and GitHub basics: `npm install -g git-it`
+**Articles**
 
+<<<<<<< HEAD
 ##[Command Line](../technology/developer-tools/command-line.md)
+=======
+- [ ] http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
+>>>>>>> FETCH_HEAD
 
-###Concepts
+**Practice**
 
-####_Articles_
+- [ ] [shortcutFoo Command Line](https://www.shortcutfoo.com/app/dojos/command-line) - Complete Systems Basic and Directories Basic. Bonus: Use the fight feature to challenge other students!
 
-http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
+##Support
 
-####_Practice_
-Complete Systems Basic and Directories Basic:
-https://www.shortcutfoo.com/app/dojos/command-line
-Bonus : Use the fight feature to challenge other students!
+Refer to the Getting Help section:
+If you get stuck, use [jsfiddle](http://jsfiddle.net/) to test, share and ask questions about your code or UI on [Stackoverflow](http://stackoverflow.com/), [Quora](https://www.quora.com/), or HipChat.

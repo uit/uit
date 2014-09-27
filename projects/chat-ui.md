@@ -29,6 +29,8 @@ If you get stuck, use [jsfiddle](http://jsfiddle.net/) to test, share and ask qu
 
 ---
 
+###[Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA)
+---
 ####Resources
 ___
 ##[JavaScript](../technology/programming/javascript.md)
@@ -68,7 +70,7 @@ http://www.quora.com/What-is-Git-used-for-What-does-it-do-exactly
 [shortcutFoo Git](https://www.shortcutfoo.com/app/dojos/git) - Create a shortcutFoo account.
 [NodeSchool git-it](https://github.com/jlord/git-it) - Learn Git and GitHub basics: `npm install -g git-it`
 
-##Command Line
+##[Command Line](../technology/developer-tools/command-line.md)
 
 ###Concepts
 

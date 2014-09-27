@@ -22,14 +22,14 @@ Each time you make a change, test it out to make sure it works. You should test 
 
 Each time you take a break from developing, push your changes to github.
 
-###[Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA)
+
 
 ##Resources
 
 ###[JavaScript](../technology/programming/javascript.md)
 
 **Videos**
-
+- [ ] [Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA))
 - [ ] [Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
 
 ---

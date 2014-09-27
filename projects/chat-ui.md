@@ -29,11 +29,13 @@ Each time you take a break from developing, push your changes to github.
 ####Concepts
 
 **Videos**
-[Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
+
+- [ ] [Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
 
 ####Practice
-[Extra Source with Video Tutorials](http://villageparksource.com/intro-to-javascript/) - Follow and copy what the instructor is doing.
-[Codecademy JavaScript](http://www.codecademy.com/en/tracks/javascript)  - Some of you have already completed this, you may need a review!
+
+- [ ] [Extra Source with Video Tutorials](http://villageparksource.com/intro-to-javascript/) - Follow and copy what the instructor is doing.
+- [ ] [Codecademy JavaScript](http://www.codecademy.com/en/tracks/javascript)  - Some of you have already completed this, you may need a review!
 
 ###[Git](../technology/developer-tools/github.md)
 
@@ -41,24 +43,26 @@ Each time you take a break from developing, push your changes to github.
 
 **Articles**
 
-http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
-http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
-http://www.quora.com/What-is-Git-used-for-What-does-it-do-exactly
+- [ ] http://techcrunch.com/2012/07/14/what-exactly-is-github-anyway/
+- [ ] http://stackoverflow.com/questions/315911/git-for-beginners-the-definitive-practical-guide
+- [ ] http://www.quora.com/What-is-Git-used-for-What-does-it-do-exactly
 
 **_eBooks**
-[Git Pro](http://git-scm.com/book)
+
+- [ ] [Git Pro](http://git-scm.com/book)
 
 **_Videos**
-[What is Version Control](http://git-scm.com/video/what-is-version-control)
-[What is Git](http://git-scm.com/video/what-is-git)
-[Get Going with Git](http://git-scm.com/video/get-going)
-[Quick Wins with Git](http://git-scm.com/video/quick-wins)
+
+- [ ] [What is Version Control](http://git-scm.com/video/what-is-version-control)
+- [ ] [What is Git](http://git-scm.com/video/what-is-git)
+- [ ] [Get Going with Git](http://git-scm.com/video/get-going)
+- [ ] [Quick Wins with Git](http://git-scm.com/video/quick-wins)
 
 ####Practice
 
-[GitHub: Try GitHub in 15 minutes](https://try.github.io/levels/1/challenges/1)
-[shortcutFoo Git](https://www.shortcutfoo.com/app/dojos/git) - Create a shortcutFoo account.
-[NodeSchool git-it](https://github.com/jlord/git-it) - Learn Git and GitHub basics: `npm install -g git-it`
+- [ ] [GitHub: Try GitHub in 15 minutes](https://try.github.io/levels/1/challenges/1)
+- [ ] [shortcutFoo Git](https://www.shortcutfoo.com/app/dojos/git) - Complete Git Basics and Branching.
+- [ ] [NodeSchool git-it](https://github.com/jlord/git-it) - Learn Git and GitHub basics: `npm install -g git-it`
 
 ###Command Line
 
@@ -66,12 +70,11 @@ http://www.quora.com/What-is-Git-used-for-What-does-it-do-exactly
 
 **Articles**
 
-http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
+- [ ] http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line
 
 ####Practice
-Complete Systems Basic and Directories Basic:
-https://www.shortcutfoo.com/app/dojos/command-line
-Bonus : Use the fight feature to challenge other students!
+
+- [ ] [shortcutFoo Command Line](https://www.shortcutfoo.com/app/dojos/command-line) - Complete Systems Basic and Directories Basic. Bonus: Use the fight feature to challenge other students!
 
 ##Support
 

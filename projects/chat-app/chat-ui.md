@@ -30,7 +30,7 @@ Each time you take a break from developing, push your changes to github.
 
 
 **Videos**
-- [ ] [Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA))
+- [ ] [Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA)
 - [ ] [Crockford Video Series](https://googledrive.com/host/0B7pG9uD5UFhIbnllcTRCMjNWYnc)
 
 ---

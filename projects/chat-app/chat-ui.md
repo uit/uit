@@ -25,13 +25,9 @@ Each time you take a break from developing, push your changes to github.
 
 
 ##Resources
-<<<<<<< HEAD
-technology/programming/javascript.md
-###[JavaScript](../technology/programming/javascript.md)
-=======
 
 ###[JavaScript](../../technology/programming/javascript.md)
->>>>>>> mikeyaudio/fix-links
+
 
 **Videos**
 - [ ] [Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA))

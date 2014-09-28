@@ -25,7 +25,7 @@ Each time you take a break from developing, push your changes to github.
 
 
 ##Resources
-
+technology/programming/javascript.md
 ###[JavaScript](../technology/programming/javascript.md)
 
 **Videos**

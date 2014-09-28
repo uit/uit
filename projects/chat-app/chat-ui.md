@@ -26,7 +26,7 @@ Each time you take a break from developing, push your changes to github.
 
 ##Resources
 
-###[JavaScript](uit/technology/programming/javascript.md)
+###[JavaScript](../uit/technology/programming/javascript.md)
 
 **Videos**
 - [ ] [Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA))

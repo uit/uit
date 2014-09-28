@@ -25,8 +25,13 @@ Each time you take a break from developing, push your changes to github.
 
 
 ##Resources
+<<<<<<< HEAD
 technology/programming/javascript.md
 ###[JavaScript](../technology/programming/javascript.md)
+=======
+
+###[JavaScript](../../technology/programming/javascript.md)
+>>>>>>> mikeyaudio/fix-links
 
 **Videos**
 - [ ] [Code.org Video - "Code Stars"](https://www.youtube.com/watch?v=dU1xS07N-FA))
@@ -40,7 +45,7 @@ technology/programming/javascript.md
 - [ ] [Extra Source with Video Tutorials](http://villageparksource.com/intro-to-javascript/) - Follow and copy what the instructor is doing.
 - [ ] [Codecademy JavaScript](http://www.codecademy.com/en/tracks/javascript)  - Some of you have already completed this, you may need a review!
 
-###[Git](../technology/developer-tools/github.md)
+###[Git](../../technology/developer-tools/github.md)
 
 **Articles**
 
@@ -70,7 +75,7 @@ technology/programming/javascript.md
 
 
 
-##[Command Line](../technology/developer-tools/command-line.md)
+##[Command Line](../../technology/developer-tools/command-line.md)
 
 **Articles**
 - [ ] http://blog.teamtreehouse.com/introduction-to-the-mac-os-x-command-line

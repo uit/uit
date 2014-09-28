@@ -6,13 +6,13 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 
 ---
 ####Introduction
-  - [Configure your MacBook](projects/macbook.md)
-  - [Programming Concepts](projects/programming-concepts.md)
+  - [Configure your MacBook](projects/introduction/macbook.md)
+  - [Programming Concepts](projects/introduction/programming-concepts.md)
 
 ####[Projects](projects/README.md)
 
-1. [Blog](projects/blog.md)
-2. [Chat Server](projects/chat-ui.md)
+1. [Blog](projects/blog/blog.md)
+2. [Chat Server](projects/chat-app/chat-ui.md)
 
 ### Resources
 

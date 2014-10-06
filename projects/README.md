@@ -1,11 +1,8 @@
 ### Introduction
-  - [Configure your MacBook](macbook.md)
-  - [Programming Concepts](https://github.com/uit/uit/blob/master/technology/programming/introtoprogramming.md)
+  - [Configure your MacBook](introduction/macbook.md)
+  - [Programming Concepts](introduction/https://github.com/uit/uit/blob/master/technology/programming/introtoprogramming.md)
 
 ### Projects
 
-1. [Blog](blog.md)
-2. [GitHub Pages](github-jekyll.md)
-3. [Chat Server](chat-server.md)
-4. [Social Network](social-network.md)
-5. [SSL Terminator & TCP load balancer](ssl-tcp.md)
+1. [Blog](blog/blog.md)
+2. [Chat UI](chat-app/chat-ui.md)

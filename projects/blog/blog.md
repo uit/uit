@@ -3,6 +3,7 @@ For this project you will learn how to deploy software to a cloud based server, 
 
 ####_Tasks:_
 - Install Ghost locally.
+- Search google for 'Digital Ocean Promo Code'
 - Go to DigitalOcean and create an account.
 - Use the promotion code we provide and create a droplet
 - Deploy Ghost on Ubuntu.

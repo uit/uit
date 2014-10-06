@@ -2,7 +2,7 @@
 
 ##Description
 
-In this project, you’ll create a chat [server](http://en.wikipedia.org/wiki/Web_server) with Socket.IO that enables multiple users to send and receive messages in realtime. You'll connect the chat server to the [chat UI](../chat-ui.md) you created in the previous project.
+In this project, you’ll create a chat [server](http://en.wikipedia.org/wiki/Web_server) with Socket.IO that enables multiple users to send and receive messages in realtime. You'll connect the chat server to the [chat UI](chat-ui.md) you created in the previous project.
 
 This project will give you experience with Node.js, Socket.IO, and jQuery.
 

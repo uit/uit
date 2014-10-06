@@ -15,3 +15,4 @@ For this project you will learn how to deploy software to a cloud based server, 
 
 - [Installing Ghost on a Mac](http://docs.ghost.org/installation/mac/)
 - [Mail configuration in ghost](http://docs.ghost.org/mail/)
+- [Ghost mail in DigitalOcean](https://www.digitalocean.com/community/tutorials/how-to-configure-and-maintain-ghost-from-the-command-line)

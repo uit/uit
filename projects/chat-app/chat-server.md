@@ -26,6 +26,6 @@ To understand Socket.IO, you should study the evolution of the web from [pull](h
 - [ ] [XHR](http://en.wikipedia.org/wiki/XMLHttpRequest)
 - [ ] [Ajax](http://en.wikipedia.org/wiki/Ajax_(programming))
 - [ ] [Comet](http://en.wikipedia.org/wiki/Comet_(programming))
-- [ ] [WebSocket]([WebSocket](http://en.wikipedia.org/wiki/WebSocket))
+- [ ] [WebSocket](http://en.wikipedia.org/wiki/WebSocket)
 
 ###[jQuery](../../technology/programming/jquery.md)

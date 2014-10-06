@@ -12,7 +12,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 ####[Projects](projects/README.md)
 
 1. [Blog](projects/blog/blog.md)
-2. [Chat Server](projects/chat-app/chat-ui.md)
+2. [Chat](projects/chat-app/)
 
 ### Resources
 

@@ -1,3 +1,5 @@
+# What is [Redis?](http://stackoverflow.com/questions/7888880/what-is-redis-and-what-do-i-use-it-for)
+
 ## Getting Started with Redis
 
 - Visit the [Redis](http://redis.io/) webpage.
@@ -10,6 +12,7 @@
 
 - [Intro to Redis](https://www.youtube.com/watch?v=qnuuQpNZScw)
 - [node.js, socket.io and redis beginner's tutorial](https://www.youtube.com/watch?v=ptjEwXHWAfQ) with [source code.](https://github.com/johanan/Where-to-eat)
+
 #### Development
 
 - A fifteen minute introduction to [Redis](http://redis.io/topics/data-types-intro) data types.
@@ -29,3 +32,13 @@
 #### Articles
 
 - How Hulu Scaled Serving 4 Billion Videos Using [Redis](http://blog.pivotal.io/pivotal/case-studies-2/case-study-how-hulu-scaled-serving-4-billion-videos-using-redis).
+
+#### Who is using Redis?
+
+-    Rackspace
+-    Blizzard Entertainment
+-    Digg
+-    Stackoverflow
+-    Craigslist
+-    Twitter
+-    Github

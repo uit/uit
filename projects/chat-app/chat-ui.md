@@ -66,11 +66,6 @@ Each time you take a break from developing, push your changes to github.
 - [ ] [shortcutFoo Git](https://www.shortcutfoo.com/app/dojos/git) - Complete Git Basics and Branching.
 - [ ] [NodeSchool git-it](https://github.com/jlord/git-it) - Learn Git and GitHub basics: `npm install -g git-it`
 
-
-
-
-
-
 ##[Command Line](../../technology/developer-tools/command-line.md)
 
 **Articles**

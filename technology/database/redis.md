@@ -9,7 +9,7 @@
 #### Video
 
 - [Intro to Redis](https://www.youtube.com/watch?v=qnuuQpNZScw)
-
+- [node.js, socket.io and redis beginner's tutorial](https://www.youtube.com/watch?v=ptjEwXHWAfQ) with [source code.](https://github.com/johanan/Where-to-eat)
 #### Development
 
 - A fifteen minute introduction to [Redis](http://redis.io/topics/data-types-intro) data types.

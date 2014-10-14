@@ -2,20 +2,18 @@
 
 ##Description
 
-In this project you will be implementing a chat history function which will load once someone joins the chat. You can also implement a search function that will search for keywords in the database.
+In this project you will add chat history to your server. When a user joins the chat, the previous messages will be displayed. As a bonus, you can implement a search feature which will find a search term in the database and return the matching messages.
 
 
 ##Instructions
 
-Create a [fork](https://help.github.com/articles/fork-a-repo/) or [branch](https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches) of your `simple-chat-server` repo and rename the clone to whatever you see fit for this project, for example `mynt-chat-database`.
+The work will be done to tyour existing `simple-chat-server` repo.
 
 Review the Redis resources provided below to get started developing your database.
 
-Create a database that will pull information the users have input and store the data to be viewed in a chat history.
+Store all chat messages in redis.
 
 ##The UIT [Redis](../../technology/database/redis.md) Resource.
-
-
 
 ##Examples
 

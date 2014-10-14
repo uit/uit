@@ -17,8 +17,8 @@ Store all chat messages in redis.
 
 ##Examples
 
-[A reddit style music program built using Node.js and Redis](http://www.upbeatapp.com/).
-[Guess the song game using Node.js, Redis and Socket.io](http://binb.nodejitsu.com/).
+- [A reddit style music program built using Node.js and Redis](http://www.upbeatapp.com/).
+- [Guess the song game using Node.js, Redis and Socket.io](http://binb.nodejitsu.com/).
 
 
 ######This project will give you experience with Redis, Socket.IO, Node.js & JavaScript.

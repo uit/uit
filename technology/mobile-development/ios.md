@@ -1,7 +1,7 @@
 ## iOS Development
 
 ### Courses
-- [Stanford - Developing iOS 7 Apps for iPhone and iPad](http://online.stanford.edu/course/developing-ios7-apps-fall-2013)
+- [Stanford - Developing iOS 7 Apps for iPhone and iPad](https://itunes.apple.com/ca/course/developing-ios-7-apps-for/id733644550)
 - [Barbara Hecker Developing on iOS](https://www.youtube.com/playlist?list=PL1D5B07DD840FB46D)
 
 ### Reference Materials

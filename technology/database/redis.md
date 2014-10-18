@@ -10,14 +10,15 @@
 
 #### Video
 
-- [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
-- [Intermediate "intro" to Redis](https://www.youtube.com/watch?v=qnuuQpNZScw)
+- Implementing and scaling [Redis](https://www.youtube.com/watch?v=rP9EKvWt0zo) at Twitter
+- "Intro" to [Redis](https://www.youtube.com/watch?v=qnuuQpNZScw), is actually intermediate.
 
 
 #### Development
 
 - A fifteen minute introduction to [Redis](http://redis.io/topics/data-types-intro) data types.
 - [Redis](http://openmymind.net/2011/11/8/Redis-Zero-To-Master-In-30-Minutes-Part-1/): Zero to Master in 30 minutes - Part 1.
+- [Redis](http://blog.mjrusso.com/2010/10/17/redis-from-the-ground-up.html) from the ground up.
 
 #### Production
 
@@ -33,10 +34,12 @@
 #### Articles
 
 - How Hulu Scaled Serving 4 Billion Videos Using [Redis](http://blog.pivotal.io/pivotal/case-studies-2/case-study-how-hulu-scaled-serving-4-billion-videos-using-redis).
-- 5 key takeaways when developing with [Redis](https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis#.VEKGcYvF83U)
+- 5 key takeaways when developing with [Redis](https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis#.VEKGcYvF83U).
+- Making the most of [Redis](http://aimeeault.com/2014/06/22/making-the-most-of-redis-and-sorted-sets/) and Sorted Sets.
+- Adding interval sets to [Redis](http://blog.togo.io/how-to/adding-interval-sets-to-redis/).
+- An active blog with [Redis](http://antirez.com/news/79) content.
 
-#### Who is using Redis?
-
+**_Who is using [Redis](http://blog.togo.io/redisphere/redis-roundup-what-companies-use-redis/)?_**
 -    Rackspace
 -    Blizzard Entertainment
 -    Digg

@@ -10,8 +10,9 @@
 
 #### Video
 
-- [Intro to Redis](https://www.youtube.com/watch?v=qnuuQpNZScw)
-- [node.js, socket.io and redis beginner's tutorial](https://www.youtube.com/watch?v=ptjEwXHWAfQ) with [source code.](https://github.com/johanan/Where-to-eat)
+- [Scaling Redis at Twitter](https://www.youtube.com/watch?v=rP9EKvWt0zo)
+- [Intermediate "intro" to Redis](https://www.youtube.com/watch?v=qnuuQpNZScw)
+
 
 #### Development
 
@@ -32,6 +33,7 @@
 #### Articles
 
 - How Hulu Scaled Serving 4 Billion Videos Using [Redis](http://blog.pivotal.io/pivotal/case-studies-2/case-study-how-hulu-scaled-serving-4-billion-videos-using-redis).
+- 5 key takeaways when developing with [Redis](https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis#.VEKGcYvF83U)
 
 #### Who is using Redis?
 

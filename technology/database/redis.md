@@ -47,3 +47,8 @@
 -    Craigslist
 -    Twitter
 -    Github
+
+
+Student Content Submissions
+
+- [Simple Chat Application Using Redis, Socket.io, and Node.js](http://garydengblog.wordpress.com/2013/06/28/simple-chat-application-using-redis-socket-io-and-node-js/)

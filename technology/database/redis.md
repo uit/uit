@@ -37,7 +37,7 @@
 - 5 key takeaways when developing with [Redis](https://redislabs.com/blog/5-key-takeaways-for-developing-with-redis#.VEKGcYvF83U).
 - Making the most of [Redis](http://aimeeault.com/2014/06/22/making-the-most-of-redis-and-sorted-sets/) and Sorted Sets.
 - Adding interval sets to [Redis](http://blog.togo.io/how-to/adding-interval-sets-to-redis/).
-- An active blog with [Redis](http://antirez.com/news/79) content.
+- A [Redis](http://antirez.com/news/79) developer's blog.
 
 **_Who is using [Redis](http://blog.togo.io/redisphere/redis-roundup-what-companies-use-redis/)?_**
 -    Rackspace

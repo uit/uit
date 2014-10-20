@@ -49,7 +49,7 @@
 -    Github
 
 
-Student Content Submissions
+**_Student Content Submissions_**
 
-- [Simple Chat Application Using Redis, Socket.io, and Node.js](http://garydengblog.wordpress.com/2013/06/28/simple-chat-application-using-redis-socket-io-and-node-js/)
-- [Creating a Real Time Chat Application With Socket.io](http://wern-ancheta.com/blog/2013/08/25/creating-a-real-time-chat-application-with-socket-dot-io/)
+- [Simple Chat Application Using Redis, Socket.io, and Node.js](http://garydengblog.wordpress.com/2013/06/28/simple-chat-application-using-redis-socket-io-and-node-js/).
+- [Creating a Real Time Chat Application With Socket.io](http://wern-ancheta.com/blog/2013/08/25/creating-a-real-time-chat-application-with-socket-dot-io/).

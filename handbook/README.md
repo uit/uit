@@ -1,4 +1,4 @@
-#UIT Guidelines
+#UIT Handbook
 
 ## Values
 

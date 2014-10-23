@@ -74,3 +74,9 @@ By [submitting](contributing/README.md) content that would help a student comple
 ####About UIT
 
 UIT is a non-profit foundation that will work in partnership with existing education, from Universities and Education Departments to Incubators.
+
+---
+
+#### [The UIT Handbook](handbook/README.md)
+
+---

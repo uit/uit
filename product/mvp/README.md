@@ -7,3 +7,5 @@
 [eric ries video](https://www.youtube.com/watch?v=E4ex0fejo8w)
 
 [guide to mvp](http://scalemybusiness.com/the-ultimate-guide-to-minimum-viable-products/)
+
+[wikipedia](http://en.wikipedia.org/wiki/Minimum_viable_product)

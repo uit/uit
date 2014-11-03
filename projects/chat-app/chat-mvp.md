@@ -8,4 +8,5 @@ You should have a good idea of the questions you would like to ask him to help y
 
 
 [Minimum Viable Product](../../product/mvp/README.md)
+
 [Weekly Agenda](../../agenda/november/week-one.md)

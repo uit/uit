@@ -7,7 +7,7 @@
 |`9:15 AM`|Wired in at UIT|
 |`1:00 PM`|How to start a startup - Video 4|
 |`2:00 PM`|Group Discussion about the video|
-|`2:20 PM` | Wired in at UIT`|
+|`2:20 PM` | Wired in at UIT|
 ---
 ####Tuesday, November 4th
 |TIME| Description|

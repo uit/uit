@@ -1,2 +1,2 @@
-###[October 2014](october/README.md)
+###[October](october/README.md)
 ###[November](november/README.md)

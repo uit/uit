@@ -14,3 +14,5 @@ Have a great week!
 [Minimum Viable Product](../../product/mvp/README.md)
 
 [Weekly Agenda](../../agenda/november/week-one.md)
+
+You've already installed Redis, but now you need to run Redis as a service on your Ubuntu server. See the section called "Installing Redis more properly" in the [Redis Quick Start](http://redis.io/topics/quickstart). This will show you use a system in Ubuntu called `upstart`, which is used to run programs as services. You can read more about upstart in the [UbuntuBootupHowto](https://help.ubuntu.com/community/UbuntuBootupHowto).

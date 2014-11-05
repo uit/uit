@@ -11,8 +11,9 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 
 ####[Projects](projects/README.md)
 
-1. [Blog](projects/blog/blog.md)
-2. [Chat](projects/chat-app/)
+1. [Blog](projects/blog/)
+2. [Chat](projects/chat/)
+3. [Chat](projects/social-network/)
 
 ---
 ####[Agenda](agenda/README.md)

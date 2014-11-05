@@ -4,5 +4,6 @@
 
 ### Projects
 
-1. [Blog](blog/blog.md)
-2. [Chat UI](chat-app/chat-ui.md)
+1. [Blog](blog/)
+2. [Chat](chat/)
+3. [Social Network](social-network/)

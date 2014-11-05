@@ -5,23 +5,21 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 ###Self Directed; Continuous Learning
 
 ---
-####Introduction
-  - [Configure your MacBook](projects/introduction/macbook.md)
-  - [Programming Concepts](projects/introduction/programming-concepts.md)
+####[Projects](projects/)
 
-####[Projects](projects/README.md)
-
-1. [Blog](projects/blog/)
-2. [Chat](projects/chat/)
-3. [Chat](projects/social-network/)
+1. [Getting Started](projects/getting-started/)
+2. [Blog](projects/blog/)
+3. [Chat](projects/chat/)
+4. [Social Network](projects/social-network/)
 
 ---
-####[Agenda](agenda/README.md)
+####[Agenda](agenda/)
+
 ---
 ### Resources
 
 ---
-####[Technology](technology/README.md)
+####[Technology](technology/)
 #####Learn code, design, database, and networking while recreating the technology behind some of the world's most successful startups.
 - [Programming](technology/programming/README.md)
 - [Developer Tools](technology/developer-tools/README.md)
@@ -36,7 +34,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 - [Servers](technology/servers/README.md)
 
 ---
-####[Business](business/README.md)
+####[Business](business/)
 #####How to find co-founders, raise money, recruit a team, develop a business model, and grow your company.
 - [Team](business/team/README.md)
 - [Incorporation](business/incorporation/README.md)
@@ -48,7 +46,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 - [Pitch Deck](business/pitch-deck/README.md)
 
 ---
-####[Product](product/README.md)
+####[Product](product/)
 #####Follow lean startup methodologies like problem-solution fit, minimum viable product, and product market fit.
 - [Customer Acquisition](product/customer-aquisition/README.md)
 - [Pricing](product/pricing/README.md)

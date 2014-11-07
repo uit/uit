@@ -32,5 +32,5 @@
 |TIME| Description|
 |:---:|:---:|
 |`9:00 AM`|Chat MVP - Pitch Preparation
-|`12:00 PM`|Presentations Start|
+|`2:00 PM`|Presentations Start|
 ---

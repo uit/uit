@@ -18,19 +18,19 @@
 ####Wednesday, November 12th
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Social Network MVP - Wired in at UIT|
+|`9:00 AM`|Social Network IDEA - Wired in at UIT|
 |`9:00 AM`|POST YOUR BLOG!
 |`3:00 PM`|Wired in at UIT|
 ---
 ####Thursday, November 13th
 |TIME| Description|
 |:---:|:---:|
-|`All Day`|Social Network MVP - Wired in at UIT|
+|`All Day`|Social Network IDEA - Wired in at UIT|
 |`4:10 PM`|Class at CBU|
 ---
 ####Friday, November 14th
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Social Network MVP - Pitch Preparation
+|`9:00 AM`|Social Network IDEA - Pitch Preparation
 |`2:00 PM`|Presentations Start|
 ---

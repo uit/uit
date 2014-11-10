@@ -7,7 +7,7 @@
 |`9:15 AM`|Questions|
 |`1:00 PM`|How to start a startup - Video 5|
 |`2:00 PM`|Group Discussion about the video|
-|`2:20 PM` | Makeup Presentations from students who missed last week|
+|`2:20 PM`| Makeup Presentations from students who missed last week|
 ---
 ####Tuesday, November 11th
 |TIME| Description|
@@ -18,19 +18,18 @@
 ####Wednesday, November 12th
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Social Network IDEA - Wired in at UIT|
-|`9:00 AM`|POST YOUR BLOG!
-|`3:00 PM`|Wired in at UIT|
+|`9:00 AM`|Social Network Idea - Wired in at UIT|
+|`9:00 AM`|Post to your Blog!
 ---
 ####Thursday, November 13th
 |TIME| Description|
 |:---:|:---:|
-|`All Day`|Social Network IDEA - Wired in at UIT|
+|`All Day`|Social Network Idea!|
 |`4:10 PM`|Class at CBU|
 ---
 ####Friday, November 14th
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Social Network IDEA - Pitch Preparation
-|`2:00 PM`|Presentations Start|
+|`9:00 AM`|Work on your Social Network Ideas! Where ever you may be!
+|`All-Day`|A second blog post with your Social Network Idea
 ---

@@ -1,3 +1,9 @@
 ##Build a Social Network Using Node.js
 
-This week marks the start of a new project at UIT. You will be use the skills you have learned from the chat application, and apply them to a social network. This project we will work on your MVP first, then you will work on developing those features throughout the project.
+This week marks the start of a new project at UIT. You will be use the skills you have learned from the chat application, and apply them to a social network. This week you will research the history of Social Networks and write a blog post about it by Wednesday. The remainder of the week will be focused on your Social Network MVP.
+
+
+
+
+[Linkedin using Node.js & HTML5](http://venturebeat.com/2011/08/16/linkedin-node/)
+[Myspace.com uses Node.js](https://myspace.com/)

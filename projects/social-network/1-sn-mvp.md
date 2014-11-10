@@ -6,5 +6,3 @@ This week marks the start of a new project at UIT. You will be use the skills yo
 
 
 [Linkedin using Node.js & HTML5](http://venturebeat.com/2011/08/16/linkedin-node/)
-
-[Myspace.com uses Node.js](https://myspace.com/)

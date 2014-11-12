@@ -1,1 +1,1 @@
-1. [Social Network MVP](1-sn-research-week.md)
+1. [Social Network Research Week](1-sn-research-week.md)

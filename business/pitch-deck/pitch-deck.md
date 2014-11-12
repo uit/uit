@@ -5,3 +5,5 @@
 - [What should be in a pitch deck?](http://www.quora.com/Venture-Capital/What-should-be-in-a-pitch-deck)
 
 - [The Best Startup Pitch Decks](http://bestpitchdecks.com/)
+
+- [How to Give a Killer Presentation](https://hbr.org/2013/06/how-to-give-a-killer-presentation/)

@@ -1,5 +1,16 @@
 ##Social Network Wireframe & Design
 
+This week you’ll be focused on creating the wireframe, design, and html/css client for your social network app.
+
+Start with a wireframe. Wireframes enable you to get your app ideas down quickly. Think through the pages that will be required in your app. Is it a single page, or multiple pages? What does each page do? You might have pages to login, register, view profile, edit profile, etc. Next, think of the exact functions of each page. What information will be displayed? What actions can the user take? You may have text, images, fields, buttons, etc. Where does each element go on the page? What will be intuitive for the user?
+
+Show the wireframe to people, get their feedback. Does it make sense to them? Do they understand what your app does? Would they use it? It’s easy to make changes to a wireframe, so it’s a great way implement feedback and make quick iterations.
+
+Once you are happy with your wireframe, you can start on your actual design. You’ll want to pick colors, think of a logo, choose fonts, etc. We’ve included a bunch of design tutorials in the resources to get you on the right track. Some people are great designers naturally. If you’re not one of them it may take you some time, but you can learn!
+
+Again, show the design to some people. Get their feedback. How do the colors make them feel? Did you properly use contrast so that everything is easy to read? Does the design look awesome? What can be changed? Make iterations until you’re happy. A good design is enough to get people excited.
+
+Now, as a final step, take your design and turn it into HTML/CSS. This will prepare you for next week when we start working on the backend server.
 
 
 

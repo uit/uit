@@ -30,4 +30,3 @@ It is important to remember that you will be using these accounts to create your
 - [GitHub App](https://mac.github.com/)
 - [SourceTree](http://www.sourcetreeapp.com/)
 - [Node.js](http://nodejs.org/)
-- [MAMP](http://www.mamp.info/en/)

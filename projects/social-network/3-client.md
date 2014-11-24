@@ -1,5 +1,5 @@
-##Social Network Client Side Functionality
+##Social Network Client
 
-This week you’ll be focused on fine tuning your design and turning it into a html/css client.
+Move your design into HTML, CSS, and JavaScript.
 
-It seems the design took up a lot of time last week. So for the end of this week you will have a client ready for a backend server on the week after.
+Use [Twitter Bootstrap](http://getbootstrap.com/) as a framework.

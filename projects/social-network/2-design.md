@@ -10,11 +10,6 @@ Once you are happy with your wireframe, you can start on your actual design. You
 
 Again, show the design to some people. Get their feedback. How do the colors make them feel? Did you properly use contrast so that everything is easy to read? Does the design look awesome? What can be changed? Make iterations until you’re happy. A good design is enough to get people excited.
 
-Now, as a final step, take your design and turn it into HTML/CSS. This will prepare you for next week when we start working on the backend server.
-
-
-
-
 ####Mockup Tools
 - [Moqups](https://moqups.com/#!/)
 - [Gliffy](https://www.gliffy.com/)

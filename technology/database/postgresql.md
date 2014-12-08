@@ -11,8 +11,8 @@ If you're curious how Postgres compares to other popular relational databases pl
 ####Getting Started with Postgres
 
 - [PostgreSQL Tutorial](http://www.postgresqltutorial.com/)
-- [Install PostgreSql on Mac](http://chris-schmitz.com/the-easy-way-to-get-started-with-postgresql-on-a-mac-postgres-app-and-induction/)
-- [Install PostgreSql on Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-12-04)
+- [Install PostgreSQL on Mac](http://chris-schmitz.com/the-easy-way-to-get-started-with-postgresql-on-a-mac-postgres-app-and-induction/)
+- [Install PostgreSQL on Digital Ocean](https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-12-04)
 - [PostgreSQL Cheatsheet](http://www.cheat-sheets.org/saved-copy/postgresql-cheat-sheet.pdf)
 - [PostgreSQL 9.3 Documentation](http://www.postgresql.org/docs/9.3/static/index.html)
 

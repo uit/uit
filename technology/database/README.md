@@ -21,10 +21,14 @@
 - [Getting Started with Sequelize](http://sequelizejs.com/articles/getting-started)
 - [Working with Node.js and Sequelize](http://truongtx.me/2014/02/25/nodejs-working-with-postgresql-mysql-mariadb-sqlite-database-with-sequelize/)
 
-####[PostgreSQL](postgresql.md)
+####SQL Databases
 
-####[Redis](redis.md)
+#####[PostgreSQL](postgresql.md)
 
-####[SQL](sql.md)
+#####[MySQL](sql.md)
 
-####[NoSQL](nosql.md)
+####NoSQL Databases
+
+#####[Redis](redis.md)
+
+#####[Other NoSQL Databases](nosql.md)

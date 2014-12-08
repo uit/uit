@@ -3,6 +3,13 @@
 ####Introduction
 
 - [Stanford University - Introduction to Databases](https://class.stanford.edu/courses/DB/2014/SelfPaced/about)
+- [Wikipedia: Relational Database](http://en.wikipedia.org/wiki/Relational_database)
+
+####Structured Query Language (SQL)
+
+- [Wikipedia: SQL](http://en.wikipedia.org/wiki/SQL)
+- [SQLzoo](http://sqlzoo.net/wiki/Main_Page)
+- [SQL](http://www.sql.su/)
 
 ####Object-Relational Mapping (ORM)
 

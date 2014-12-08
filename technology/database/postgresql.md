@@ -22,8 +22,10 @@
 
 ####FAQ
 
-*Who is using PostgreSQL?*
+**Who is using PostgreSQL?**
+
 [Instagram](http://instagram.com/), [Reddit](http://www.reddit.com/), [Skype](http://www.skype.com/en/), [Etsy](https://www.etsy.com/), [Disqus](https://disqus.com/) among others.
 
-*How does PostgreSQL compare to other relation databases?*
+**How does PostgreSQL compare to other relation databases?**
+
 [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)

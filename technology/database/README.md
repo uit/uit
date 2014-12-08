@@ -1,5 +1,5 @@
 ##_Database_
-######Database management systems (DBMSs) are computer software applications that interact with the user, other applications, and the database itself to capture and analyze data. A general-purpose DBMS is designed to allow the definition, creation, querying, update, and administration of databases.
+####[Explain it like I'm five - What's a Database?](http://pragmaticstartup.wordpress.com/2012/12/21/explain-it-like-im-5-whats-a-database/)
 
 ####Introduction
 

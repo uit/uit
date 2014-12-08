@@ -9,3 +9,5 @@ For this segment of the social network project you will implement a database for
 3. Data Design: Next, you'll design the data for your social network. Write down the table and column names that you'll need. You can represent the data on paper similar to a spreadsheet. Make sure you have a clean idea in your head and on paper before setting up an actual database. This is similar to the wireframing stage when designing your interface, as it helps you map things out.
 
 4. Setting up your Database: You're going to use Postgres. Checkout the [Postgres](../../technology/database/postgresql.md) section for help installing Postgres locally and connecting from Node.js.
+
+####[*Agenda*](../../agenda/december/week-2.md)

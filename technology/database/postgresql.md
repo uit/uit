@@ -1,8 +1,11 @@
 #PostgreSQL
 
+[PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL) (or simply Postgres), is the most advanced open-source relational database. Postgres is used at [Instagram](http://instagram.com/), [Reddit](http://www.reddit.com/), [Skype](http://www.skype.com/en/), [Etsy](https://www.etsy.com/), [Disqus](https://disqus.com/) and many other well known companies.
+
+If you're curious how Postgres compares to other popular relational databases please checkout: [SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems).
+
 ####Introduction
 
-- [Wikipedia: PostgreSQL](http://en.wikipedia.org/wiki/PostgreSQL)
 - [About PostgreSQL](http://www.postgresql.org/about/)
 
 ####Getting Started with Postgres
@@ -20,12 +23,3 @@
 - [Node-Postgres Example](https://github.com/brianc/node-postgres/wiki/Example)
 - [Working with Node.js and PostgreSQL](https://gigadom.wordpress.com/2014/07/20/working-with-node-js-and-postgresql/)
 
-####FAQ
-
-**Who is using PostgreSQL?**
-
-[Instagram](http://instagram.com/), [Reddit](http://www.reddit.com/), [Skype](http://www.skype.com/en/), [Etsy](https://www.etsy.com/), [Disqus](https://disqus.com/) among others.
-
-**How does PostgreSQL compare to other relation databases?**
-
-[SQLite vs MySQL vs PostgreSQL](https://www.digitalocean.com/community/tutorials/sqlite-vs-mysql-vs-postgresql-a-comparison-of-relational-database-management-systems)

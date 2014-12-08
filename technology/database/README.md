@@ -23,12 +23,10 @@
 
 ####SQL Databases
 
-#####[PostgreSQL](postgresql.md)
-
-#####[MySQL](sql.md)
+- [PostgreSQL](postgresql.md)
+- [MySQL](sql.md)
 
 ####NoSQL Databases
 
-#####[Redis](redis.md)
-
-#####[Other NoSQL Databases](nosql.md)
+- [Redis](redis.md)
+- [Other NoSQL Databases](nosql.md)

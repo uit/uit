@@ -8,8 +8,8 @@
 ####Structured Query Language (SQL)
 
 - [Wikipedia: SQL](http://en.wikipedia.org/wiki/SQL)
-- [SQLzoo](http://sqlzoo.net/wiki/Main_Page)
-- [SQL](http://www.sql.su/)
+- [SQLzoo - Interactive SQL Tutorial](http://sqlzoo.net/wiki/Main_Page)
+- [SQL Cheatsheet](http://www.sql.su/)
 
 ####Object-Relational Mapping (ORM)
 

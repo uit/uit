@@ -1,18 +1,10 @@
 ##_Getting Started_
 
-#### The setup process varies depending on your environment.
-#### [Customer Discovery](customer-discovery/README.md)
+#### The setup process varies depending on your development environment. If you are able to choose your operating system we like UNIX based systems, because there are many programs written for UNIX.
 
-#### [Customer Acquisition](customer-aquisition/README.md)
+#### [Apple OSX](osx-setup.md) is built on unix.
 
-#### [Pricing](pricing/README.md)
+#### [Ubuntu](ubuntu-setup.md) is a newcomer friendly linux distribution built on unix.
 
-#### [Marketing](marketing/README.md)
+#### [Windows](windows-setup.md) unfortunately is not, but we can help you set it up to run the same programs anyway!
 
-#### [Supporting Customers](supporting-customers/README.md)
-
-#### [User Experience](ux/README.md)
-
-#### [The Lean Startup](lean-startup/README.md)
-
-#### [Product Market Fit](product-market-fit/README.md)

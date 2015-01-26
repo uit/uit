@@ -13,7 +13,7 @@
 
 ---
 
-####Tuesday, January 27thth
+####Tuesday, January 27th
 |TIME| Description|
 |:---:|:---:|
 |`All Day`|Mobile Development with Cordova - Wired in at UIT|

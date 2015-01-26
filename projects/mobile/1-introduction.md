@@ -38,6 +38,8 @@ This week your focus will be on creating a login splash page with some functiona
 
 [Intro to Apache Cordova](http://www.informit.com/articles/article.aspx?p=2235541)
 
+[Quickly build icons for multiplatform apps](http://ticons.fokkezb.nl/)
+
 ---
 
 ####[*Agenda*](../../agenda/january/week-4.md)

@@ -11,6 +11,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 2. [Blog](projects/blog/)
 3. [Chat](projects/chat/)
 4. [Social Network](projects/social-network/)
+5. [Mobile](projects/mobile/)
 
 ---
 ####[Agenda](agenda/)

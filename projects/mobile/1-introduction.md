@@ -49,8 +49,12 @@ This week your focus will be on creating a login splash page with some functiona
 
 ####Student Submitted Resources
 
+[Customizing the Splash Screen](http://learn.ionicframework.com/formulas/splash-screen/) - [***Emily MacLeod***](http://maggiestcloud.com/)
+
 [Simple login example with ionic and AngularJS](http://devdactic.com/simple-login-example-with-ionic-and-angularjs/) - [***Carol Louie***](http://uitblog.com/)
 
 [Unable to run app in Simulator - StackOverflow](http://stackoverflow.com/questions/25967606/fbsopenapplicationerrordomain-code-4-error) - [***A.J. Fraser***](http://www.startupodyssey.ca/)
 
-[CodeSchool Angularjs](https://www.codeschool.com/paths/javascript#angular-js)
+[CodeSchool Angularjs](https://www.codeschool.com/paths/javascript#angular-js) - [***Seonaid Lee***](http://seonaidlee.com/)
+
+[What I learned building an app with ionic framework](http://www.betsmartmedia.com/what-i-learned-building-an-app-with-ionic-framework) - [***A.J. Fraser***](http://www.startupodyssey.ca/)

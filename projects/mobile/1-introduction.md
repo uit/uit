@@ -1,8 +1,9 @@
+
 ##Mobile Development with Cordova
 
 We will be learning to develop a mobile application using cordova. Apache Cordova is a set of device APIs that allow a mobile app developer to access native device functions such as the camera, accelerometer or geo navigator from JavaScript.  This allows a smartphone app to be developed with just HTML, CSS, and JavaScript, and combined with the [Ionic Framework](http://ionicframework.com/), will allow you to also achieve a mobile-friendly feel to your apps.
 
-This week your focus will be on creating a login splash page with some functionality on a mobile interface. 
+This week your focus will be on creating a login splash page with some functionality on a mobile interface.
 
 ---
 
@@ -43,3 +44,13 @@ This week your focus will be on creating a login splash page with some functiona
 ---
 
 ####[*Agenda*](../../agenda/january/week-4.md)
+
+---
+
+####Student Submitted Resources
+
+[Simple login example with ionic and AngularJS](http://devdactic.com/simple-login-example-with-ionic-and-angularjs/) - [***Carol Louie***](http://uitblog.com/)
+
+[Unable to run app in Simulator - StackOverflow](http://stackoverflow.com/questions/25967606/fbsopenapplicationerrordomain-code-4-error) - [***A.J. Fraser***](http://www.startupodyssey.ca/)
+
+[CodeSchool Angularjs](https://www.codeschool.com/paths/javascript#angular-js)

@@ -17,3 +17,6 @@
 #####[January 12th - 16th](january/week-2.md)
 #####[January 19th - 23rd](january/week-3.md)
 #####[January 26th - 30th](january/week-4.md)
+
+##*February*
+#####[February 2nd - 6th](february/week-1.md)

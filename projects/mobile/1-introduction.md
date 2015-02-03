@@ -58,3 +58,5 @@ This week your focus will be on creating a login splash page with some functiona
 [CodeSchool Angularjs](https://www.codeschool.com/paths/javascript#angular-js) - [***Seonaid Lee***](http://seonaidlee.com/)
 
 [What I learned building an app with ionic framework](http://www.betsmartmedia.com/what-i-learned-building-an-app-with-ionic-framework) - [***A.J. Fraser***](http://www.startupodyssey.ca/)
+
+[Video Training for AngularJS, React & D3](https://egghead.io/) - [***Matt Johnston***](http://mattjohnston.in/)

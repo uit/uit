@@ -41,6 +41,6 @@ I have added Jeff Andersen to the slack channel as a mentor. He is currently fin
 |TIME| Description|
 |:---:|:---:|
 |`9:00 AM`|Mobile Development with Cordova - Wired in at UIT|
-|`2:00 PM`|We will discuss what is a good scope for presentations this week.|
+|`2:00 PM`|3 minute presentation on your mobile app, include any wireframes you had.|
 
 ---

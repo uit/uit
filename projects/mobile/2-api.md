@@ -26,7 +26,7 @@ ___
 ####Building a Node.js REST API with Express
 [Part One](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6)
 
-Part Two coming soon...
+[Part Two](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-part-two-9152661bf47) *(videos coming soon...)*
 
 ---
 

@@ -9,7 +9,9 @@ Also, [Jeff Andersen](https://twitter.com/jeffandersen) has kindly donated his t
 - [Quora](http://www.quora.com/What-is-an-API?redirected_qid=266088) - What is an API?
 
 - What is [REST](http://rest.elkstein.org/2008/02/what-is-rest.html)?
+
 ---
+
 ####Consuming an API
 
 ######Guides
@@ -17,6 +19,7 @@ Learn how to use the [Mandrill API](http://www.codecademy.com/en/tracks/mandrill
 
 ######Videos
 Developer Uses [Mandrill & Zoho](https://www.youtube.com/watch?v=ndIflJOGSww) for free email hosting.
+
 ___
 
 

@@ -2,7 +2,7 @@
 
 This week will be focused on consuming, modeling and planning an API (Application Programming Interface). You should spend most of your time this week on course material... codecademy, codeschool & the recently attained lynda.com accounts (Thanks again, [Patrick!](https://twitter.com/phankinson)).
 
-Also, Jeff Andersen has kindly donated his time to create a customized UIT REST API tutorial based on your feedback.
+Also, [Jeff Andersen](https://twitter.com/jeffandersen) has kindly donated his time to author a UIT customized, REST API tutorial based on your feedback of preferred learning methods.
 
 - [Explain](https://pragmaticstartup.wordpress.com/2014/01/15/explain-it-like-im-5-what-is-an-application-programming-interface-api/) API like I’m 5.
 
@@ -19,10 +19,13 @@ Learn how to use the [Mandrill API](http://www.codecademy.com/en/tracks/mandrill
 Developer Uses [Mandrill & Zoho](https://www.youtube.com/watch?v=ndIflJOGSww) for free email hosting.
 ___
 
-####REST API
 
-Jeff will have the tutorial with videos for you guys by Monday.
+####Building a Node.js REST API with Express
+[Part One](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6)
 
+Part Two coming soon...
+
+---
 
 ######Revision
 Here are some courses that would prove useful for reinforcement or exploration :

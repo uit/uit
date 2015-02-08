@@ -1,8 +1,8 @@
 ##RESTful API
 
-This week will be focused on consuming, modeling and planning an API (Application Programming Interface). You should spend most of your time this week on course material... codecademy, codeschool & the recently attained lynda.com accounts (Thanks again, [Patrick!](https://twitter.com/phankinson)).
+This week will be focused on consuming, modeling and planning an API (Application Programming Interface). You should spend the majority of your time this week on the tutorial [Jeff Andersen](https://twitter.com/jeffandersen) has kindly donated his time to author for UIT based on your feedback of preferred learning methods. Complete his tutorial by Wednesday so you can be prepared for a Q & A Session.
 
-Also, [Jeff Andersen](https://twitter.com/jeffandersen) has kindly donated his time to author a UIT customized, REST API tutorial based on your feedback of preferred learning methods.
+Any spare time should be spent on other coursework... [Codecademy](http://www.codecademy.com/), [CodeSchool](https://www.codeschool.com/) & the recently attained [lynda.com](http://www.lynda.com/) accounts (Thanks again, [Patrick!](https://twitter.com/phankinson)).
 
 - [Explain](https://pragmaticstartup.wordpress.com/2014/01/15/explain-it-like-im-5-what-is-an-application-programming-interface-api/) API like I’m 5.
 
@@ -24,6 +24,7 @@ ___
 
 
 ####Building a Node.js REST API with Express
+
 [Part One](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-46b0901f29b6)
 
 [Part Two](https://medium.com/@jeffandersen/building-a-node-js-rest-api-with-express-part-two-9152661bf47) *(videos coming soon...)*

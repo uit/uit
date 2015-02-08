@@ -31,7 +31,7 @@ ___
 
 ---
 
-######Revision
+#####Revision
 Here are some courses that would prove useful for reinforcement or exploration :
 
 - [JavaScript Essential Training](http://www.lynda.com/JavaScript-tutorials/JavaScript-Essential-Training/81266-2.html)
@@ -43,5 +43,11 @@ Here are some courses that would prove useful for reinforcement or exploration :
 - Playlist - [Explore Front End Development](http://www.lynda.com/SharedPlaylist/f7ec4c59709b4a57a39170434f5e7330) (JavaScript HTML CSS)
 ___
 
+
+
 ####Student Submitted Resources
 *Please Submit using Slack, Email or pull request*
+
+---
+
+####[*Agenda*](../../agenda/february/week-2.md)

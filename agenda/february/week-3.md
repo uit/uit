@@ -10,12 +10,12 @@
 | TIME | Description |
 |:---:|:---:|
 |`9:00 AM`|Simple Feature Function Mobile Application - Wired in at UIT|
-|`1:00 PM`| 1 on 1 Google Hangouts / 4 to 5 minutes|
 ---
 ####Wednesday, February 18th
 | TIME | Description |
 |:---:|:---:|
 |`All Day`|Simple Feature Function Mobile Application|
+|`1:00 PM`| 1 on 1 Google Hangouts / 4 to 5 minutes|
 ---
 ####Thursday, February 19th
 |TIME| Description|

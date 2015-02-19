@@ -23,6 +23,8 @@ Please reference all of the topics we’ve covered in the last 2 weeks.
 ####Student Submitted Resources
 *Please Submit using Slack, Email or pull request*
 
+[What You Need to Know About APIs to Build Mobile Applications](http://appdevelopermagazine.com/1509/2014/6/1/What-You-Need-to-Know-About-APIs-to-Build-Mobile-Applications/) - [***Heather Voyles***](http://hypertasker.com/)
+
 ---
 
 ####[*Agenda*](../../agenda/february/week-3.md)

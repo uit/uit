@@ -27,6 +27,8 @@ Please reference all of the topics we’ve covered in the last 2 weeks.
 
 - [Ionic Framework Tutorial](https://thinkster.io/ionic-framework-tutorial/?utm_source=mailinglist&utm_medium=email&utm_campaign=pro_launch) - [***Darren MacDonald***](http://darrenmacdonald.ca/)
 
+- [REST API concepts and examples](https://www.youtube.com/watch?v=7YcW25PHnAA) - [***A.J. Fraser***](http://www.startupodyssey.ca/)
+
 
 ---
 

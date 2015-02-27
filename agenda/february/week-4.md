@@ -25,5 +25,5 @@
 ####Friday, February 27th
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Based on 1 on 1s|
+|`2:00 PM`|Presentation on what you achieved this week. Sad Mad Glad.|
 ---

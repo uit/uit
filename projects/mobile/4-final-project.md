@@ -24,4 +24,7 @@ Use of...
 ####Student Submitted Resources
 *Please Submit using Slack, Email or pull request*
 
+- [Building an AngularJS Modal Service](http://weblogs.asp.net/dwahlin/building-an-angularjs-modal-service) - [***Carol Louie***](http://uitblog.com/)
+
+
 ####[*Agenda*](../../agenda/march/week-1.md)

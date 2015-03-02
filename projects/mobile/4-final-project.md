@@ -17,3 +17,11 @@ Node.js
 Express
 PostgreSQL
 Passport (https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+
+
+
+
+####Student Submitted Resources
+*Please Submit using Slack, Email or pull request*
+
+####[*Agenda*](../../agenda/march/week-1.md)

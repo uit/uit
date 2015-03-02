@@ -7,16 +7,16 @@ The project is...to build a mobile app. Come up with your own unique idea. The a
 We will be grading and evaluating these projects based on the following criteria
 
 Understanding of...
-Design
-UX
-Scope of your Idea
+- Design
+- UX
+- Scope of your Idea
 
 Use of...
-Cordova
-Node.js
-Express
-PostgreSQL
-Passport (https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
+- Cordova
+- Node.js
+- Express
+- PostgreSQL
+- Passport (https://scotch.io/tutorials/easy-node-authentication-setup-and-local)
 
 
 

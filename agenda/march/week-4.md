@@ -8,8 +8,8 @@
 |:---:|:---:|
 |`9:00 AM`|Weekly Goals at UIT|
 |`9:15 AM`|Questions about the Week at UIT|
-|`1:00 PM`|How to Start a Startup (Lecture 14 - How to Operate)[https://www.youtube.com/watch?v=6fQHLK1aIBs]|
-|`1:50 PM`||
+|`1:00 PM`|How to Start a Startup --- [Lecture 14 - How to Operate (Keith Rabois)](https://www.youtube.com/watch?v=6fQHLK1aIBs)|
+|`1:50 PM`|Group Discussion - Rob will lead with discussion questions|
 |`2:20 PM`||
 
 ---
@@ -55,4 +55,3 @@
 |:---:|:---:|
 |`9:00 AM`||
 |`All Day`||
-

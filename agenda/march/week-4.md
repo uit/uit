@@ -20,8 +20,8 @@
 
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`| |
-|`2:00 PM`| |
+|`9:00 AM`||
+|`2:00 PM`||
 
 ---
 
@@ -53,6 +53,6 @@
 
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Mobile feature completion|
-|`All Day`|Share your blog post with Rob|
+|`9:00 AM`||
+|`All Day`||
 

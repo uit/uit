@@ -32,6 +32,7 @@
 |TIME| Description|
 |:---:|:---:|
 |`9:00 AM`|Updated weekly project goal pending makeup presentations.|
+|`11:00`|Weather Permitting - Corrine McIsaac Presentation|
 
 
 ---

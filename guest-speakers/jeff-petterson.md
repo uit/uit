@@ -25,6 +25,10 @@
 
 [Contributor to libuv](http://nikhilm.github.io/uvbook/basics.html)
 
+---
+
+[Venture Deals - PDF Download](http://howentrepreneur.com/download-venture-deals-by-brad-feld-jason-pdf-ebook/)
+
 [Call Stack](http://en.wikipedia.org/wiki/Call_stack)
 
 [Angular-UI](https://github.com/angular-ui/ui-router)

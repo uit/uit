@@ -18,7 +18,7 @@ Watch his [Talk on Startups and Engineering](https://www.youtube.com/watch?v=K0w
 - [How to Start a Startup Lecture w/ Marc Andreessen](http://startupclass.samaltman.com/courses/lec09/)
 
 **Engineering**
-- [How JavaScript Executes][http://stackoverflow.com/questions/2342974/when-does-the-browser-execute-javascript-how-does-the-execution-cursor-move]
+- [How JavaScript Executes](http://stackoverflow.com/questions/2342974/when-does-the-browser-execute-javascript-how-does-the-execution-cursor-move)
 - [Call Stack](http://en.wikipedia.org/wiki/Call_stack)
 - ["let" vs "var"](http://stackoverflow.com/questions/762011/javascript-let-keyword-vs-var-keyword)
 - [HTML5rocks.com](http://www.html5rocks.com/en/)

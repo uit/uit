@@ -1,4 +1,4 @@
-##Guest Speakers @ UIT 2014/2015
+###Guest Speakers at UIT 2014/2015
 
 
 ######Tuesday, March 24th, 2015

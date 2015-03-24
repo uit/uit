@@ -12,12 +12,21 @@ Watch his [Talk on Startups and Engineering](https://www.youtube.com/watch?v=K0w
 
 ### Topics Covered
 
-[Venture Deals - PDF Download](http://howentrepreneur.com/download-venture-deals-by-brad-feld-jason-pdf-ebook/)
+**Venture Capital**
 
-[Call Stack](http://en.wikipedia.org/wiki/Call_stack)
+- [Venture Deals - PDF Download](http://howentrepreneur.com/download-venture-deals-by-brad-feld-jason-pdf-ebook/)
+- [How to Start a Startup Lecture w/ Marc Andreessen](http://startupclass.samaltman.com/courses/lec09/)
+- 
+**Engineering**
 
-[Angular-UI](https://github.com/angular-ui/ui-router)
+- [Call Stack](http://en.wikipedia.org/wiki/Call_stack)
 
-[sass/less/stylus](http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320)
+**CSS**
 
-[Mentioned How to Start a Startup Lecture](http://startupclass.samaltman.com/courses/lec09/)
+- [sass/less/stylus](http://code.tutsplus.com/tutorials/sass-vs-less-vs-stylus-preprocessor-shootout--net-24320)
+
+**AngularJS**
+
+- [Angular-UI](https://github.com/angular-ui/ui-router)
+
+

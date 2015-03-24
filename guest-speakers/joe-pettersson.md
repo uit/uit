@@ -23,7 +23,6 @@ Watch his [Talk on Startups and Engineering](https://www.youtube.com/watch?v=K0w
 - ["let" vs "var"](http://stackoverflow.com/questions/762011/javascript-let-keyword-vs-var-keyword)
 - [HTML5rocks.com](http://www.html5rocks.com/en/)
 - [esdiscuss.org](https://esdiscuss.org/)
-- 
 
 **CSS**
 

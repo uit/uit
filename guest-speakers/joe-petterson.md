@@ -1,4 +1,4 @@
-##Jeff Petterson
+##Joe Petterson
 
 ####Website
 [joe8bit](https://joe8bit.com/)

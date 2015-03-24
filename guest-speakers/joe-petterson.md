@@ -16,7 +16,7 @@ Watch his [Talk on Startups and Engineering](https://www.youtube.com/watch?v=K0w
 
 - [Venture Deals - PDF Download](http://howentrepreneur.com/download-venture-deals-by-brad-feld-jason-pdf-ebook/)
 - [How to Start a Startup Lecture w/ Marc Andreessen](http://startupclass.samaltman.com/courses/lec09/)
-- 
+
 **Engineering**
 
 - [Call Stack](http://en.wikipedia.org/wiki/Call_stack)

@@ -1,31 +1,16 @@
 ##Joe Petterson
 
-####Website
-[joe8bit](https://joe8bit.com/)
+Joe runs engineering for AMEA at [McKinsey](http://www.mckinsey.com/). In the past he's worked on [Mozilla Dev Tools](https://developer.mozilla.org/en/docs/Tools), [Microsoft Research](http://research.microsoft.com/en-us/about/), and [ Digital-Science](http://www.digital-science.com/), along with successfully exiting two of his own companies. Joe is also a contributor to open source, including [Protractor](http://angular.github.io/protractor/#/), and [libuv](http://nikhilm.github.io/uvbook/basics.html).
 
-####Twitter
-[/Joe8Bit](https://twitter.com/Joe8Bit)
-
-####Github
-[/Joe8Bit](https://github.com/Joe8Bit)
-
-####Presentation Video
-[Presentation at UIT](https://www.youtube.com/watch?v=K0woOED9n10)
-
-
-####List of Topics Covered
-
-[Worked for Mozilla Dev Tools](https://developer.mozilla.org/en/docs/Tools)
-
-[Worked for Microsoft Research](http://research.microsoft.com/en-us/about/)
-
-[Developer Protractor Test Harness](http://angular.github.io/protractor/#/)
-
-[Worked for Digital-Science](http://www.digital-science.com/)
-
-[Contributor to libuv](http://nikhilm.github.io/uvbook/basics.html)
+See his [Website](https://joe8bit.com/), [Twitter](https://twitter.com/Joe8Bit), and [GitHub](https://github.com/Joe8Bit)
 
 ---
+
+### Presentation Video
+
+Watch his [Talk on Startups and Engineering](https://www.youtube.com/watch?v=K0woOED9n10)
+
+### Topics Covered
 
 [Venture Deals - PDF Download](http://howentrepreneur.com/download-venture-deals-by-brad-feld-jason-pdf-ebook/)
 

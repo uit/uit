@@ -17,6 +17,9 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 ####[Agenda](agenda/)
 
 ---
+####[Guest Speakers](guest-speakers/)
+
+---
 ### Resources
 
 ---

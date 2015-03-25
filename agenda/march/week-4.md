@@ -34,7 +34,7 @@
 |TIME| Description|
 |:---:|:---:|
 |`9:00 AM`|Wired in at UIT|
-|`11:00`||
+|`11:00 AM`|Guest Speaker Presentation - Corrine McIssac|
 
 
 ---

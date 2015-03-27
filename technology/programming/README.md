@@ -4,6 +4,7 @@
 - [JavaScript](javascript.md)
 - [jQuery](jquery.md)
 - [Node.js](nodejs.md)
+- [Angular](angular.md)
 - [Python](python.md)
 - [Ruby](ruby.md)
 - [C++](c++.md)

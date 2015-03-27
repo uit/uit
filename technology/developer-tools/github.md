@@ -1,5 +1,6 @@
 ##_GitHub_
 
+- [Git from the inside-out](https://codewords.recurse.com/issues/two/git-from-the-inside-out)
 - [Learn Version Control with Git](http://www.git-tower.com/learn/)
 - [Try Git](https://try.github.io/levels/1/challenges/1)
 - [Git Basics](https://www.codeschool.com/courses/git-real)
@@ -13,7 +14,7 @@
 - [Git Crash Course](http://www.tangowithdjango.com/book/chapters/git.html#git-crash-course)
 - [Interactive Tutorial to Github Branching](http://pcottle.github.io/learnGitBranching/)
 - [nodeschool.io](http://nodeschool.io/#git-it)
-
+- [gitlet.js](http://gitlet.maryrosecook.com/docs/gitlet.html)
 ##GitHub-Pages
 
 - [Interactive lesson on setting up GitHub Pages](http://www.thinkful.com/learn/a-guide-to-using-github-pages/)

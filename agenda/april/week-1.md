@@ -14,7 +14,7 @@
 ####Tuesday, March 31st
 |TIME| Description|
 |:---:|:---:|
-|`All Day`|Currently creating guidelines for code4startup.com's tutorial|
+|`All Day`|Free time this week should be spent getting familiar with the [Task Rabbit Clone](../../technology/programming/task-rabbit-clone.md)|
 
 ---
 
@@ -22,7 +22,7 @@
 |TIME| Description|
 |:---:|:---:|
 |`9:00 AM`|Idea Generation & Product Validation|
-|'All Day'|Guest Speaker - Announced Shortly|
+|`11:00 AM`|Guest Facilitator - Bob Pelley - Ideation|
 
 ---
 

@@ -10,7 +10,7 @@
 
 - Create a new GitHub repo and only copy the contents of the TaskNinja-Seed Folder, you can keep the other folders around for review but only build off of the files in this folder.
 
-- Follow the Guides and Take your time, be sure to pay attention to syntax. A lot of errors and broken code will come from this.
+- Follow the Guides and **TAKE YOUR TIME**, be sure to pay attention to syntax. A lot of errors and broken code will come from this.
 
 - After each segment of coding you complete commit to GitHub.
 

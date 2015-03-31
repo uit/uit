@@ -17,3 +17,10 @@
 BONUS : Create a github.pages for your application to share progress with the group.
 
 Double BONUS : Alter the idea to make it your own.
+
+
+##### Customization Extras
+
+- [Bootstrap 3 Tutorials](https://www.youtube.com/watch?v=mKt-MDwtVB4)
+
+- [Google Material Design](https://www.youtube.com/watch?v=mKt-MDwtVB4)

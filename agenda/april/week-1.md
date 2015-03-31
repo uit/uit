@@ -14,7 +14,7 @@
 ####Tuesday, March 31st
 |TIME| Description|
 |:---:|:---:|
-|`All Day`|Run the code4startup tutorial on cloning TaskRabbit|
+|`All Day`|Currently creating guidelines for code4startup.com's tutorial|
 
 ---
 
@@ -22,20 +22,22 @@
 |TIME| Description|
 |:---:|:---:|
 |`9:00 AM`|Idea Generation & Product Validation|
+|'All Day'|Guest Speaker - Announced Shortly|
 
 ---
 
 ####Thursday, April 2nd
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Complete the code4startup tutorial. modify it as you see fit and push to github.|
+|`9:00 AM`|Work on your presentation for your Idea|
+|`2:00 PM`|Presentations begin.|
 
 ---
 
 ####Friday, April 3rd
 |TIME| Description|
 |:---:|:---:|
-|`9:00 AM`|Work on your presentation for your Idea|
-|`2:00 PM`|Presentations begin.|
+|'All Day'|Good Friday - Moved Presentations to Thursday|
+|'All Day'|Make up presentations will be held the following Monday if you can't attend Thursday.|
 
 ---

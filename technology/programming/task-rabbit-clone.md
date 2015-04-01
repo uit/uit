@@ -23,4 +23,4 @@ Double BONUS : Alter the idea to make it your own.
 
 - [Bootstrap 3 Tutorials](https://www.youtube.com/watch?v=mKt-MDwtVB4)
 
-- [Google Material Design](https://www.youtube.com/watch?v=mKt-MDwtVB4)
+- [Google Material Design](http://www.google.com/design/spec/material-design/introduction.html#)

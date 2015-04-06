@@ -1,5 +1,14 @@
 #UIT Handbook
 
+**UIT uses core hours, this is the period when every student must be present at UIT. This is important to our culture of collaborative learning. Outside of core hours, you can make your own schedule**
+
+|TIME| Description|
+|:---:|:---:|
+|Monday |`10:00AM - 3:00PM`
+|Wednesday|`10:00AM - 3:00PM`
+|Friday |`10:00AM - 3:00PM`
+
+
 ## Values
 
 - ***Learning*** - Knowing how to learn is very important. You'll never know everything but be confident that you can learn anything. This attitude is your most valuable asset. Learning new concepts and skills will be a struggle. It will take time and effort. Embrace the struggle. Be a lifelong learner.
@@ -9,6 +18,8 @@
 - ***Communication*** - Share, help, and colloborate regularily. Ask anyone a question at anytime (unless they have their headphones on). Answer anyone's question at anytime. Don't act surprised if someone doesn't know something (it was new to you at one point too). Share short status updates. Sum up your progress and describe your plans. It helps everyone to know what you're up to and it helps you to be honest and accountable. Work together. Break into small groups. Pair code. Watch videos. Talk through ideas.
 
 - ***Reliability*** - Be on time. Be available. Let everyone know if you cannot be on time or available. Finish your project. Be known for being reliable.
+
+
 
 - ***Creativity*** - Creativity is valued. Make things interesting. Make things inspiring. Use your imagination. Have a vision.
 

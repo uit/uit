@@ -21,7 +21,7 @@ Matt Creager is the core contributor of GoAngular, a data synchronization integr
 - [ngconfvideos](https://www.youtube.com/user/ngconfvideos)
 - [AngularJS YouTube channel](https://www.youtube.com/user/angularjs)
 
-#####3 Links to an Easy Life.(easier)
+#####Developer Tools for an Easy Life.(easier)
 - [gulpJS](http://gulpjs.com/)
 - [Browserify](http://browserify.org/)
 - [BrowserSync](http://www.browsersync.io/)

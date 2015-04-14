@@ -5,3 +5,5 @@
 - [Framework Fatigue](http://www.allenpike.com/2015/javascript-framework-fatigue/)
 
 - [Cloning TaskRabbit using Angular & Firebase](task-rabbit-clone.md)
+
+- [AngularJS Cheat Sheet](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)

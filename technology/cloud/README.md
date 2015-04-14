@@ -1,3 +1,3 @@
-##_Cloud_
+##_Cloud Hosting_
 
 - [DigitalOcean](digitalocean.md)

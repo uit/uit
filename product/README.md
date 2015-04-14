@@ -9,3 +9,7 @@
 #### [The Lean Startup](lean-startup/README.md)
 
 #### [Product Market Fit](product-market-fit/README.md)
+
+#### [Ideation](ideation/README.md)
+
+#### [Design](design.md)

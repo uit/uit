@@ -1,1 +1,0 @@
-##_Intellectual Property_

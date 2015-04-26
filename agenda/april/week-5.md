@@ -8,23 +8,23 @@
 |1:00 PM|How to Start a Startup [Lecture 17 - How to Design Hardware Products (Hosain Rahman)](https://www.youtube.com/watch?v=F4K_qVlYQkg)|
 |After Video|Discussion about video topics|
 ---
-####Tuesday, April 21st
+####Tuesday, April 28th
 |TIME| Description|
 |:---:|:---:|
 |All Day|Working on designcode.io Tutorial|
 ---
-####Wednesday, April 22nd
+####Wednesday, April 29th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Session with Permjot and Jeff Amerine|
+|All Day|Ideation Session with Permjot and Jeff Amerine|
 ---
-####Thursday, April 23rd
+####Thursday, April 30th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Session with Permjot and Jeff Amerine|
+|All Day|Ideation Session with Permjot and Jeff Amerine|
 ---
-####Friday, April 24th
+####Friday, May 1st
 |TIME| Description|
 |:---:|:---:|
-|10:00 AM|Live coding with Rob|
+|10:00 AM|Live coding with Rob (get your topics in!)|
 ---

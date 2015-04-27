@@ -16,15 +16,15 @@
 ####Wednesday, April 29th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Ideation Session with Permjot and Jeff Amerine|
+|5:00 PM|Guest Speaker - [Jeff Amerine](https://www.linkedin.com/in/jeffamerine) & [Permjot Valia](https://twitter.com/permjotvalia)|
 ---
 ####Thursday, April 30th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Ideation Session with Permjot and Jeff Amerine|
+|9:00 AM|All day Ideation & Customer Development Session with Permjot Valia and Jeff Amerine|
 ---
 ####Friday, May 1st
 |TIME| Description|
 |:---:|:---:|
-|10:00 AM|Live coding with Rob (get your topics in!)|
+|10:00 AM|Live coding with Rob (Get your topics in!)|
 ---

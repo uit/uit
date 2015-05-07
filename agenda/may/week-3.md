@@ -17,7 +17,7 @@
 |:---:|:---:|
 |1:00 PM|How to Start a Startup [Lecture 20 - Later-stage Advice (Sam Altman)](https://www.youtube.com/watch?v=59ZQ-rf6iIc)|
 |After Video|Discussion about video topics|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|6:00 PM - 8:00 PM| Open House Evening for UIT |
 ---
 ####Thursday, May 28th
 |TIME| Description|

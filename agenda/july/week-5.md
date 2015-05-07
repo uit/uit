@@ -5,7 +5,6 @@
 |TIME| Description|
 |:---:|:---:|
 |10:00 AM|Standups|
-|1:00 PM|Presentation - Pinterest Clone|
 ---
 ####Tuesday, July 28th
 |TIME| Description|
@@ -26,4 +25,5 @@
 |TIME| Description|
 |:---:|:---:|
 |10:00 AM|Live coding with Rob|
+|1:00 PM|Final Presentations|
 ---

@@ -5,7 +5,7 @@
 |TIME| Description|
 |:---:|:---:|
 |10:00 AM|Standups|
-|1:00 PM|Presentation - Pinterest Clone|
+|1:00 PM|Presentations|
 ---
 ####Tuesday, July 21st
 |TIME| Description|

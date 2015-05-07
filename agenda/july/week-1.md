@@ -9,7 +9,7 @@
 ####Tuesday, June 30th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|All Day|Project TBD|
 ---
 ####Wednesday, July 1st
 |TIME| Description|
@@ -19,7 +19,7 @@
 ####Thursday, July 2nd
 |TIME| Description|
 |:---:|:---:|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|All Day|Project TBD|
 ---
 ####Friday, July 3rd
 |TIME| Description|

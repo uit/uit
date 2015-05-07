@@ -9,17 +9,17 @@
 ####Tuesday, July 14th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|All Day|Project TBD|
 ---
 ####Wednesday, July 15th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|All Day|Project TBD|
 ---
 ####Thursday, July 16th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|All Day|Project TBD|
 ---
 ####Friday, July 17th
 |TIME| Description|

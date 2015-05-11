@@ -16,6 +16,7 @@
 ####Wednesday, May 13th
 |TIME| Description|
 |:---:|:---:|
+|10:00 AM - 11:30 PM|Value Proposition Course (CBU)|
 |All Day|Working on design+code tutorial|
 ---
 ####Thursday, May 14th
@@ -26,6 +27,7 @@
 ####Friday, May 15th
 |TIME| Description|
 |:---:|:---:|
-|10:00 AM|Live coding with Rob|
+|10:00 AM - 11:30 PM|Value Proposition Course (CBU)|
+|11:30 AM|Live coding with Rob|
 |2:00 PM|Presentations (Shifting to Friday for this week due to Break Week)|
 ---

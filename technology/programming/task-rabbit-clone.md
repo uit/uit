@@ -6,7 +6,7 @@
 
 - Watch what you are going to build in this project.
 
-- Follow the Setup Video. I recommend following along with [Sublime Text](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203083.dmg)...Webstorm is adding files and possibly confusing things.
+- Follow the Setup Video. I recommend following along with [Sublime Text](http://c758482.r82.cf2.rackcdn.com/Sublime%20Text%20Build%203083.dmg)...Webstorm is [adding files](http://stackoverflow.com/questions/11968531/what-to-gitignore-from-the-idea-folder) and possibly confusing things.
 
 - Create a new GitHub repo and only copy the contents of the TaskNinja-Seed Folder, you can keep the other folders around for review but only build off of the files in this folder.
 

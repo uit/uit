@@ -17,6 +17,7 @@
 |TIME| Description|
 |:---:|:---:|
 |10:00 AM - 11:30 PM|Value Proposition Course (CBU)|
+|1:00 PM|Live coding with Rob **Rescheduled from Friday!**|
 |All Day|Working on design+code tutorial|
 ---
 ####Thursday, May 14th
@@ -27,7 +28,8 @@
 ####Friday, May 15th
 |TIME| Description|
 |:---:|:---:|
+|9:30 AM - 10:00 AM|Photos with Carol! **(We are doing a group photo so please try and be here a little early!)**|
 |10:00 AM - 11:30 PM|Value Proposition Course (CBU)|
-|11:30 AM|Live coding with Rob|
+|11:30 AM - 2:00 PM|Mugshot Photos with Carol!|
 |2:00 PM|Presentations (Shifting to Friday for this week due to Break Week)|
 ---

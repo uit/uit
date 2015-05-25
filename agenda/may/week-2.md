@@ -28,6 +28,6 @@
 |TIME| Description|
 |:---:|:---:|
 |10:00 AM - 11:30 PM|Value Proposition Course (CBU)|
-|1:00 PM|Live coding with Rob|
+|1:00 PM|Live coding with Rob (Google Custom Search)|
 |Before End of Day|Blog entries are due!|
 ---

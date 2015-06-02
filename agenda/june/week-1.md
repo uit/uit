@@ -15,6 +15,7 @@
 ####Wednesday, June 3rd
 |TIME| Description|
 |:---:|:---:|
+|9:00 AM|Reno Design Review with Mike Targett|
 |10:00 AM - 11:30 PM|Value Proposition Course (CBU)|
 |1:00 PM|Live coding with Rob|
 |2:00 PM|Live feedback session with Mike Ouelette|

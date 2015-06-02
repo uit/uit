@@ -17,6 +17,7 @@
 |:---:|:---:|
 |10:00 AM - 11:30 PM|Value Proposition Course (CBU)|
 |1:00 PM|Live coding with Rob|
+|2:00 PM|Live feedback session with Mike Ouelette|
 |All Day|Code4Startup Clone in Ruby (https://code4startup.com/projects/hero-learn-ruby-on-rails-and-wistia-apis-by-cloning-code4startup-version-newbies)|
 ---
 ####Thursday, June 4th

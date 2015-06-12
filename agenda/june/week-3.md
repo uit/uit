@@ -5,7 +5,7 @@
 |TIME| Description|
 |:---:|:---:|
 |10:00 AM|Standups|
-|1:00PM - 3:00PM|Mini-Hackathon!  For those who want a refresh on what we'll be working on, we'll be combining Mike T's mailing list, A.J. and Darren's Slack Request-An-Invite\, and a blog like Rob mentioned at the StartupCapeBreton 3.0 brainstorming event. We wil also add all content from past events onto one site (Mike T has the resources to add)|
+|1:00PM - 3:00PM|Mini-Hackathon!  For those who want a refresh on what we'll be working on, we'll be combining Mike T's mailing list, A.J. and Darren's Slack Request-An-Invite, and a blog like Rob mentioned at the Startup Cape Breton 3.0 brainstorming event. We wil also add all content from past events onto one site (Mike T has the resources to add)|
 ---
 ####Tuesday, June 16th
 |TIME| Description|

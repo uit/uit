@@ -10,18 +10,18 @@
 ####Tuesday, June 16th
 |TIME| Description|
 |:---:|:---:|
-|`All Day`|Code4Pro Tutorial (https://code4startup.com/projects/hero-learn-ruby-on-rails-and-full-stack-by-cloning-code4startup-version-pro)|
+|`All Day`|[Code4Pro Tutorial] (https://code4startup.com/projects/hero-learn-ruby-on-rails-and-full-stack-by-cloning-code4startup-version-pro)|
 ---
 ####Wednesday, June 17th
 |TIME| Description|
 |:---:|:---:|
 |`10:00 AM - 11:30 PM`|Value Proposition Course (CBU)|
-|`All Day`|Code4Pro Tutorial (https://code4startup.com/projects/hero-learn-ruby-on-rails-and-full-stack-by-cloning-code4startup-version-pro)|
+|`All Day`|[Code4Pro Tutorial] (https://code4startup.com/projects/hero-learn-ruby-on-rails-and-full-stack-by-cloning-code4startup-version-pro)|
 ---
 ####Thursday, June 18th
 |TIME| Description|
 |:---:|:---:|
-|`All Day`|Code4Pro Tutorial (https://code4startup.com/projects/hero-learn-ruby-on-rails-and-full-stack-by-cloning-code4startup-version-pro)|
+|`All Day`|[Code4Pro Tutorial] (https://code4startup.com/projects/hero-learn-ruby-on-rails-and-full-stack-by-cloning-code4startup-version-pro)|
 ---
 ####Friday, June 19th
 |TIME| Description|

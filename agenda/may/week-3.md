@@ -10,7 +10,7 @@
 ####Tuesday, May 26th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|All Day|[Pinterest Clone] (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
 |6:00 PM - 8:00 PM| Open House Evening for UIT |
 ---
 ####Wednesday, May 27th
@@ -23,7 +23,7 @@
 ####Thursday, May 28th
 |TIME| Description|
 |:---:|:---:|
-|All Day|Pinterest Clone (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
+|All Day|[Pinterest Clone] (http://www.freecodecamp.com/challenges/basejump:-build-a-pinterest-clone)|
 ---
 ####Friday, May 29th
 |TIME| Description|

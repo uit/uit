@@ -1,4 +1,5 @@
 ##Joe Pettersson
+####Engineering Leader, McKinsey
 
 Joe runs engineering for AMEA at [McKinsey](http://www.mckinsey.com/). In the past he's worked on [Mozilla Dev Tools](https://developer.mozilla.org/en/docs/Tools), [Microsoft Research](http://research.microsoft.com/en-us/about/), and [ Digital-Science](http://www.digital-science.com/), along with successfully exiting two of his own companies. Joe is also a contributor to open source, including [Protractor](http://angular.github.io/protractor/#/), and [libuv](http://nikhilm.github.io/uvbook/basics.html).
 

@@ -1,4 +1,4 @@
-##_Programming_
+##Programming Resources
 
 - [Intro to Programming](introtoprogramming.md)
 - [JavaScript](javascript.md)

@@ -1,4 +1,5 @@
 ##Matt Creager
+####Prime Engineer, Heroku
 
 Matt is a a Developer Advocate at Heroku, which makes it his job to help developers design, build & deploy applications at scale. Previously, he worked at GoInstant on a data synchronization integration for AngularJS and BlackBerry analyzing petabytes of data, building real-time analytics dashboards, debugging enormous distributed systems, and doing his best to understand what makes for healthy systems and happy use.
 
@@ -6,6 +7,7 @@ Matt is a a Developer Advocate at Heroku, which makes it his job to help develop
 - [LinkedIn](https://ca.linkedin.com/in/matthewcreager)
 - [GitHub](https://github.com/mattcreager)
 
+---
 
 ### Presentation Video
 

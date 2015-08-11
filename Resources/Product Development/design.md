@@ -25,8 +25,6 @@
 
 ###Social Networks
 
-[Ocean](http://ocean.ink/) is a community of designers sharing feedback.
-
 [Dribble](https://dribbble.com/) is show and tell for designers.
 
 ###Design Guidelines

@@ -33,7 +33,7 @@
 
 - ***Update*** - Everyday, send a short status update to the #general channel in chat. Use the #update tag. Between one sentence and two paragraphs is appropriate. Include relevant links and images.
 
-## Contributing
+## <a name="contributing"></a>Contributing
 
 - Simplest way is to create a [New Issue](https://github.com/uit/uit/issues/new) and put the link to the content there with a short desciption of why it's useful and we'll do the rest.
 - [Fork](https://help.github.com/articles/fork-a-repo) this repo and after adding new links to it, make a [Pull Request](https://help.github.com/articles/using-pull-requests).

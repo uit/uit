@@ -1,17 +1,17 @@
 #[UIT](https://github.com/uit/uit/)
 
-An open-source, project driven curriculum for startup founders. [Developed](contributing/README.md) by technology professionals and proven entrepreneurs.
+An open-source, project driven curriculum for startup founders. [Developed](Handbook#contributing) by technology professionals and proven entrepreneurs.
 
 ###Self Directed; Continuous Learning
 
 ---
-####[Projects](projects/)
+####[Projects](Projects/)
 
-1. [Getting Started](projects/getting-started/)
-2. [Blog](projects/blog/)
-3. [Chat](projects/chat/)
-4. [Social Network](projects/social-network/)
-5. [Mobile](projects/mobile/)
+1. [Getting Started](Projects/1-Getting-Started/)
+2. [Blog](Projects/2-Blog/)
+3. [Chat](Projects/3-Chat/)
+4. [Social Network](Projects/4-Social-Network/)
+5. [Mobile App](Projects/5-Mobile-App/)
 
 ---
 ####[Agenda](Agenda/)
@@ -49,7 +49,7 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 - [Negotiation Tactics](Resources/Business#negotiations)
 
 ---
-####[Product](Resources/Product Development/)
+####[Product Development](Resources/Product Development/)
 #####Follow lean startup methodologies like problem-solution fit, minimum viable product, and product market fit.
 - [Customer Acquisition and Development](Resources/Product Development#customeraquisition)
 - [Pricing and Revenue Models](Resources/Product Development#pricing)
@@ -69,9 +69,9 @@ Everything an aspiring founder needs to build their startup is online. Learn to 
 
 Students will build 10 applications across different industries and technologies. Every app they create will be hosted on their public profile, including source code, pitch deck, and blog posts about their learning experience. Ultimately, the student will identify an opportunity and acquire the necessary skills to launch a real start-up.
 
-######_How Can You [Help](contributing/README.md)?_
+######_How Can You [Help](Handbook#contributing)?_
 
-By [submitting](contributing/README.md) content that would help a student complete a project such as:
+By [submitting](Handbook#contributing) content that would help a student complete a project such as:
 
     - tutorials
     - blogs

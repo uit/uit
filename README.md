@@ -14,50 +14,51 @@ An open-source, project driven curriculum for startup founders. [Developed](cont
 5. [Mobile](projects/mobile/)
 
 ---
-####[Agenda](agenda/)
+####[Agenda](Agenda/)
 
 ---
-####[Guest Speakers](guest-speakers/)
+####[Mentors](Mentors/)
 
 ---
 ### Resources
 
 ---
-####[Technology](technology/)
+####[Technology](Resources/Technology/)
 #####Learn code, design, database, and networking while recreating the technology behind some of the world's most successful startups.
-- [Programming](technology/programming/README.md)
-- [Developer Tools](technology/developer-tools/README.md)
-- [Database](technology/database/README.md)
-- [Mobile Development](technology/mobile-development/README.md)
-- [Networking](technology/networking/README.md)
-- [Security](technology/security/README.md)
-- [Distributed Systems](technology/distributed-systems/README.md)
-- [Quality Assurance](technology/quality-assurance/README.md)
-- [Terminology](technology/terminology/README.md)
-- [Cloud](technology/cloud/README.md)
-- [Servers](technology/servers/README.md)
+- [Programming](Resources/Technology/programming/README.md)
+- [Developer Tools](Resources/Technology/developer-tools/README.md)
+- [Database](Resources/Technology/database/README.md)
+- [Mobile Development](Resources/Technology/mobile-development/README.md)
+- [Networking](Resources/Technology/networking/README.md)
+- [Security](Resources/Technology/security/README.md)
+- [Distributed Systems](Resources/Technology/distributed-systems/README.md)
+- [Quality Assurance](Resources/Technology/quality-assurance/README.md)
+- [Terminology](Resources/Technology/terminology/README.md)
+- [Cloud](Resources/Technology/cloud/README.md)
+- [Servers](Resources/Technology/servers/README.md)
 
 ---
-####[Business](business/)
+####[Business](Resources/Business/)
 #####How to find co-founders, raise money, recruit a team, develop a business model, and grow your company.
-- [Team](business/team/README.md)
-- [Incorporation](business/incorporation/README.md)
-- [Intellectual Property](business/intellectual-property/README.md)
-- [Employees](business/employees/README.md)
-- [Investment](business/investment/README.md)
-- [Industries](business/industries/README.md)
-- [Management](business/management/README.md)
-- [Pitch Deck](business/pitch-deck/README.md)
+- [Team Building](Resources/Business#team)
+- [Incorporation](Resources/Business#incorporation)
+- [Intellectual Property](Resources/Business#intellectualproperty)
+- [Employees](Resources/Business#employees)
+- [Investment](Resources/Business#investment)
+- [Pitching](Resources/Business#pitching)
+- [Negotiation Tactics](Resources/Business#negotiations)
 
 ---
-####[Product](product/)
+####[Product](Resources/Product Development/)
 #####Follow lean startup methodologies like problem-solution fit, minimum viable product, and product market fit.
-- [Customer Acquisition](product/customer-aquisition/README.md)
-- [Pricing](product/pricing/README.md)
-- [Marketing](product/marketing/README.md)
-- [Supporting Customers](product/supporting-customers/README.md)
-- [User Experience](product/ux/README.md)
-- [The Lean Startup](product/lean-startup/README.md)
+- [Customer Acquisition and Development](Resources/Product Development#customeraquisition)
+- [Pricing and Revenue Models](Resources/Product Development#pricing)
+- [User Experience](Resources/Product Development#ux)
+- [The Lean Startup](Resources/Product Development#leanstartup)
+- [Product Market Fit](Resources/Product Development#productmarketfit)
+- [Ideation](Resources/Product Development#ideation)
+- [Design](Resources/Product Development/design.md)
+- [Sales](Resources/Product Development#sales)
 
 ---
 ### Developing the Future
@@ -83,6 +84,6 @@ UIT is a non-profit foundation that will work in partnership with existing educa
 
 ---
 
-#### [The UIT Handbook](handbook/README.md)
+#### [The UIT Handbook](Handbook/README.md)
 
 ---

@@ -1,20 +1,20 @@
 ##Business Resource Directory
 ---
 
-###Team Building
+### <a name="teambuilding"></a>Team Building
 
 - [Venture Hacks: How to pick a co-founder](http://venturehacks.com/articles/pick-cofounder)
 - [Nancy Koehn: Leadership Lessons From the Shackleton Expedition](http://www.nytimes.com/2011/12/25/business/leadership-lessons-from-the-shackleton-expedition.html)
 
-###Incorporation
+### <a name="incorporation"></a>Incorporation
 
 - (We should get some resources for here.)
 
-###Intellectual Property
+### <a name="intellectualproperty"></a>Intellectual Property
 
 - (We should get some resources for here.)
 
-###Employees
+### <a name="employees"></a>Employees
 
 #####Recruiting
 
@@ -24,13 +24,13 @@
 
 - [6 Questions for Startups to Ask Themselves Before Hiring Bootcamp Grads](https://medium.com/@keen_io/6-questions-for-startups-to-ask-themselves-before-hiring-bootcamp-grads-fdb50a7c985)
 
-###Investment
+### <a name="investment"></a>Investment
 
 - [Dave McClure: VC Evolution: Physician, Scale Thyself.](http://500hats.com/VC-evolution-geeks-got-next)
 - [Ask the VC](http://www.askthevc.com/wp/archives/2011/09/convertible-debt-%E2%80%93-the-discount.html)
 - [Gil Dibner: Towards a VC code of conduct](http://venturebeat.com/2014/01/17/towards-a-vc-code-of-conduct/)
 
-###Pitching
+### <a name="pitching"></a>Pitching
 
 - [Paul Graham: How to Convince Investors](http://paulgraham.com/convince.html)
 - [Mark Suster: Raising Venture Capital](http://www.bothsidesofthetable.com/pitching-a-vc/)
@@ -42,6 +42,6 @@
 - [3 Slides then Shut up](http://www.mondaynote.com/2015/05/04/three-slides-then-shut-up-the-art-of-the-pitch/)
 - [3 Slides? Your Nuts, How about Seven](http://www.mondaynote.com/2015/05/11/three-slides-youre-nuts-ok-how-about-seven/)
 
-###Negotiations
+### <a name="negoations"></a>Negotiations
 
 - [Your Secret Weapon for Winning Negotiations](http://visual.ly/secret-weapon-winning-any-negotiation-anchoring)

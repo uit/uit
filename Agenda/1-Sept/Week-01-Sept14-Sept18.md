@@ -44,7 +44,7 @@
 ---
 **Objective:** To finish out the week, we will have presentations in the afternoon.  For your presentation, we would like you to outline what you learned this week, and your overall experience.  This is your moment to display what you have accomplished and where you are going.  Be inspiring.  Give constructive feedback to others.
 
-It is recommended that you start out by using [Google Slides](https://www.google.ca/slides/about/){:target="_blank"} for your presentations, but not required.
+It is recommended that you start out by using [Google Slides](https://www.google.ca/slides/about/) for your presentations, but not required.
 
 |TIME| Description|
 |:---:|:---:|

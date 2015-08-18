@@ -18,7 +18,7 @@
 
 ####Wednesday, September 30th
 ---
-**Objective:** Now that you have your client-facing interface and server-side application ready, it's time to connect to a database and begin storing and retrieving data!  We will learn about several different types of databases throughout the year, and for this portion of the project, we will use [Firebase](https://www.firebase.com/).  Firebase is a BaaS (Backend as a Service) database, which means that you don't have to set up a database server in order to use it (I'll fill you in on Firebase during the live code presentation).  Please see [the Chat Application Data Layer](../../Projects/3-Chat/3-data) for detailed instructions and a list of resources.
+**Objective:** Now that you have your client-facing interface and server-side application ready, it's time to connect to a database and begin storing and retrieving data!  We will learn about several different types of databases throughout the year, and for this portion of the project, we will use [Firebase](https://www.firebase.com/).  Firebase is a BaaS (Backend as a Service) database, which means that you don't have to set up a database server in order to use it (I'll fill you in on Firebase during the live code presentation).  Please see [the Chat Application Data Layer](../../Projects/3-Chat/3-data.md) for detailed instructions and a list of resources.
 
 |TIME| Description|
 |:---:|:---:|

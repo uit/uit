@@ -2,7 +2,7 @@
 
 ####Monday, September 21st
 ---
-**Objective:** This week we will begin working on your very own chat application!  We will begin by developing the client-facing front end interface.  Please see [the Chat Application Client Project Page](../../Projects/3-Chat/1-client) for detailed instructions and a list of resources.
+**Objective:** This week we will begin working on your very own chat application!  We will begin by developing the client-facing front end interface.  Please see [the Chat Application Client Project Page](../../Projects/3-Chat/1-client.md) for detailed instructions and a list of resources.
 
 |TIME| Description|
 |:---:|:---:|
@@ -37,7 +37,7 @@
 
 ####Friday, September 25th
 ---
-**Objective:** Today we'll begin working on the server-side of your chat application.  For this, you will be using [socket.IO](http://socket.io/), [NodeJS](https://nodejs.org/), and [jQuery](https://jquery.com/).  Please see [the Chat Application Server Project Page](../../Projects/3-Chat/2-server) for detailed instructions and a list of resources.
+**Objective:** Today we'll begin working on the server-side of your chat application.  For this, you will be using [socket.IO](http://socket.io/), [NodeJS](https://nodejs.org/), and [jQuery](https://jquery.com/).  Please see [the Chat Application Server Project Page](../../Projects/3-Chat/2-server.md) for detailed instructions and a list of resources.
 
 |TIME| Description|
 |:---:|:---:|

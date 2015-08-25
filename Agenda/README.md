@@ -4,8 +4,8 @@
 
 ###*September*
 #####[Week 1: September 14th - 18th](1-Sept/Week-01-Sept14-Sept18.md)
-#####[Week 2: September 21st - 25th](1-Sept/Week-01-Sept21-Sept25.md)
-#####[Week 3: September 28th - October 2nd](1-Sept/Week-01-Sept28-Oct2.md)
+#####[Week 2: September 21st - 25th](1-Sept/Week-02-Sept21-Sept25.md)
+#####[Week 3: September 28th - October 2nd](1-Sept/Week-03-Sept28-Oct2.md)
 ---
 ###*October*
 #####[Week 4: October 5th - 9th](2-Oct/Week-04-Oct5-Oct9.md)

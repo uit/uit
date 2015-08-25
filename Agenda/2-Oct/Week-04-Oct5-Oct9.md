@@ -2,6 +2,7 @@
 
 ####Monday, October 5th
 ---
+**Objective:** 
 |TIME| Description|
 |:---:|:---:|
 |10:00 AM|Standups|

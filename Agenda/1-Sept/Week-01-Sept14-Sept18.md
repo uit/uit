@@ -2,11 +2,12 @@
 
 ####Monday, September 14th
 ---
-**Objective:** Today you will set up your MacBooks with most of the software that you will be regularly using throughout the year. Please see [Getting Started](../../Projects/1-Getting-Started) for a list of required accounts and packages that you will need.
+**Objective:** Welcome to UIT! We'll start today with a meet and greet, and afterwards you will receive and set up your MacBooks with most of the software that you will be using throughout the year. Please see [Getting Started](../../Projects/1-Getting-Started) for a list of required accounts and packages that you will need.
 
 |TIME| Description|
 |:---:|:---:|
-|10:00am|Standups|
+|10:00am|Meet and Greet|
+|After Meet and Greet|Receiving and setting up your MacBooks|
 ---
 
 ####Tuesday, September 15th

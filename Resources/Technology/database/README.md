@@ -8,6 +8,7 @@
 
 ####Structured Query Language (SQL)
 
+- [Intro to SQL: Querying and managing data](https://www.khanacademy.org/computing/computer-programming/sql)
 - [Wikipedia: SQL](http://en.wikipedia.org/wiki/SQL)
 - [SQLzoo - Interactive SQL Tutorial](http://sqlzoo.net/wiki/Main_Page)
 - [SQL Cheatsheet](http://www.sql.su/)

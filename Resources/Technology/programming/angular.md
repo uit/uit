@@ -7,3 +7,4 @@
 - [AngularJS Cheat Sheet](https://dncmagazine.blob.core.windows.net/downloads/AngularCheatSheet-DNCMagazine.pdf)
 - [How to use Explicit Dependency Injection](https://thinkster.io/a-better-way-to-learn-angularjs/explicit-dependency-injection?utm_source=mailinglist&utm_medium=email&utm_campaign=nl-423) - Ensure that your dependency injections don't get wonky when your code is minified.
 - [Minifying your code with ng-annotate](https://thinkster.io/a-better-way-to-learn-angularjs/ng-annotate?utm_source=mailinglist&utm_medium=email&utm_campaign=nl-423) - This nifty node module will automatically add and remove AngularJS dependency injection annotations
+- [Angular 2 Fundamentals](https://egghead.io/series/angular-2-fundamentals) - Videos introducing angular 2
